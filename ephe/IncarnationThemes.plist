@@ -1,0 +1,2694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Direction (The Sphinx) (4)</string>
+		<key>conscious_earth</key>
+		<string>2</string>
+		<key>conscious_sun</key>
+		<string>1</string>
+		<key>unconscious_earth</key>
+		<string>13</string>
+		<key>unconscious_sun</key>
+		<string>7</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Creative Self-expression (4)</string>
+		<key>conscious_earth</key>
+		<string>2</string>
+		<key>conscious_sun</key>
+		<string>1</string>
+		<key>unconscious_earth</key>
+		<string>49</string>
+		<key>unconscious_sun</key>
+		<string>4</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Defiance (4)</string>
+		<key>conscious_earth</key>
+		<string>2</string>
+		<key>conscious_sun</key>
+		<string>1</string>
+		<key>unconscious_earth</key>
+		<string>49</string>
+		<key>unconscious_sun</key>
+		<string>4</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Direction (The Sphinx)  (2)</string>
+		<key>conscious_earth</key>
+		<string>1</string>
+		<key>conscious_sun</key>
+		<string>2</string>
+		<key>unconscious_earth</key>
+		<string>7</string>
+		<key>unconscious_sun</key>
+		<string>13</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of The Driver  (2)</string>
+		<key>conscious_earth</key>
+		<string>1</string>
+		<key>conscious_sun</key>
+		<string>2</string>
+		<key>unconscious_earth</key>
+		<string>4</string>
+		<key>unconscious_sun</key>
+		<string>49</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Defiance (2)</string>
+		<key>conscious_earth</key>
+		<string>1</string>
+		<key>conscious_sun</key>
+		<string>2</string>
+		<key>unconscious_earth</key>
+		<string>4</string>
+		<key>unconscious_sun</key>
+		<string>49</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of The Laws (1)</string>
+		<key>conscious_earth</key>
+		<string>50</string>
+		<key>conscious_sun</key>
+		<string>3</string>
+		<key>unconscious_earth</key>
+		<string>56</string>
+		<key>unconscious_sun</key>
+		<string>60</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Mutation/Innovation (1)</string>
+		<key>conscious_earth</key>
+		<string>50</string>
+		<key>conscious_sun</key>
+		<string>3</string>
+		<key>unconscious_earth</key>
+		<string>31</string>
+		<key>unconscious_sun</key>
+		<string>41</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Wishes (1)</string>
+		<key>conscious_earth</key>
+		<string>50</string>
+		<key>conscious_sun</key>
+		<string>3</string>
+		<key>unconscious_earth</key>
+		<string>31</string>
+		<key>unconscious_sun</key>
+		<string>41</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Explanation (3)</string>
+		<key>conscious_earth</key>
+		<string>49</string>
+		<key>conscious_sun</key>
+		<string>4</string>
+		<key>unconscious_earth</key>
+		<string>43</string>
+		<key>unconscious_sun</key>
+		<string>23</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Solutions (Formulation) (3)</string>
+		<key>conscious_earth</key>
+		<string>49</string>
+		<key>conscious_sun</key>
+		<string>4</string>
+		<key>unconscious_earth</key>
+		<string>14</string>
+		<key>unconscious_sun</key>
+		<string>8</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of The Rebel (Revolution) (3)</string>
+		<key>conscious_earth</key>
+		<string>49</string>
+		<key>conscious_sun</key>
+		<string>4</string>
+		<key>unconscious_earth</key>
+		<string>14</string>
+		<key>unconscious_sun</key>
+		<string>8</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Consciousness (4)</string>
+		<key>conscious_earth</key>
+		<string>35</string>
+		<key>conscious_sun</key>
+		<string>5</string>
+		<key>unconscious_earth</key>
+		<string>63</string>
+		<key>unconscious_sun</key>
+		<string>64</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Rituals (Habits) (4)</string>
+		<key>conscious_earth</key>
+		<string>35</string>
+		<key>conscious_sun</key>
+		<string>5</string>
+		<key>unconscious_earth</key>
+		<string>22</string>
+		<key>unconscious_sun</key>
+		<string>47</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Separation (4)</string>
+		<key>conscious_earth</key>
+		<string>35</string>
+		<key>conscious_sun</key>
+		<string>5</string>
+		<key>unconscious_earth</key>
+		<string>22</string>
+		<key>unconscious_sun</key>
+		<string>47</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of The Garden of Eden (3)</string>
+		<key>conscious_earth</key>
+		<string>36</string>
+		<key>conscious_sun</key>
+		<string>6</string>
+		<key>unconscious_earth</key>
+		<string>11</string>
+		<key>unconscious_sun</key>
+		<string>12</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Conflict Resolution (3)</string>
+		<key>conscious_earth</key>
+		<string>36</string>
+		<key>conscious_sun</key>
+		<string>6</string>
+		<key>unconscious_earth</key>
+		<string>15</string>
+		<key>unconscious_sun</key>
+		<string>10</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of The (Earth) Plane (3)</string>
+		<key>conscious_earth</key>
+		<string>36</string>
+		<key>conscious_sun</key>
+		<string>6</string>
+		<key>unconscious_earth</key>
+		<string>15</string>
+		<key>unconscious_sun</key>
+		<string>10</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Direction (The Sphinx) (3)</string>
+		<key>conscious_earth</key>
+		<string>13</string>
+		<key>conscious_sun</key>
+		<string>7</string>
+		<key>unconscious_earth</key>
+		<string>1</string>
+		<key>unconscious_sun</key>
+		<string>2</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Interaction (3)</string>
+		<key>conscious_earth</key>
+		<string>13</string>
+		<key>conscious_sun</key>
+		<string>7</string>
+		<key>unconscious_earth</key>
+		<string>43</string>
+		<key>unconscious_sun</key>
+		<string>23</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Charades  (Masks) (3)</string>
+		<key>conscious_earth</key>
+		<string>13</string>
+		<key>conscious_sun</key>
+		<string>7</string>
+		<key>unconscious_earth</key>
+		<string>43</string>
+		<key>unconscious_sun</key>
+		<string>23</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Transference (Contagion) (2)</string>
+		<key>conscious_earth</key>
+		<string>14</string>
+		<key>conscious_sun</key>
+		<string>8</string>
+		<key>unconscious_earth</key>
+		<string>29</string>
+		<key>unconscious_sun</key>
+		<string>30</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Contribution (2)</string>
+		<key>conscious_earth</key>
+		<string>14</string>
+		<key>conscious_sun</key>
+		<string>8</string>
+		<key>unconscious_earth</key>
+		<string>59</string>
+		<key>unconscious_sun</key>
+		<string>55</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Uncertainty (2)</string>
+		<key>conscious_earth</key>
+		<string>14</string>
+		<key>conscious_sun</key>
+		<string>8</string>
+		<key>unconscious_earth</key>
+		<string>59</string>
+		<key>unconscious_sun</key>
+		<string>55</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Planning (4)</string>
+		<key>conscious_earth</key>
+		<string>16</string>
+		<key>conscious_sun</key>
+		<string>9</string>
+		<key>unconscious_earth</key>
+		<string>37</string>
+		<key>unconscious_sun</key>
+		<string>40</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Focus (4)</string>
+		<key>conscious_earth</key>
+		<string>16</string>
+		<key>conscious_sun</key>
+		<string>9</string>
+		<key>unconscious_earth</key>
+		<string>63</string>
+		<key>unconscious_sun</key>
+		<string>64</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Identification (4)</string>
+		<key>conscious_earth</key>
+		<string>16</string>
+		<key>conscious_sun</key>
+		<string>9</string>
+		<key>unconscious_earth</key>
+		<string>63</string>
+		<key>unconscious_sun</key>
+		<string>64</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of The Vessel of Love (4)</string>
+		<key>conscious_earth</key>
+		<string>15</string>
+		<key>conscious_sun</key>
+		<string>10</string>
+		<key>unconscious_earth</key>
+		<string>25</string>
+		<key>unconscious_sun</key>
+		<string>46</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Opportunities (Behavior) (4)</string>
+		<key>conscious_earth</key>
+		<string>15</string>
+		<key>conscious_sun</key>
+		<string>10</string>
+		<key>unconscious_earth</key>
+		<string>17</string>
+		<key>unconscious_sun</key>
+		<string>18</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Prevention (4)</string>
+		<key>conscious_earth</key>
+		<string>15</string>
+		<key>conscious_sun</key>
+		<string>10</string>
+		<key>unconscious_earth</key>
+		<string>17</string>
+		<key>unconscious_sun</key>
+		<string>18</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of The Garden of Eden (4)</string>
+		<key>conscious_earth</key>
+		<string>12</string>
+		<key>conscious_sun</key>
+		<string>11</string>
+		<key>unconscious_earth</key>
+		<string>36</string>
+		<key>unconscious_sun</key>
+		<string>6</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Ideas (4)</string>
+		<key>conscious_earth</key>
+		<string>12</string>
+		<key>conscious_sun</key>
+		<string>11</string>
+		<key>unconscious_earth</key>
+		<string>25</string>
+		<key>unconscious_sun</key>
+		<string>46</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Education (4)</string>
+		<key>conscious_earth</key>
+		<string>12</string>
+		<key>conscious_sun</key>
+		<string>11</string>
+		<key>unconscious_earth</key>
+		<string>25</string>
+		<key>unconscious_sun</key>
+		<string>46</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of The Garden of Eden (2)</string>
+		<key>conscious_earth</key>
+		<string>11</string>
+		<key>conscious_sun</key>
+		<string>12</string>
+		<key>unconscious_earth</key>
+		<string>6</string>
+		<key>unconscious_sun</key>
+		<string>36</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Caution (Articulation) (2)</string>
+		<key>conscious_earth</key>
+		<string>11</string>
+		<key>conscious_sun</key>
+		<string>12</string>
+		<key>unconscious_earth</key>
+		<string>46</string>
+		<key>unconscious_sun</key>
+		<string>25</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Education (2)</string>
+		<key>conscious_earth</key>
+		<string>11</string>
+		<key>conscious_sun</key>
+		<string>12</string>
+		<key>unconscious_earth</key>
+		<string>46</string>
+		<key>unconscious_sun</key>
+		<string>25</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Direction (The Sphinx) (1)</string>
+		<key>conscious_earth</key>
+		<string>7</string>
+		<key>conscious_sun</key>
+		<string>13</string>
+		<key>unconscious_earth</key>
+		<string>2</string>
+		<key>unconscious_sun</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Listening (1)</string>
+		<key>conscious_earth</key>
+		<string>7</string>
+		<key>conscious_sun</key>
+		<string>13</string>
+		<key>unconscious_earth</key>
+		<string>23</string>
+		<key>unconscious_sun</key>
+		<string>43</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Charades (Masks) (1)</string>
+		<key>conscious_earth</key>
+		<string>7</string>
+		<key>conscious_sun</key>
+		<string>13</string>
+		<key>unconscious_earth</key>
+		<string>23</string>
+		<key>unconscious_sun</key>
+		<string>43</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Transference (Contagion) (4)</string>
+		<key>conscious_earth</key>
+		<string>8</string>
+		<key>conscious_sun</key>
+		<string>14</string>
+		<key>unconscious_earth</key>
+		<string>30</string>
+		<key>unconscious_sun</key>
+		<string>29</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Empowerment (4)</string>
+		<key>conscious_earth</key>
+		<string>8</string>
+		<key>conscious_sun</key>
+		<string>14</string>
+		<key>unconscious_earth</key>
+		<string>55</string>
+		<key>unconscious_sun</key>
+		<string>59</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Uncertainty (4)</string>
+		<key>conscious_earth</key>
+		<string>8</string>
+		<key>conscious_sun</key>
+		<string>14</string>
+		<key>unconscious_earth</key>
+		<string>55</string>
+		<key>unconscious_sun</key>
+		<string>59</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of the The Vessel of Love (2)</string>
+		<key>conscious_earth</key>
+		<string>10</string>
+		<key>conscious_sun</key>
+		<string>15</string>
+		<key>unconscious_earth</key>
+		<string>46</string>
+		<key>unconscious_sun</key>
+		<string>25</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string> Fixed Life Theme of Extremes (2)</string>
+		<key>conscious_earth</key>
+		<string>10</string>
+		<key>conscious_sun</key>
+		<string>15</string>
+		<key>unconscious_earth</key>
+		<string>18</string>
+		<key>unconscious_sun</key>
+		<string>17</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Prevention (2)</string>
+		<key>conscious_earth</key>
+		<string>10</string>
+		<key>conscious_sun</key>
+		<string>15</string>
+		<key>unconscious_earth</key>
+		<string>18</string>
+		<key>unconscious_sun</key>
+		<string>17</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Planning (2)</string>
+		<key>conscious_earth</key>
+		<string>9</string>
+		<key>conscious_sun</key>
+		<string>16</string>
+		<key>unconscious_earth</key>
+		<string>40</string>
+		<key>unconscious_sun</key>
+		<string>37</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Experimentation/Enthusiasm (2)</string>
+		<key>conscious_earth</key>
+		<string>9</string>
+		<key>conscious_sun</key>
+		<string>16</string>
+		<key>unconscious_earth</key>
+		<string>64</string>
+		<key>unconscious_sun</key>
+		<string>63</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Identification (2)</string>
+		<key>conscious_earth</key>
+		<string>9</string>
+		<key>conscious_sun</key>
+		<string>16</string>
+		<key>unconscious_earth</key>
+		<string>64</string>
+		<key>unconscious_sun</key>
+		<string>63</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Service (1)</string>
+		<key>conscious_earth</key>
+		<string>18</string>
+		<key>conscious_sun</key>
+		<string>17</string>
+		<key>unconscious_earth</key>
+		<string>52</string>
+		<key>unconscious_sun</key>
+		<string>58</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Opinions (1)</string>
+		<key>conscious_earth</key>
+		<string>18</string>
+		<key>conscious_sun</key>
+		<string>17</string>
+		<key>unconscious_earth</key>
+		<string>39</string>
+		<key>unconscious_sun</key>
+		<string>38</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Upheaval (1)</string>
+		<key>conscious_earth</key>
+		<string>18</string>
+		<key>conscious_sun</key>
+		<string>17</string>
+		<key>unconscious_earth</key>
+		<string>39</string>
+		<key>unconscious_sun</key>
+		<string>38</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Service (3)</string>
+		<key>conscious_earth</key>
+		<string>17</string>
+		<key>conscious_sun</key>
+		<string>18</string>
+		<key>unconscious_earth</key>
+		<string>58</string>
+		<key>unconscious_sun</key>
+		<string>52</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Correction (3)</string>
+		<key>conscious_earth</key>
+		<string>17</string>
+		<key>conscious_sun</key>
+		<string>18</string>
+		<key>unconscious_earth</key>
+		<string>38</string>
+		<key>unconscious_sun</key>
+		<string>39</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Upheaval (3)</string>
+		<key>conscious_earth</key>
+		<string>17</string>
+		<key>conscious_sun</key>
+		<string>18</string>
+		<key>unconscious_earth</key>
+		<string>38</string>
+		<key>unconscious_sun</key>
+		<string>39</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of the The Four Directions (Ways) (4)</string>
+		<key>conscious_earth</key>
+		<string>33</string>
+		<key>conscious_sun</key>
+		<string>19</string>
+		<key>unconscious_earth</key>
+		<string>24</string>
+		<key>unconscious_sun</key>
+		<string>44</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Need (4)</string>
+		<key>conscious_earth</key>
+		<string>33</string>
+		<key>conscious_sun</key>
+		<string>19</string>
+		<key>unconscious_earth</key>
+		<string>2</string>
+		<key>unconscious_sun</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Refinement (4)</string>
+		<key>conscious_earth</key>
+		<string>33</string>
+		<key>conscious_sun</key>
+		<string>19</string>
+		<key>unconscious_earth</key>
+		<string>2</string>
+		<key>unconscious_sun</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of the The Sleeping Phoenix (2)</string>
+		<key>conscious_earth</key>
+		<string>34</string>
+		<key>conscious_sun</key>
+		<string>20</string>
+		<key>unconscious_earth</key>
+		<string>59</string>
+		<key>unconscious_sun</key>
+		<string>55</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Now (2)</string>
+		<key>conscious_earth</key>
+		<string>34</string>
+		<key>conscious_sun</key>
+		<string>20</string>
+		<key>unconscious_earth</key>
+		<string>40</string>
+		<key>unconscious_sun</key>
+		<string>37</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Duality (2)</string>
+		<key>conscious_earth</key>
+		<string>34</string>
+		<key>conscious_sun</key>
+		<string>20</string>
+		<key>unconscious_earth</key>
+		<string>40</string>
+		<key>unconscious_sun</key>
+		<string>37</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Tension (1)</string>
+		<key>conscious_earth</key>
+		<string>48</string>
+		<key>conscious_sun</key>
+		<string>21</string>
+		<key>unconscious_earth</key>
+		<string>39</string>
+		<key>unconscious_sun</key>
+		<string>38</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Control (1)</string>
+		<key>conscious_earth</key>
+		<string>48</string>
+		<key>conscious_sun</key>
+		<string>21</string>
+		<key>unconscious_earth</key>
+		<string>53</string>
+		<key>unconscious_sun</key>
+		<string>54</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Endeavor (1)</string>
+		<key>conscious_earth</key>
+		<string>48</string>
+		<key>conscious_sun</key>
+		<string>21</string>
+		<key>unconscious_earth</key>
+		<string>53</string>
+		<key>unconscious_sun</key>
+		<string>54</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Rulership (1)</string>
+		<key>conscious_earth</key>
+		<string>47</string>
+		<key>conscious_sun</key>
+		<string>22</string>
+		<key>unconscious_earth</key>
+		<string>45</string>
+		<key>unconscious_sun</key>
+		<string>26</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Grace (1)</string>
+		<key>conscious_earth</key>
+		<string>47</string>
+		<key>conscious_sun</key>
+		<string>22</string>
+		<key>unconscious_earth</key>
+		<string>12</string>
+		<key>unconscious_sun</key>
+		<string>11</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Informing (1)</string>
+		<key>conscious_earth</key>
+		<string>47</string>
+		<key>conscious_sun</key>
+		<string>22</string>
+		<key>unconscious_earth</key>
+		<string>12</string>
+		<key>unconscious_sun</key>
+		<string>11</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Explanation (2)</string>
+		<key>conscious_earth</key>
+		<string>43</string>
+		<key>conscious_sun</key>
+		<string>23</string>
+		<key>unconscious_earth</key>
+		<string>4</string>
+		<key>unconscious_sun</key>
+		<string>49</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Assimilation (2)</string>
+		<key>conscious_earth</key>
+		<string>43</string>
+		<key>conscious_sun</key>
+		<string>23</string>
+		<key>unconscious_earth</key>
+		<string>29</string>
+		<key>unconscious_sun</key>
+		<string>30</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Dedication (2)</string>
+		<key>conscious_earth</key>
+		<string>43</string>
+		<key>conscious_sun</key>
+		<string>23</string>
+		<key>unconscious_earth</key>
+		<string>29</string>
+		<key>unconscious_sun</key>
+		<string>30</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of the The Four Ways (1)</string>
+		<key>conscious_earth</key>
+		<string>44</string>
+		<key>conscious_sun</key>
+		<string>24</string>
+		<key>unconscious_earth</key>
+		<string>33</string>
+		<key>unconscious_sun</key>
+		<string>19</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Rationalization (1)</string>
+		<key>conscious_earth</key>
+		<string>44</string>
+		<key>conscious_sun</key>
+		<string>24</string>
+		<key>unconscious_earth</key>
+		<string>7</string>
+		<key>unconscious_sun</key>
+		<string>13</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Incarnation (1)</string>
+		<key>conscious_earth</key>
+		<string>44</string>
+		<key>conscious_sun</key>
+		<string>24</string>
+		<key>unconscious_earth</key>
+		<string>7</string>
+		<key>unconscious_sun</key>
+		<string>13</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of The Vessel of Love (1)</string>
+		<key>conscious_earth</key>
+		<string>46</string>
+		<key>conscious_sun</key>
+		<string>25</string>
+		<key>unconscious_earth</key>
+		<string>15</string>
+		<key>unconscious_sun</key>
+		<string>10</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Innocence (1)</string>
+		<key>conscious_earth</key>
+		<string>46</string>
+		<key>conscious_sun</key>
+		<string>25</string>
+		<key>unconscious_earth</key>
+		<string>52</string>
+		<key>unconscious_sun</key>
+		<string>58</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Healing (1)</string>
+		<key>conscious_earth</key>
+		<string>46</string>
+		<key>conscious_sun</key>
+		<string>25</string>
+		<key>unconscious_earth</key>
+		<string>52</string>
+		<key>unconscious_sun</key>
+		<string>58</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Rulership (4)</string>
+		<key>conscious_earth</key>
+		<string>45</string>
+		<key>conscious_sun</key>
+		<string>26</string>
+		<key>unconscious_earth</key>
+		<string>22</string>
+		<key>unconscious_sun</key>
+		<string>47</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of the Procuring (The Trickster) (4)</string>
+		<key>conscious_earth</key>
+		<string>45</string>
+		<key>conscious_sun</key>
+		<string>26</string>
+		<key>unconscious_earth</key>
+		<string>36</string>
+		<key>unconscious_sun</key>
+		<string>6</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Confrontation (4)</string>
+		<key>conscious_earth</key>
+		<string>45</string>
+		<key>conscious_sun</key>
+		<string>26</string>
+		<key>unconscious_earth</key>
+		<string>36</string>
+		<key>unconscious_sun</key>
+		<string>6</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of The Unexpected (1)</string>
+		<key>conscious_earth</key>
+		<string>28</string>
+		<key>conscious_sun</key>
+		<string>27</string>
+		<key>unconscious_earth</key>
+		<string>31</string>
+		<key>unconscious_sun</key>
+		<string>41</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Caring (1)</string>
+		<key>conscious_earth</key>
+		<string>28</string>
+		<key>conscious_sun</key>
+		<string>27</string>
+		<key>unconscious_earth</key>
+		<string>33</string>
+		<key>unconscious_sun</key>
+		<string>19</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Alignment (1)</string>
+		<key>conscious_earth</key>
+		<string>28</string>
+		<key>conscious_sun</key>
+		<string>27</string>
+		<key>unconscious_earth</key>
+		<string>33</string>
+		<key>unconscious_sun</key>
+		<string>19</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of The Unexpected (3)</string>
+		<key>conscious_earth</key>
+		<string>27</string>
+		<key>conscious_sun</key>
+		<string>28</string>
+		<key>unconscious_earth</key>
+		<string>41</string>
+		<key>unconscious_sun</key>
+		<string>31</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Risks (3)</string>
+		<key>conscious_earth</key>
+		<string>27</string>
+		<key>conscious_sun</key>
+		<string>28</string>
+		<key>unconscious_earth</key>
+		<string>19</string>
+		<key>unconscious_sun</key>
+		<string>33</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Alignment (3)</string>
+		<key>conscious_earth</key>
+		<string>27</string>
+		<key>conscious_sun</key>
+		<string>28</string>
+		<key>unconscious_earth</key>
+		<string>19</string>
+		<key>unconscious_sun</key>
+		<string>33</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Transference (Contagion) (3)</string>
+		<key>conscious_earth</key>
+		<string>30</string>
+		<key>conscious_sun</key>
+		<string>29</string>
+		<key>unconscious_earth</key>
+		<string>14</string>
+		<key>unconscious_sun</key>
+		<string>8</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Commitment (3)</string>
+		<key>conscious_earth</key>
+		<string>30</string>
+		<key>conscious_sun</key>
+		<string>29</string>
+		<key>unconscious_earth</key>
+		<string>34</string>
+		<key>unconscious_sun</key>
+		<string>20</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Diligence (Industry) (3)</string>
+		<key>conscious_earth</key>
+		<string>30</string>
+		<key>conscious_sun</key>
+		<string>29</string>
+		<key>unconscious_earth</key>
+		<string>34</string>
+		<key>unconscious_sun</key>
+		<string>20</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Transference (Contagion) (1)</string>
+		<key>conscious_earth</key>
+		<string>29</string>
+		<key>conscious_sun</key>
+		<string>30</string>
+		<key>unconscious_earth</key>
+		<string>8</string>
+		<key>unconscious_sun</key>
+		<string>14</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Desires (Fates) (1)</string>
+		<key>conscious_earth</key>
+		<string>29</string>
+		<key>conscious_sun</key>
+		<string>30</string>
+		<key>unconscious_earth</key>
+		<string>20</string>
+		<key>unconscious_sun</key>
+		<string>34</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Industry (1)</string>
+		<key>conscious_earth</key>
+		<string>29</string>
+		<key>conscious_sun</key>
+		<string>30</string>
+		<key>unconscious_earth</key>
+		<string>20</string>
+		<key>unconscious_sun</key>
+		<string>34</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of The Unexpected (2)</string>
+		<key>conscious_earth</key>
+		<string>41</string>
+		<key>conscious_sun</key>
+		<string>31</string>
+		<key>unconscious_earth</key>
+		<string>28</string>
+		<key>unconscious_sun</key>
+		<string>27</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Influence (2)</string>
+		<key>conscious_earth</key>
+		<string>41</string>
+		<key>conscious_sun</key>
+		<string>31</string>
+		<key>unconscious_earth</key>
+		<string>44</string>
+		<key>unconscious_sun</key>
+		<string>24</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of The Alpha (2)</string>
+		<key>conscious_earth</key>
+		<string>41</string>
+		<key>conscious_sun</key>
+		<string>31</string>
+		<key>unconscious_earth</key>
+		<string>44</string>
+		<key>unconscious_sun</key>
+		<string>24</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of The Maya (3)</string>
+		<key>conscious_earth</key>
+		<string>42</string>
+		<key>conscious_sun</key>
+		<string>32</string>
+		<key>unconscious_earth</key>
+		<string>61</string>
+		<key>unconscious_sun</key>
+		<string>62</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Conservation (3)</string>
+		<key>conscious_earth</key>
+		<string>42</string>
+		<key>conscious_sun</key>
+		<string>32</string>
+		<key>unconscious_earth</key>
+		<string>60</string>
+		<key>unconscious_sun</key>
+		<string>56</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Limitation (3)</string>
+		<key>conscious_earth</key>
+		<string>42</string>
+		<key>conscious_sun</key>
+		<string>32</string>
+		<key>unconscious_earth</key>
+		<string>60</string>
+		<key>unconscious_sun</key>
+		<string>56</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of the The Four Directions (Ways) (2)</string>
+		<key>conscious_earth</key>
+		<string>19</string>
+		<key>conscious_sun</key>
+		<string>33</string>
+		<key>unconscious_earth</key>
+		<string>44</string>
+		<key>unconscious_sun</key>
+		<string>24</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Retreat (2)</string>
+		<key>conscious_earth</key>
+		<string>19</string>
+		<key>conscious_sun</key>
+		<string>33</string>
+		<key>unconscious_earth</key>
+		<string>1</string>
+		<key>unconscious_sun</key>
+		<string>2</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Refinement (2)</string>
+		<key>conscious_earth</key>
+		<string>19</string>
+		<key>conscious_sun</key>
+		<string>33</string>
+		<key>unconscious_earth</key>
+		<string>1</string>
+		<key>unconscious_sun</key>
+		<string>2</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of The Sleeping Phoenix (4)</string>
+		<key>conscious_earth</key>
+		<string>20</string>
+		<key>conscious_sun</key>
+		<string>34</string>
+		<key>unconscious_earth</key>
+		<string>55</string>
+		<key>unconscious_sun</key>
+		<string>59</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Great Activities (Power) (4)</string>
+		<key>conscious_earth</key>
+		<string>20</string>
+		<key>conscious_sun</key>
+		<string>34</string>
+		<key>unconscious_earth</key>
+		<string>37</string>
+		<key>unconscious_sun</key>
+		<string>40</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Duality (4)</string>
+		<key>conscious_earth</key>
+		<string>20</string>
+		<key>conscious_sun</key>
+		<string>34</string>
+		<key>unconscious_earth</key>
+		<string>37</string>
+		<key>unconscious_sun</key>
+		<string>40</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Consciousness (2)</string>
+		<key>conscious_earth</key>
+		<string>5</string>
+		<key>conscious_sun</key>
+		<string>35</string>
+		<key>unconscious_earth</key>
+		<string>64</string>
+		<key>unconscious_sun</key>
+		<string>63</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Progress (Experiencing) (2)</string>
+		<key>conscious_earth</key>
+		<string>5</string>
+		<key>conscious_sun</key>
+		<string>35</string>
+		<key>unconscious_earth</key>
+		<string>47</string>
+		<key>unconscious_sun</key>
+		<string>22</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Separation (2)</string>
+		<key>conscious_earth</key>
+		<string>5</string>
+		<key>conscious_sun</key>
+		<string>35</string>
+		<key>unconscious_earth</key>
+		<string>47</string>
+		<key>unconscious_sun</key>
+		<string>22</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Eden (1)</string>
+		<key>conscious_earth</key>
+		<string>6</string>
+		<key>conscious_sun</key>
+		<string>36</string>
+		<key>unconscious_earth</key>
+		<string>12</string>
+		<key>unconscious_sun</key>
+		<string>11</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Crisis Resolution (1)</string>
+		<key>conscious_earth</key>
+		<string>6</string>
+		<key>conscious_sun</key>
+		<string>36</string>
+		<key>unconscious_earth</key>
+		<string>15</string>
+		<key>unconscious_sun</key>
+		<string>10</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of The (Earth) Plane (1)</string>
+		<key>conscious_earth</key>
+		<string>6</string>
+		<key>conscious_sun</key>
+		<string>36</string>
+		<key>unconscious_earth</key>
+		<string>15</string>
+		<key>unconscious_sun</key>
+		<string>10</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Planning (1)</string>
+		<key>conscious_earth</key>
+		<string>40</string>
+		<key>conscious_sun</key>
+		<string>37</string>
+		<key>unconscious_earth</key>
+		<string>16</string>
+		<key>unconscious_sun</key>
+		<string>9</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Bargains (1)</string>
+		<key>conscious_earth</key>
+		<string>40</string>
+		<key>conscious_sun</key>
+		<string>37</string>
+		<key>unconscious_earth</key>
+		<string>35</string>
+		<key>unconscious_sun</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Migration(1)</string>
+		<key>conscious_earth</key>
+		<string>40</string>
+		<key>conscious_sun</key>
+		<string>37</string>
+		<key>unconscious_earth</key>
+		<string>35</string>
+		<key>unconscious_sun</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Tension (4)</string>
+		<key>conscious_earth</key>
+		<string>39</string>
+		<key>conscious_sun</key>
+		<string>38</string>
+		<key>unconscious_earth</key>
+		<string>21</string>
+		<key>unconscious_sun</key>
+		<string>48</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Opposition (4)</string>
+		<key>conscious_earth</key>
+		<string>39</string>
+		<key>conscious_sun</key>
+		<string>38</string>
+		<key>unconscious_earth</key>
+		<string>51</string>
+		<key>unconscious_sun</key>
+		<string>57</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Individualism (4)</string>
+		<key>conscious_earth</key>
+		<string>39</string>
+		<key>conscious_sun</key>
+		<string>38</string>
+		<key>unconscious_earth</key>
+		<string>51</string>
+		<key>unconscious_sun</key>
+		<string>57</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Tension (2)</string>
+		<key>conscious_earth</key>
+		<string>38</string>
+		<key>conscious_sun</key>
+		<string>39</string>
+		<key>unconscious_earth</key>
+		<string>48</string>
+		<key>unconscious_sun</key>
+		<string>21</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Provocation (2)</string>
+		<key>conscious_earth</key>
+		<string>38</string>
+		<key>conscious_sun</key>
+		<string>39</string>
+		<key>unconscious_earth</key>
+		<string>57</string>
+		<key>unconscious_sun</key>
+		<string>51</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Individualism (2)</string>
+		<key>conscious_earth</key>
+		<string>38</string>
+		<key>conscious_sun</key>
+		<string>39</string>
+		<key>unconscious_earth</key>
+		<string>57</string>
+		<key>unconscious_sun</key>
+		<string>51</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Planning (3)</string>
+		<key>conscious_earth</key>
+		<string>37</string>
+		<key>conscious_sun</key>
+		<string>40</string>
+		<key>unconscious_earth</key>
+		<string>5</string>
+		<key>unconscious_sun</key>
+		<string>35</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Denial (3)</string>
+		<key>conscious_earth</key>
+		<string>37</string>
+		<key>conscious_sun</key>
+		<string>40</string>
+		<key>unconscious_earth</key>
+		<string>5</string>
+		<key>unconscious_sun</key>
+		<string>35</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Migration (3)</string>
+		<key>conscious_earth</key>
+		<string>37</string>
+		<key>conscious_sun</key>
+		<string>40</string>
+		<key>unconscious_earth</key>
+		<string>5</string>
+		<key>unconscious_sun</key>
+		<string>35</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of The Unexpected (4)</string>
+		<key>conscious_earth</key>
+		<string>31</string>
+		<key>conscious_sun</key>
+		<string>41</string>
+		<key>unconscious_earth</key>
+		<string>27</string>
+		<key>unconscious_sun</key>
+		<string>28</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Fantasy (4)</string>
+		<key>conscious_earth</key>
+		<string>31</string>
+		<key>conscious_sun</key>
+		<string>41</string>
+		<key>unconscious_earth</key>
+		<string>24</string>
+		<key>unconscious_sun</key>
+		<string>44</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of The Alpha (4)</string>
+		<key>conscious_earth</key>
+		<string>31</string>
+		<key>conscious_sun</key>
+		<string>41</string>
+		<key>unconscious_earth</key>
+		<string>24</string>
+		<key>unconscious_sun</key>
+		<string>44</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of The Maya (1)</string>
+		<key>conscious_earth</key>
+		<string>32</string>
+		<key>conscious_sun</key>
+		<string>42</string>
+		<key>unconscious_earth</key>
+		<string>62</string>
+		<key>unconscious_sun</key>
+		<string>61</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Completion (1)</string>
+		<key>conscious_earth</key>
+		<string>32</string>
+		<key>conscious_sun</key>
+		<string>42</string>
+		<key>unconscious_earth</key>
+		<string>56</string>
+		<key>unconscious_sun</key>
+		<string>60</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Limitation (1)</string>
+		<key>conscious_earth</key>
+		<string>32</string>
+		<key>conscious_sun</key>
+		<string>42</string>
+		<key>unconscious_earth</key>
+		<string>56</string>
+		<key>unconscious_sun</key>
+		<string>60</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Explanation(4)</string>
+		<key>conscious_earth</key>
+		<string>23</string>
+		<key>conscious_sun</key>
+		<string>43</string>
+		<key>unconscious_earth</key>
+		<string>49</string>
+		<key>unconscious_sun</key>
+		<string>4</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Insight(4)</string>
+		<key>conscious_earth</key>
+		<string>23</string>
+		<key>conscious_sun</key>
+		<string>43</string>
+		<key>unconscious_earth</key>
+		<string>30</string>
+		<key>unconscious_sun</key>
+		<string>29</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Dedication(4)</string>
+		<key>conscious_earth</key>
+		<string>23</string>
+		<key>conscious_sun</key>
+		<string>43</string>
+		<key>unconscious_earth</key>
+		<string>30</string>
+		<key>unconscious_sun</key>
+		<string>29</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of the The Four Directions (Ways) (3)</string>
+		<key>conscious_earth</key>
+		<string>24</string>
+		<key>conscious_sun</key>
+		<string>44</string>
+		<key>unconscious_earth</key>
+		<string>19</string>
+		<key>unconscious_sun</key>
+		<string>33</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Alertness (3)</string>
+		<key>conscious_earth</key>
+		<string>24</string>
+		<key>conscious_sun</key>
+		<string>44</string>
+		<key>unconscious_earth</key>
+		<string>13</string>
+		<key>unconscious_sun</key>
+		<string>7</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Incarnation (3)</string>
+		<key>conscious_earth</key>
+		<string>24</string>
+		<key>conscious_sun</key>
+		<string>44</string>
+		<key>unconscious_earth</key>
+		<string>13</string>
+		<key>unconscious_sun</key>
+		<string>7</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Rulership (2)</string>
+		<key>conscious_earth</key>
+		<string>26</string>
+		<key>conscious_sun</key>
+		<string>45</string>
+		<key>unconscious_earth</key>
+		<string>47</string>
+		<key>unconscious_sun</key>
+		<string>22</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Possession (2)</string>
+		<key>conscious_earth</key>
+		<string>26</string>
+		<key>conscious_sun</key>
+		<string>45</string>
+		<key>unconscious_earth</key>
+		<string>6</string>
+		<key>unconscious_sun</key>
+		<string>36</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Confrontation (2)</string>
+		<key>conscious_earth</key>
+		<string>26</string>
+		<key>conscious_sun</key>
+		<string>45</string>
+		<key>unconscious_earth</key>
+		<string>6</string>
+		<key>unconscious_sun</key>
+		<string>36</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of The Vessel of Love (3)</string>
+		<key>conscious_earth</key>
+		<string>25</string>
+		<key>conscious_sun</key>
+		<string>46</string>
+		<key>unconscious_earth</key>
+		<string>15</string>
+		<key>unconscious_sun</key>
+		<string>10</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Serendipity (3)</string>
+		<key>conscious_earth</key>
+		<string>25</string>
+		<key>conscious_sun</key>
+		<string>46</string>
+		<key>unconscious_earth</key>
+		<string>58</string>
+		<key>unconscious_sun</key>
+		<string>52</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Healing (3)</string>
+		<key>conscious_earth</key>
+		<string>25</string>
+		<key>conscious_sun</key>
+		<string>46</string>
+		<key>unconscious_earth</key>
+		<string>58</string>
+		<key>unconscious_sun</key>
+		<string>52</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Rulership (3)</string>
+		<key>conscious_earth</key>
+		<string>22</string>
+		<key>conscious_sun</key>
+		<string>47</string>
+		<key>unconscious_earth</key>
+		<string>26</string>
+		<key>unconscious_sun</key>
+		<string>45</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Realizations (Oppression) (3)</string>
+		<key>conscious_earth</key>
+		<string>22</string>
+		<key>conscious_sun</key>
+		<string>47</string>
+		<key>unconscious_earth</key>
+		<string>11</string>
+		<key>unconscious_sun</key>
+		<string>12</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Informing (3)</string>
+		<key>conscious_earth</key>
+		<string>22</string>
+		<key>conscious_sun</key>
+		<string>47</string>
+		<key>unconscious_earth</key>
+		<string>11</string>
+		<key>unconscious_sun</key>
+		<string>12</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Tension (3)</string>
+		<key>conscious_earth</key>
+		<string>21</string>
+		<key>conscious_sun</key>
+		<string>48</string>
+		<key>unconscious_earth</key>
+		<string>38</string>
+		<key>unconscious_sun</key>
+		<string>39</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Freshness (Depth) (3)</string>
+		<key>conscious_earth</key>
+		<string>21</string>
+		<key>conscious_sun</key>
+		<string>48</string>
+		<key>unconscious_earth</key>
+		<string>54</string>
+		<key>unconscious_sun</key>
+		<string>53</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Endeavor (3)</string>
+		<key>conscious_earth</key>
+		<string>21</string>
+		<key>conscious_sun</key>
+		<string>48</string>
+		<key>unconscious_earth</key>
+		<string>54</string>
+		<key>unconscious_sun</key>
+		<string>53</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Explanation (1)</string>
+		<key>conscious_earth</key>
+		<string>4</string>
+		<key>conscious_sun</key>
+		<string>49</string>
+		<key>unconscious_earth</key>
+		<string>23</string>
+		<key>unconscious_sun</key>
+		<string>43</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Principles (1)</string>
+		<key>conscious_earth</key>
+		<string>4</string>
+		<key>conscious_sun</key>
+		<string>49</string>
+		<key>unconscious_earth</key>
+		<string>8</string>
+		<key>unconscious_sun</key>
+		<string>14</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of The Rebel (Revolution) (1)</string>
+		<key>conscious_earth</key>
+		<string>4</string>
+		<key>conscious_sun</key>
+		<string>49</string>
+		<key>unconscious_earth</key>
+		<string>8</string>
+		<key>unconscious_sun</key>
+		<string>14</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of The Laws (3)</string>
+		<key>conscious_earth</key>
+		<string>3</string>
+		<key>conscious_sun</key>
+		<string>50</string>
+		<key>unconscious_earth</key>
+		<string>60</string>
+		<key>unconscious_sun</key>
+		<string>56</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Values (3)</string>
+		<key>conscious_earth</key>
+		<string>3</string>
+		<key>conscious_sun</key>
+		<string>50</string>
+		<key>unconscious_earth</key>
+		<string>41</string>
+		<key>unconscious_sun</key>
+		<string>31</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Wishes (3)</string>
+		<key>conscious_earth</key>
+		<string>3</string>
+		<key>conscious_sun</key>
+		<string>50</string>
+		<key>unconscious_earth</key>
+		<string>41</string>
+		<key>unconscious_sun</key>
+		<string>31</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme   of Penetration (1)</string>
+		<key>conscious_earth</key>
+		<string>57</string>
+		<key>conscious_sun</key>
+		<string>51</string>
+		<key>unconscious_earth</key>
+		<string>53</string>
+		<key>unconscious_sun</key>
+		<string>54</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Shock (1)</string>
+		<key>conscious_earth</key>
+		<string>57</string>
+		<key>conscious_sun</key>
+		<string>51</string>
+		<key>unconscious_earth</key>
+		<string>62</string>
+		<key>unconscious_sun</key>
+		<string>61</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of The Clarion (1)</string>
+		<key>conscious_earth</key>
+		<string>57</string>
+		<key>conscious_sun</key>
+		<string>51</string>
+		<key>unconscious_earth</key>
+		<string>62</string>
+		<key>unconscious_sun</key>
+		<string>61</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Service (2)</string>
+		<key>conscious_earth</key>
+		<string>58</string>
+		<key>conscious_sun</key>
+		<string>52</string>
+		<key>unconscious_earth</key>
+		<string>18</string>
+		<key>unconscious_sun</key>
+		<string>17</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Stillness (2)</string>
+		<key>conscious_earth</key>
+		<string>58</string>
+		<key>conscious_sun</key>
+		<string>52</string>
+		<key>unconscious_earth</key>
+		<string>48</string>
+		<key>unconscious_sun</key>
+		<string>21</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Demands (2)</string>
+		<key>conscious_earth</key>
+		<string>58</string>
+		<key>conscious_sun</key>
+		<string>52</string>
+		<key>unconscious_earth</key>
+		<string>48</string>
+		<key>unconscious_sun</key>
+		<string>21</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Penetration (2)</string>
+		<key>conscious_earth</key>
+		<string>54</string>
+		<key>conscious_sun</key>
+		<string>53</string>
+		<key>unconscious_earth</key>
+		<string>57</string>
+		<key>unconscious_sun</key>
+		<string>51</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Beginnings (2)</string>
+		<key>conscious_earth</key>
+		<string>54</string>
+		<key>conscious_sun</key>
+		<string>53</string>
+		<key>unconscious_earth</key>
+		<string>32</string>
+		<key>unconscious_sun</key>
+		<string>42</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Cycles (2)</string>
+		<key>conscious_earth</key>
+		<string>54</string>
+		<key>conscious_sun</key>
+		<string>53</string>
+		<key>unconscious_earth</key>
+		<string>32</string>
+		<key>unconscious_sun</key>
+		<string>42</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Penetration (4)</string>
+		<key>conscious_earth</key>
+		<string>53</string>
+		<key>conscious_sun</key>
+		<string>54</string>
+		<key>unconscious_earth</key>
+		<string>51</string>
+		<key>unconscious_sun</key>
+		<string>57</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Ambition (4)</string>
+		<key>conscious_earth</key>
+		<string>53</string>
+		<key>conscious_sun</key>
+		<string>54</string>
+		<key>unconscious_earth</key>
+		<string>42</string>
+		<key>unconscious_sun</key>
+		<string>32</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Cycles (4)</string>
+		<key>conscious_earth</key>
+		<string>53</string>
+		<key>conscious_sun</key>
+		<string>54</string>
+		<key>unconscious_earth</key>
+		<string>42</string>
+		<key>unconscious_sun</key>
+		<string>32</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of The Sleeping Phoenix</string>
+		<key>conscious_earth</key>
+		<string>59</string>
+		<key>conscious_sun</key>
+		<string>55</string>
+		<key>unconscious_earth</key>
+		<string>20</string>
+		<key>unconscious_sun</key>
+		<string>34</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Moods</string>
+		<key>conscious_earth</key>
+		<string>59</string>
+		<key>conscious_sun</key>
+		<string>55</string>
+		<key>unconscious_earth</key>
+		<string>16</string>
+		<key>unconscious_sun</key>
+		<string>9</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Spirit </string>
+		<key>conscious_earth</key>
+		<string>59</string>
+		<key>conscious_sun</key>
+		<string>55</string>
+		<key>unconscious_earth</key>
+		<string>16</string>
+		<key>unconscious_sun</key>
+		<string>9</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Laws (2)</string>
+		<key>conscious_earth</key>
+		<string>60</string>
+		<key>conscious_sun</key>
+		<string>56</string>
+		<key>unconscious_earth</key>
+		<string>50</string>
+		<key>unconscious_sun</key>
+		<string>3</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Stimulation (Beliefs) (2)</string>
+		<key>conscious_earth</key>
+		<string>60</string>
+		<key>conscious_sun</key>
+		<string>56</string>
+		<key>unconscious_earth</key>
+		<string>28</string>
+		<key>unconscious_sun</key>
+		<string>27</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Distraction (2)</string>
+		<key>conscious_earth</key>
+		<string>60</string>
+		<key>conscious_sun</key>
+		<string>56</string>
+		<key>unconscious_earth</key>
+		<string>28</string>
+		<key>unconscious_sun</key>
+		<string>27</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Penetration (3)</string>
+		<key>conscious_earth</key>
+		<string>51</string>
+		<key>conscious_sun</key>
+		<string>57</string>
+		<key>unconscious_earth</key>
+		<string>54</string>
+		<key>unconscious_sun</key>
+		<string>53</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Intuition (3)</string>
+		<key>conscious_earth</key>
+		<string>51</string>
+		<key>conscious_sun</key>
+		<string>57</string>
+		<key>unconscious_earth</key>
+		<string>61</string>
+		<key>unconscious_sun</key>
+		<string>62</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of The Clarion (3)</string>
+		<key>conscious_earth</key>
+		<string>51</string>
+		<key>conscious_sun</key>
+		<string>57</string>
+		<key>unconscious_earth</key>
+		<string>61</string>
+		<key>unconscious_sun</key>
+		<string>62</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Service (4)</string>
+		<key>conscious_earth</key>
+		<string>52</string>
+		<key>conscious_sun</key>
+		<string>58</string>
+		<key>unconscious_earth</key>
+		<string>17</string>
+		<key>unconscious_sun</key>
+		<string>18</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Vitality (4)</string>
+		<key>conscious_earth</key>
+		<string>52</string>
+		<key>conscious_sun</key>
+		<string>58</string>
+		<key>unconscious_earth</key>
+		<string>21</string>
+		<key>unconscious_sun</key>
+		<string>48</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Demands (4)</string>
+		<key>conscious_earth</key>
+		<string>52</string>
+		<key>conscious_sun</key>
+		<string>58</string>
+		<key>unconscious_earth</key>
+		<string>21</string>
+		<key>unconscious_sun</key>
+		<string>48</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of The Sleeping Phoenix (3)</string>
+		<key>conscious_earth</key>
+		<string>55</string>
+		<key>conscious_sun</key>
+		<string>59</string>
+		<key>unconscious_earth</key>
+		<string>34</string>
+		<key>unconscious_sun</key>
+		<string>20</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Strategy (3)</string>
+		<key>conscious_earth</key>
+		<string>55</string>
+		<key>conscious_sun</key>
+		<string>59</string>
+		<key>unconscious_earth</key>
+		<string>9</string>
+		<key>unconscious_sun</key>
+		<string>16</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Spirit  (3)</string>
+		<key>conscious_earth</key>
+		<string>55</string>
+		<key>conscious_sun</key>
+		<string>59</string>
+		<key>unconscious_earth</key>
+		<string>9</string>
+		<key>unconscious_sun</key>
+		<string>16</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Laws (4)</string>
+		<key>conscious_earth</key>
+		<string>56</string>
+		<key>conscious_sun</key>
+		<string>60</string>
+		<key>unconscious_earth</key>
+		<string>3</string>
+		<key>unconscious_sun</key>
+		<string>50</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Limitation (4)</string>
+		<key>conscious_earth</key>
+		<string>56</string>
+		<key>conscious_sun</key>
+		<string>60</string>
+		<key>unconscious_earth</key>
+		<string>27</string>
+		<key>unconscious_sun</key>
+		<string>28</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Distraction (4)</string>
+		<key>conscious_earth</key>
+		<string>56</string>
+		<key>conscious_sun</key>
+		<string>60</string>
+		<key>unconscious_earth</key>
+		<string>27</string>
+		<key>unconscious_sun</key>
+		<string>28</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of The Maya (4)</string>
+		<key>conscious_earth</key>
+		<string>62</string>
+		<key>conscious_sun</key>
+		<string>61</string>
+		<key>unconscious_earth</key>
+		<string>42</string>
+		<key>unconscious_sun</key>
+		<string>32</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Truth (Thinking) (4)</string>
+		<key>conscious_earth</key>
+		<string>62</string>
+		<key>conscious_sun</key>
+		<string>61</string>
+		<key>unconscious_earth</key>
+		<string>3</string>
+		<key>unconscious_sun</key>
+		<string>50</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>4</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Obscuration (Concealing) (4)</string>
+		<key>conscious_earth</key>
+		<string>62</string>
+		<key>conscious_sun</key>
+		<string>61</string>
+		<key>unconscious_earth</key>
+		<string>3</string>
+		<key>unconscious_sun</key>
+		<string>50</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of The Maya (2)</string>
+		<key>conscious_earth</key>
+		<string>61</string>
+		<key>conscious_sun</key>
+		<string>62</string>
+		<key>unconscious_earth</key>
+		<string>32</string>
+		<key>unconscious_sun</key>
+		<string>42</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Details (2)</string>
+		<key>conscious_earth</key>
+		<string>61</string>
+		<key>conscious_sun</key>
+		<string>62</string>
+		<key>unconscious_earth</key>
+		<string>50</string>
+		<key>unconscious_sun</key>
+		<string>3</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>2</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Obscuration (Concealing) (2)</string>
+		<key>conscious_earth</key>
+		<string>61</string>
+		<key>conscious_sun</key>
+		<string>62</string>
+		<key>unconscious_earth</key>
+		<string>50</string>
+		<key>unconscious_sun</key>
+		<string>3</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Consciousness (1)</string>
+		<key>conscious_earth</key>
+		<string>64</string>
+		<key>conscious_sun</key>
+		<string>63</string>
+		<key>unconscious_earth</key>
+		<string>35</string>
+		<key>unconscious_sun</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Substantiation (Doubts) (1)</string>
+		<key>conscious_earth</key>
+		<string>64</string>
+		<key>conscious_sun</key>
+		<string>63</string>
+		<key>unconscious_earth</key>
+		<string>45</string>
+		<key>unconscious_sun</key>
+		<string>26</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>1</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Dominion (1)</string>
+		<key>conscious_earth</key>
+		<string>64</string>
+		<key>conscious_sun</key>
+		<string>63</string>
+		<key>unconscious_earth</key>
+		<string>45</string>
+		<key>unconscious_sun</key>
+		<string>26</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Personal Life Theme of Consciousness (3)</string>
+		<key>conscious_earth</key>
+		<string>63</string>
+		<key>conscious_sun</key>
+		<string>64</string>
+		<key>unconscious_earth</key>
+		<string>5</string>
+		<key>unconscious_sun</key>
+		<string>35</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Fixed Life Theme of Multiplicities (Confusion) (3)</string>
+		<key>conscious_earth</key>
+		<string>63</string>
+		<key>conscious_sun</key>
+		<string>64</string>
+		<key>unconscious_earth</key>
+		<string>26</string>
+		<key>unconscious_sun</key>
+		<string>45</string>
+	</dict>
+	<dict>
+		<key>Colour</key>
+		<string>3</string>
+		<key>Name Of Theme</key>
+		<string>Interpersonal Life Theme of Dominion (3)</string>
+		<key>conscious_earth</key>
+		<string>63</string>
+		<key>conscious_sun</key>
+		<string>64</string>
+		<key>unconscious_earth</key>
+		<string>26</string>
+		<key>unconscious_sun</key>
+		<string>45</string>
+	</dict>
+</array>
+</plist>

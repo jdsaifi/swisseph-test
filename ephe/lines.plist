@@ -1,0 +1,6918 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>_endDegree</key>
+		<real>359.1875</real>
+		<key>_startDegree</key>
+		<real>358.25</real>
+		<key>endDegree</key>
+		<string>29 A 11'15"</string>
+		<key>hexagrams</key>
+		<string>Innocence The Unsuspecting</string>
+		<key>id</key>
+		<integer>1</integer>
+		<key>lineDescription</key>
+		<string>Loving</string>
+		<key>lines</key>
+		<real>25.100000000000001</real>
+		<key>startDegree</key>
+		<string>28 A 15'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>0.125</real>
+		<key>_startDegree</key>
+		<real>359.1875</real>
+		<key>endDegree</key>
+		<string>0 B 07'30"</string>
+		<key>hexagrams</key>
+		<string>Innocence The Unsuspecting</string>
+		<key>id</key>
+		<integer>2</integer>
+		<key>lineDescription</key>
+		<string>Presence</string>
+		<key>lines</key>
+		<real>25.199999999999999</real>
+		<key>startDegree</key>
+		<string>29 A 11'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>1.0625</real>
+		<key>_startDegree</key>
+		<real>0.125</real>
+		<key>endDegree</key>
+		<string>1 B 03'45"</string>
+		<key>hexagrams</key>
+		<string>Innocence The Unsuspecting</string>
+		<key>id</key>
+		<integer>3</integer>
+		<key>lineDescription</key>
+		<string>Adjusting</string>
+		<key>lines</key>
+		<real>25.300000000000001</real>
+		<key>startDegree</key>
+		<string>0 B 07'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>2</real>
+		<key>_startDegree</key>
+		<real>1.0625</real>
+		<key>endDegree</key>
+		<string>2 B 00'00"</string>
+		<key>hexagrams</key>
+		<string>Innocence The Unsuspecting</string>
+		<key>id</key>
+		<integer>4</integer>
+		<key>lineDescription</key>
+		<string>Being Blameless</string>
+		<key>lines</key>
+		<real>25.399999999999999</real>
+		<key>startDegree</key>
+		<string>1 B 03'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>2.9375</real>
+		<key>_startDegree</key>
+		<real>2</real>
+		<key>endDegree</key>
+		<string>2 B 56'15"</string>
+		<key>hexagrams</key>
+		<string>Innocence The Unsuspecting</string>
+		<key>id</key>
+		<integer>5</integer>
+		<key>lineDescription</key>
+		<string>Healthiness</string>
+		<key>lines</key>
+		<real>25.5</real>
+		<key>startDegree</key>
+		<string>2 B 00'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>3.8750002384185791</real>
+		<key>_startDegree</key>
+		<real>2.9375</real>
+		<key>endDegree</key>
+		<string>3 B 52'30"</string>
+		<key>hexagrams</key>
+		<string>Innocence The Unsuspecting</string>
+		<key>id</key>
+		<integer>6</integer>
+		<key>lineDescription</key>
+		<string>Misunderstanding</string>
+		<key>lines</key>
+		<real>25.600000000000001</real>
+		<key>startDegree</key>
+		<string>2 B 56'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>4.8125</real>
+		<key>_startDegree</key>
+		<real>3.8750002384185791</real>
+		<key>endDegree</key>
+		<string>4 B 48'45"</string>
+		<key>hexagrams</key>
+		<string>Following : Opinions</string>
+		<key>id</key>
+		<integer>7</integer>
+		<key>lineDescription</key>
+		<string>Open-mindedness</string>
+		<key>lines</key>
+		<real>17.100000000000001</real>
+		<key>startDegree</key>
+		<string>3 B 52'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>5.75</real>
+		<key>_startDegree</key>
+		<real>4.8125</real>
+		<key>endDegree</key>
+		<string>5 B 45'00"</string>
+		<key>hexagrams</key>
+		<string>Following : Opinions</string>
+		<key>id</key>
+		<integer>8</integer>
+		<key>lineDescription</key>
+		<string>Assessing</string>
+		<key>lines</key>
+		<real>17.199999999999999</real>
+		<key>startDegree</key>
+		<string>4 B 48'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>6.6875</real>
+		<key>_startDegree</key>
+		<real>5.75</real>
+		<key>endDegree</key>
+		<string>6 B 41'15"</string>
+		<key>hexagrams</key>
+		<string>Following : Opinions</string>
+		<key>id</key>
+		<integer>9</integer>
+		<key>lineDescription</key>
+		<string>Selecting</string>
+		<key>lines</key>
+		<real>17.300000000000001</real>
+		<key>startDegree</key>
+		<string>5 B 45'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>7.625</real>
+		<key>_startDegree</key>
+		<real>6.6875</real>
+		<key>endDegree</key>
+		<string>7 B 37'30"</string>
+		<key>hexagrams</key>
+		<string>Following : Opinions</string>
+		<key>id</key>
+		<integer>10</integer>
+		<key>lineDescription</key>
+		<string>Unselfishness</string>
+		<key>lines</key>
+		<real>17.399999999999999</real>
+		<key>startDegree</key>
+		<string>6 B 41'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>8.5625</real>
+		<key>_startDegree</key>
+		<real>7.625</real>
+		<key>endDegree</key>
+		<string>8 B 33'45"</string>
+		<key>hexagrams</key>
+		<string>Following : Opinions</string>
+		<key>id</key>
+		<integer>11</integer>
+		<key>lineDescription</key>
+		<string>Interconnecting</string>
+		<key>lines</key>
+		<real>17.5</real>
+		<key>startDegree</key>
+		<string>7 B 37'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>9.5</real>
+		<key>_startDegree</key>
+		<real>8.5625</real>
+		<key>endDegree</key>
+		<string>9 B 30'00"</string>
+		<key>hexagrams</key>
+		<string>Following : Opinions</string>
+		<key>id</key>
+		<integer>12</integer>
+		<key>lineDescription</key>
+		<string>The Bodhisattva</string>
+		<key>lines</key>
+		<real>17.600000000000001</real>
+		<key>startDegree</key>
+		<string>8 B 33'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>10.4375</real>
+		<key>_startDegree</key>
+		<real>9.5</real>
+		<key>endDegree</key>
+		<string>10 B 26'15"</string>
+		<key>hexagrams</key>
+		<string>Control : The Hunter/Huntress</string>
+		<key>id</key>
+		<integer>13</integer>
+		<key>lineDescription</key>
+		<string>Being Responsible</string>
+		<key>lines</key>
+		<real>21.100000000000001</real>
+		<key>startDegree</key>
+		<string>9 B 30'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>11.375</real>
+		<key>_startDegree</key>
+		<real>10.4375</real>
+		<key>endDegree</key>
+		<string>11 B 22'30"</string>
+		<key>hexagrams</key>
+		<string>Control : The Hunter/Huntress</string>
+		<key>id</key>
+		<integer>14</integer>
+		<key>lineDescription</key>
+		<string>Courage</string>
+		<key>lines</key>
+		<real>21.199999999999999</real>
+		<key>startDegree</key>
+		<string>10 B 26'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>12.3125</real>
+		<key>_startDegree</key>
+		<real>11.375</real>
+		<key>endDegree</key>
+		<string>12 B 18'45"</string>
+		<key>hexagrams</key>
+		<string>Control : The Hunter/Huntress</string>
+		<key>id</key>
+		<integer>15</integer>
+		<key>lineDescription</key>
+		<string>Hesitating</string>
+		<key>lines</key>
+		<real>21.300000000000001</real>
+		<key>startDegree</key>
+		<string>11 B 22'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>13.25</real>
+		<key>_startDegree</key>
+		<real>12.3125</real>
+		<key>endDegree</key>
+		<string>13 B 15'00"</string>
+		<key>hexagrams</key>
+		<string>Control : The Hunter/Huntress</string>
+		<key>id</key>
+		<integer>16</integer>
+		<key>lineDescription</key>
+		<string>Bitting the Bullet</string>
+		<key>lines</key>
+		<real>21.399999999999999</real>
+		<key>startDegree</key>
+		<string>12 B 18'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>14.1875</real>
+		<key>_startDegree</key>
+		<real>13.25</real>
+		<key>endDegree</key>
+		<string>14 B 11'15"</string>
+		<key>hexagrams</key>
+		<string>Control : The Hunter/Huntress</string>
+		<key>id</key>
+		<integer>17</integer>
+		<key>lineDescription</key>
+		<string>Being Gallant</string>
+		<key>lines</key>
+		<real>21.5</real>
+		<key>startDegree</key>
+		<string>13 B 15'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>15.125</real>
+		<key>_startDegree</key>
+		<real>14.1875</real>
+		<key>endDegree</key>
+		<string>15 B 07'30"</string>
+		<key>hexagrams</key>
+		<string>Control : The Hunter/Huntress</string>
+		<key>id</key>
+		<integer>18</integer>
+		<key>lineDescription</key>
+		<string>Amending</string>
+		<key>lines</key>
+		<real>21.600000000000001</real>
+		<key>startDegree</key>
+		<string>14 B 11'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>16.0625</real>
+		<key>_startDegree</key>
+		<real>15.125</real>
+		<key>endDegree</key>
+		<string>16 B 03'45"</string>
+		<key>hexagrams</key>
+		<string>Arousing : Shock</string>
+		<key>id</key>
+		<integer>19</integer>
+		<key>lineDescription</key>
+		<string>Arousing</string>
+		<key>lines</key>
+		<real>51.100000000000001</real>
+		<key>startDegree</key>
+		<string>15 B 07'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>17</real>
+		<key>_startDegree</key>
+		<real>16.0625</real>
+		<key>endDegree</key>
+		<string>17 B 00'00"</string>
+		<key>hexagrams</key>
+		<string>Arousing : Shock</string>
+		<key>id</key>
+		<integer>20</integer>
+		<key>lineDescription</key>
+		<string>Surviving</string>
+		<key>lines</key>
+		<real>51.200000000000003</real>
+		<key>startDegree</key>
+		<string>16 B 03'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>17.9375</real>
+		<key>_startDegree</key>
+		<real>17</real>
+		<key>endDegree</key>
+		<string>17 B 56'15"</string>
+		<key>hexagrams</key>
+		<string>Arousing : Shock</string>
+		<key>id</key>
+		<integer>21</integer>
+		<key>lineDescription</key>
+		<string>Being Composed</string>
+		<key>lines</key>
+		<real>51.299999999999997</real>
+		<key>startDegree</key>
+		<string>17 B 00'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>18.875</real>
+		<key>_startDegree</key>
+		<real>17.9375</real>
+		<key>endDegree</key>
+		<string>18 B 52'30"</string>
+		<key>hexagrams</key>
+		<string>Arousing : Shock</string>
+		<key>id</key>
+		<integer>22</integer>
+		<key>lineDescription</key>
+		<string>Being Unstructured</string>
+		<key>lines</key>
+		<real>51.399999999999999</real>
+		<key>startDegree</key>
+		<string>17 B 56'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>19.8125</real>
+		<key>_startDegree</key>
+		<real>18.875</real>
+		<key>endDegree</key>
+		<string>19 B 48'45"</string>
+		<key>hexagrams</key>
+		<string>Arousing : Shock</string>
+		<key>id</key>
+		<integer>23</integer>
+		<key>lineDescription</key>
+		<string>Being Reliable</string>
+		<key>lines</key>
+		<real>51.5</real>
+		<key>startDegree</key>
+		<string>18 B 52'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>20.75</real>
+		<key>_startDegree</key>
+		<real>19.8125</real>
+		<key>endDegree</key>
+		<string>20 B 45'00"</string>
+		<key>hexagrams</key>
+		<string>Arousing : Shock</string>
+		<key>id</key>
+		<integer>24</integer>
+		<key>lineDescription</key>
+		<string>Regenerating</string>
+		<key>lines</key>
+		<real>51.600000000000001</real>
+		<key>startDegree</key>
+		<string>19 B 48'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>21.6875</real>
+		<key>_startDegree</key>
+		<real>20.75</real>
+		<key>endDegree</key>
+		<string>21 B 41'15"</string>
+		<key>hexagrams</key>
+		<string>Increase : Benefiting</string>
+		<key>id</key>
+		<integer>25</integer>
+		<key>lineDescription</key>
+		<string>Accomplishment</string>
+		<key>lines</key>
+		<real>42.100000000000001</real>
+		<key>startDegree</key>
+		<string>20 B 45'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>22.625</real>
+		<key>_startDegree</key>
+		<real>21.6875</real>
+		<key>endDegree</key>
+		<string>22 B 37'30"</string>
+		<key>hexagrams</key>
+		<string>Increase : Benefiting</string>
+		<key>id</key>
+		<integer>26</integer>
+		<key>lineDescription</key>
+		<string>Blessings</string>
+		<key>lines</key>
+		<real>42.200000000000003</real>
+		<key>startDegree</key>
+		<string>21 B 41'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>23.5625</real>
+		<key>_startDegree</key>
+		<real>22.625</real>
+		<key>endDegree</key>
+		<string>23 B 33'45"</string>
+		<key>hexagrams</key>
+		<string>Increase : Benefiting</string>
+		<key>id</key>
+		<integer>27</integer>
+		<key>lineDescription</key>
+		<string>Competence</string>
+		<key>lines</key>
+		<real>42.299999999999997</real>
+		<key>startDegree</key>
+		<string>22 B 37'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>24.5</real>
+		<key>_startDegree</key>
+		<real>23.5625</real>
+		<key>endDegree</key>
+		<string>24 B 30'00"</string>
+		<key>hexagrams</key>
+		<string>Increase : Benefiting</string>
+		<key>id</key>
+		<integer>28</integer>
+		<key>lineDescription</key>
+		<string>Trustworthiness</string>
+		<key>lines</key>
+		<real>42.399999999999999</real>
+		<key>startDegree</key>
+		<string>23 B 33'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>25.4375</real>
+		<key>_startDegree</key>
+		<real>24.5</real>
+		<key>endDegree</key>
+		<string>25 B 26'15"</string>
+		<key>hexagrams</key>
+		<string>Increase : Benefiting</string>
+		<key>id</key>
+		<integer>29</integer>
+		<key>lineDescription</key>
+		<string>Kindheartedness</string>
+		<key>lines</key>
+		<real>42.5</real>
+		<key>startDegree</key>
+		<string>24 B 30'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>26.375</real>
+		<key>_startDegree</key>
+		<real>25.4375</real>
+		<key>endDegree</key>
+		<string>26 B 22'30"</string>
+		<key>hexagrams</key>
+		<string>Increase : Benefiting</string>
+		<key>id</key>
+		<integer>30</integer>
+		<key>lineDescription</key>
+		<string>Balancing</string>
+		<key>lines</key>
+		<real>42.600000000000001</real>
+		<key>startDegree</key>
+		<string>25 B 26'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>27.3125</real>
+		<key>_startDegree</key>
+		<real>26.375</real>
+		<key>endDegree</key>
+		<string>27 B 18'45"</string>
+		<key>hexagrams</key>
+		<string>Beginning Implementing the New</string>
+		<key>id</key>
+		<integer>31</integer>
+		<key>lineDescription</key>
+		<string>Commitment</string>
+		<key>lines</key>
+		<real>3.1000000000000001</real>
+		<key>startDegree</key>
+		<string>26 B 22'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>28.25</real>
+		<key>_startDegree</key>
+		<real>27.3125</real>
+		<key>endDegree</key>
+		<string>28 B 15'00"</string>
+		<key>hexagrams</key>
+		<string>Beginning Implementing the New</string>
+		<key>id</key>
+		<integer>32</integer>
+		<key>lineDescription</key>
+		<string>Maturing</string>
+		<key>lines</key>
+		<real>3.2000000000000002</real>
+		<key>startDegree</key>
+		<string>27 B 18'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>29.1875</real>
+		<key>_startDegree</key>
+		<real>28.25</real>
+		<key>endDegree</key>
+		<string>29 B 11'15"</string>
+		<key>hexagrams</key>
+		<string>Beginning Implementing the New</string>
+		<key>id</key>
+		<integer>33</integer>
+		<key>lineDescription</key>
+		<string>Caution</string>
+		<key>lines</key>
+		<real>3.2999999999999998</real>
+		<key>startDegree</key>
+		<string>28 B 15'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>30.125</real>
+		<key>_startDegree</key>
+		<real>29.1875</real>
+		<key>endDegree</key>
+		<string>00 C 07'30"</string>
+		<key>hexagrams</key>
+		<string>Beginning Implementing the New</string>
+		<key>id</key>
+		<integer>34</integer>
+		<key>lineDescription</key>
+		<string>Association</string>
+		<key>lines</key>
+		<real>3.3999999999999999</real>
+		<key>startDegree</key>
+		<string>29 B 11'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>31.0625</real>
+		<key>_startDegree</key>
+		<real>30.125</real>
+		<key>endDegree</key>
+		<string>1 C 03'45"</string>
+		<key>hexagrams</key>
+		<string>Beginning Implementing the New</string>
+		<key>id</key>
+		<integer>35</integer>
+		<key>lineDescription</key>
+		<string>Interpreting</string>
+		<key>lines</key>
+		<real>3.5</real>
+		<key>startDegree</key>
+		<string>00 C 07'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>32</real>
+		<key>_startDegree</key>
+		<real>31.0625</real>
+		<key>endDegree</key>
+		<string>2 C 00'00"</string>
+		<key>hexagrams</key>
+		<string>Beginning Implementing the New</string>
+		<key>id</key>
+		<integer>36</integer>
+		<key>lineDescription</key>
+		<string>Restraint</string>
+		<key>lines</key>
+		<real>3.6000000000000001</real>
+		<key>startDegree</key>
+		<string>1 C 03'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>32.9375</real>
+		<key>_startDegree</key>
+		<real>32</real>
+		<key>endDegree</key>
+		<string>2 C 56'15"</string>
+		<key>hexagrams</key>
+		<string>Nourishing : Nurturing</string>
+		<key>id</key>
+		<integer>37</integer>
+		<key>lineDescription</key>
+		<string>Nurturing Yourself</string>
+		<key>lines</key>
+		<real>27.100000000000001</real>
+		<key>startDegree</key>
+		<string>2 C 00'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>33.875</real>
+		<key>_startDegree</key>
+		<real>32.9375</real>
+		<key>endDegree</key>
+		<string>3 C 52'30"</string>
+		<key>hexagrams</key>
+		<string>Nourishing : Nurturing</string>
+		<key>id</key>
+		<integer>38</integer>
+		<key>lineDescription</key>
+		<string>Accountability</string>
+		<key>lines</key>
+		<real>27.199999999999999</real>
+		<key>startDegree</key>
+		<string>2 C 56'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>34.8125</real>
+		<key>_startDegree</key>
+		<real>33.875</real>
+		<key>endDegree</key>
+		<string>4 C 48'45"</string>
+		<key>hexagrams</key>
+		<string>Nourishing : Nurturing</string>
+		<key>id</key>
+		<integer>39</integer>
+		<key>lineDescription</key>
+		<string>Resources</string>
+		<key>lines</key>
+		<real>27.300000000000001</real>
+		<key>startDegree</key>
+		<string>3 C 52'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>35.75</real>
+		<key>_startDegree</key>
+		<real>34.8125</real>
+		<key>endDegree</key>
+		<string>5 C 45'00"</string>
+		<key>hexagrams</key>
+		<string>Nourishing : Nurturing</string>
+		<key>id</key>
+		<integer>40</integer>
+		<key>lineDescription</key>
+		<string>Bounteousness</string>
+		<key>lines</key>
+		<real>27.399999999999999</real>
+		<key>startDegree</key>
+		<string>4 C 48'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>36.6875</real>
+		<key>_startDegree</key>
+		<real>35.75</real>
+		<key>endDegree</key>
+		<string>6 C 41'15"</string>
+		<key>hexagrams</key>
+		<string>Nourishing: Nurturing</string>
+		<key>id</key>
+		<integer>41</integer>
+		<key>lineDescription</key>
+		<string>Disbursing</string>
+		<key>lines</key>
+		<real>27.5</real>
+		<key>startDegree</key>
+		<string>5 C 45'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>37.625</real>
+		<key>_startDegree</key>
+		<real>36.6875</real>
+		<key>endDegree</key>
+		<string>7 C 37'30"</string>
+		<key>hexagrams</key>
+		<string>Nourishing: Nurturing</string>
+		<key>id</key>
+		<integer>42</integer>
+		<key>lineDescription</key>
+		<string>Guardianship</string>
+		<key>lines</key>
+		<real>27.600000000000001</real>
+		<key>startDegree</key>
+		<string>6 C 41'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>38.5625</real>
+		<key>_startDegree</key>
+		<real>37.625</real>
+		<key>endDegree</key>
+		<string>8 C 33'45"</string>
+		<key>hexagrams</key>
+		<string>Returning : Rationalizing</string>
+		<key>id</key>
+		<integer>43</integer>
+		<key>lineDescription</key>
+		<string>Principles</string>
+		<key>lines</key>
+		<real>24.100000000000001</real>
+		<key>startDegree</key>
+		<string>7 C 37'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>39.5</real>
+		<key>_startDegree</key>
+		<real>38.5625</real>
+		<key>endDegree</key>
+		<string>9 C 30'00"</string>
+		<key>hexagrams</key>
+		<string>Returning : Rationalizing</string>
+		<key>id</key>
+		<integer>44</integer>
+		<key>lineDescription</key>
+		<string>Renewal</string>
+		<key>lines</key>
+		<real>24.199999999999999</real>
+		<key>startDegree</key>
+		<string>8 C 33'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>40.4375</real>
+		<key>_startDegree</key>
+		<real>39.5</real>
+		<key>endDegree</key>
+		<string>10 C 26'15"</string>
+		<key>hexagrams</key>
+		<string>Returning : Rationalizing</string>
+		<key>id</key>
+		<integer>45</integer>
+		<key>lineDescription</key>
+		<string>Indecision</string>
+		<key>lines</key>
+		<real>24.300000000000001</real>
+		<key>startDegree</key>
+		<string>9 C 30'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>41.375</real>
+		<key>_startDegree</key>
+		<real>40.4375</real>
+		<key>endDegree</key>
+		<string>11 C 22'30"</string>
+		<key>hexagrams</key>
+		<string>Returning : Rationalizing</string>
+		<key>id</key>
+		<integer>46</integer>
+		<key>lineDescription</key>
+		<string>Attention</string>
+		<key>lines</key>
+		<real>24.399999999999999</real>
+		<key>startDegree</key>
+		<string>10 C 26'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>42.3125</real>
+		<key>_startDegree</key>
+		<real>41.375</real>
+		<key>endDegree</key>
+		<string>12 C 18'45"</string>
+		<key>hexagrams</key>
+		<string>Returning : Rationalizing</string>
+		<key>id</key>
+		<integer>47</integer>
+		<key>lineDescription</key>
+		<string>Returning</string>
+		<key>lines</key>
+		<real>24.5</real>
+		<key>startDegree</key>
+		<string>11 C 22'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>43.25</real>
+		<key>_startDegree</key>
+		<real>42.3125</real>
+		<key>endDegree</key>
+		<string>13 C 15'00"</string>
+		<key>hexagrams</key>
+		<string>Returning : Rationalizing</string>
+		<key>id</key>
+		<integer>48</integer>
+		<key>lineDescription</key>
+		<string>Relenting</string>
+		<key>lines</key>
+		<real>24.600000000000001</real>
+		<key>startDegree</key>
+		<string>12 C 18'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>44.1875</real>
+		<key>_startDegree</key>
+		<real>43.25</real>
+		<key>endDegree</key>
+		<string>14 C 11'15"</string>
+		<key>hexagrams</key>
+		<string>Receptivity : Guidance</string>
+		<key>id</key>
+		<integer>49</integer>
+		<key>lineDescription</key>
+		<string>Crystal Vision</string>
+		<key>lines</key>
+		<real>2.1000000000000001</real>
+		<key>startDegree</key>
+		<string>13 C 15'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>45.125</real>
+		<key>_startDegree</key>
+		<real>44.1875</real>
+		<key>endDegree</key>
+		<string>15 C 07'30"</string>
+		<key>hexagrams</key>
+		<string>Receptivity : Guidance</string>
+		<key>id</key>
+		<integer>50</integer>
+		<key>lineDescription</key>
+		<string>Gifted</string>
+		<key>lines</key>
+		<real>2.2000000000000002</real>
+		<key>startDegree</key>
+		<string>14 C 11'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>46.0625</real>
+		<key>_startDegree</key>
+		<real>45.125</real>
+		<key>endDegree</key>
+		<string>16 C 03'45"</string>
+		<key>hexagrams</key>
+		<string>Receptivity : Guidance</string>
+		<key>id</key>
+		<integer>51</integer>
+		<key>lineDescription</key>
+		<string>Patient Knowing</string>
+		<key>lines</key>
+		<real>2.2999999999999998</real>
+		<key>startDegree</key>
+		<string>15 C 07'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>47</real>
+		<key>_startDegree</key>
+		<real>46.0625</real>
+		<key>endDegree</key>
+		<string>17 C 00'00"</string>
+		<key>hexagrams</key>
+		<string>Receptivity : Guidance</string>
+		<key>id</key>
+		<integer>52</integer>
+		<key>lineDescription</key>
+		<string>Concealment</string>
+		<key>lines</key>
+		<real>2.3999999999999999</real>
+		<key>startDegree</key>
+		<string>16 C 03'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>47.9375</real>
+		<key>_startDegree</key>
+		<real>47</real>
+		<key>endDegree</key>
+		<string>17 C 56'15"</string>
+		<key>hexagrams</key>
+		<string>Receptivity : Guidance</string>
+		<key>id</key>
+		<integer>53</integer>
+		<key>lineDescription</key>
+		<string>Strategy</string>
+		<key>lines</key>
+		<real>2.5</real>
+		<key>startDegree</key>
+		<string>17 C 00'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>48.875</real>
+		<key>_startDegree</key>
+		<real>47.9375</real>
+		<key>endDegree</key>
+		<string>18 C 52'30"</string>
+		<key>hexagrams</key>
+		<string>Receptivity : Guidance</string>
+		<key>id</key>
+		<integer>54</integer>
+		<key>lineDescription</key>
+		<string>Preoccupation</string>
+		<key>lines</key>
+		<real>2.6000000000000001</real>
+		<key>startDegree</key>
+		<string>17 C 56'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>49.8125</real>
+		<key>_startDegree</key>
+		<real>48.875</real>
+		<key>endDegree</key>
+		<string>19 C 48'45"</string>
+		<key>hexagrams</key>
+		<string>Assimilation : Stabilizing</string>
+		<key>id</key>
+		<integer>55</integer>
+		<key>lineDescription</key>
+		<string>Validity</string>
+		<key>lines</key>
+		<real>23.100000000000001</real>
+		<key>startDegree</key>
+		<string>18 C 52'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>50.75</real>
+		<key>_startDegree</key>
+		<real>49.8125</real>
+		<key>endDegree</key>
+		<string>20 C 45'00"</string>
+		<key>hexagrams</key>
+		<string>Assimilation : Stabilizing</string>
+		<key>id</key>
+		<integer>56</integer>
+		<key>lineDescription</key>
+		<string>Tolerance</string>
+		<key>lines</key>
+		<real>23.199999999999999</real>
+		<key>startDegree</key>
+		<string>19 C 48'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>51.6875</real>
+		<key>_startDegree</key>
+		<real>50.75</real>
+		<key>endDegree</key>
+		<string>21 C 41'15"</string>
+		<key>hexagrams</key>
+		<string>Assimilation : Stabilizing</string>
+		<key>id</key>
+		<integer>57</integer>
+		<key>lineDescription</key>
+		<string>Uniqueness</string>
+		<key>lines</key>
+		<real>23.300000000000001</real>
+		<key>startDegree</key>
+		<string>20 C 45'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>52.625</real>
+		<key>_startDegree</key>
+		<real>51.6875</real>
+		<key>endDegree</key>
+		<string>22 C 37'30"</string>
+		<key>hexagrams</key>
+		<string>Assimilation : Stabilizing</string>
+		<key>id</key>
+		<integer>58</integer>
+		<key>lineDescription</key>
+		<string>Diversity</string>
+		<key>lines</key>
+		<real>23.399999999999999</real>
+		<key>startDegree</key>
+		<string>21 C 41'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>53.5625</real>
+		<key>_startDegree</key>
+		<real>52.625</real>
+		<key>endDegree</key>
+		<string>23 C 33'45"</string>
+		<key>hexagrams</key>
+		<string>Assimilation : Stabilizing</string>
+		<key>id</key>
+		<integer>59</integer>
+		<key>lineDescription</key>
+		<string>Acceptance</string>
+		<key>lines</key>
+		<real>23.5</real>
+		<key>startDegree</key>
+		<string>22 C 37'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>54.5</real>
+		<key>_startDegree</key>
+		<real>53.5625</real>
+		<key>endDegree</key>
+		<string>24 C 30'00"</string>
+		<key>hexagrams</key>
+		<string>Assimilation : Stabilizing</string>
+		<key>id</key>
+		<integer>60</integer>
+		<key>lineDescription</key>
+		<string>Synthesis</string>
+		<key>lines</key>
+		<real>23.600000000000001</real>
+		<key>startDegree</key>
+		<string>23 C 33'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>55.4375</real>
+		<key>_startDegree</key>
+		<real>54.5</real>
+		<key>endDegree</key>
+		<string>25 C 26'15"</string>
+		<key>hexagrams</key>
+		<string>Contribution : Uniting</string>
+		<key>id</key>
+		<integer>61</integer>
+		<key>lineDescription</key>
+		<string>Sincerity</string>
+		<key>lines</key>
+		<real>8.0999999999999996</real>
+		<key>startDegree</key>
+		<string>24 C 30'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>56.375</real>
+		<key>_startDegree</key>
+		<real>55.4375</real>
+		<key>endDegree</key>
+		<string>26 C 22'30"</string>
+		<key>hexagrams</key>
+		<string>Contribution : Uniting</string>
+		<key>id</key>
+		<integer>62</integer>
+		<key>lineDescription</key>
+		<string>Friendliness</string>
+		<key>lines</key>
+		<real>8.1999999999999993</real>
+		<key>startDegree</key>
+		<string>25 C 26'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>57.3125</real>
+		<key>_startDegree</key>
+		<real>56.375</real>
+		<key>endDegree</key>
+		<string>27 C 18'45"</string>
+		<key>hexagrams</key>
+		<string>Contribution : Uniting</string>
+		<key>id</key>
+		<integer>63</integer>
+		<key>lineDescription</key>
+		<string>Indulgence</string>
+		<key>lines</key>
+		<real>8.3000000000000007</real>
+		<key>startDegree</key>
+		<string>26 C 22'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>58.25</real>
+		<key>_startDegree</key>
+		<real>57.3125</real>
+		<key>endDegree</key>
+		<string>28 C 15'00"</string>
+		<key>hexagrams</key>
+		<string>Contribution : Uniting</string>
+		<key>id</key>
+		<integer>64</integer>
+		<key>lineDescription</key>
+		<string>The Statesman/woman</string>
+		<key>lines</key>
+		<real>8.4000000000000004</real>
+		<key>startDegree</key>
+		<string>27 C 18'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>59.1875</real>
+		<key>_startDegree</key>
+		<real>58.25</real>
+		<key>endDegree</key>
+		<string>29 C 11'15"</string>
+		<key>hexagrams</key>
+		<string>Contribution : Uniting</string>
+		<key>id</key>
+		<integer>65</integer>
+		<key>lineDescription</key>
+		<string>Benevolence</string>
+		<key>lines</key>
+		<real>8.5</real>
+		<key>startDegree</key>
+		<string>28 C 15'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>60.125</real>
+		<key>_startDegree</key>
+		<real>59.1875</real>
+		<key>endDegree</key>
+		<string>00 D 07'30"</string>
+		<key>hexagrams</key>
+		<string>Contribution : Uniting</string>
+		<key>id</key>
+		<integer>66</integer>
+		<key>lineDescription</key>
+		<string>Reassessment</string>
+		<key>lines</key>
+		<real>8.5999999999999996</real>
+		<key>startDegree</key>
+		<string>29 C 11'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>61.0625</real>
+		<key>_startDegree</key>
+		<real>60.125</real>
+		<key>endDegree</key>
+		<string>1 D 03'45"</string>
+		<key>hexagrams</key>
+		<string>The Now : Contemplation</string>
+		<key>id</key>
+		<integer>67</integer>
+		<key>lineDescription</key>
+		<string>Simplicity</string>
+		<key>lines</key>
+		<real>20.100000000000001</real>
+		<key>startDegree</key>
+		<string>00 D 07'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>62</real>
+		<key>_startDegree</key>
+		<real>61.0625</real>
+		<key>endDegree</key>
+		<string>2 D 00'00"</string>
+		<key>hexagrams</key>
+		<string>The Now : Contemplation</string>
+		<key>id</key>
+		<integer>68</integer>
+		<key>lineDescription</key>
+		<string>Viewpoint</string>
+		<key>lines</key>
+		<real>20.199999999999999</real>
+		<key>startDegree</key>
+		<string>1 D 03'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>62.9375</real>
+		<key>_startDegree</key>
+		<real>62</real>
+		<key>endDegree</key>
+		<string>2 D 56'15"</string>
+		<key>hexagrams</key>
+		<string>The Now : Contemplation</string>
+		<key>id</key>
+		<integer>69</integer>
+		<key>lineDescription</key>
+		<string>Objectivity</string>
+		<key>lines</key>
+		<real>20.300000000000001</real>
+		<key>startDegree</key>
+		<string>2 D 00'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>63.875</real>
+		<key>_startDegree</key>
+		<real>62.9375</real>
+		<key>endDegree</key>
+		<string>3 D 52'30"</string>
+		<key>hexagrams</key>
+		<string>The Now : Contemplation</string>
+		<key>id</key>
+		<integer>70</integer>
+		<key>lineDescription</key>
+		<string>Observations</string>
+		<key>lines</key>
+		<real>20.399999999999999</real>
+		<key>startDegree</key>
+		<string>2 D 56'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>64.8125</real>
+		<key>_startDegree</key>
+		<real>63.875</real>
+		<key>endDegree</key>
+		<string>4 D 48'45"</string>
+		<key>hexagrams</key>
+		<string>The Now : Contemplation</string>
+		<key>id</key>
+		<integer>71</integer>
+		<key>lineDescription</key>
+		<string>Meditation</string>
+		<key>lines</key>
+		<real>20.5</real>
+		<key>startDegree</key>
+		<string>3 D 52'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>65.75</real>
+		<key>_startDegree</key>
+		<real>64.8125</real>
+		<key>endDegree</key>
+		<string>5 D 45'00"</string>
+		<key>hexagrams</key>
+		<string>The Now : Contemplation</string>
+		<key>id</key>
+		<integer>72</integer>
+		<key>lineDescription</key>
+		<string>Perception</string>
+		<key>lines</key>
+		<real>20.600000000000001</real>
+		<key>startDegree</key>
+		<string>4 D 48'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>66.6875</real>
+		<key>_startDegree</key>
+		<real>65.75</real>
+		<key>endDegree</key>
+		<string>6 D 41'15"</string>
+		<key>hexagrams</key>
+		<string>Selectivity : Enthusiam and Skills</string>
+		<key>id</key>
+		<integer>73</integer>
+		<key>lineDescription</key>
+		<string>Presumption</string>
+		<key>lines</key>
+		<real>16.100000000000001</real>
+		<key>startDegree</key>
+		<string>5 D 45'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>67.625</real>
+		<key>_startDegree</key>
+		<real>66.6875</real>
+		<key>endDegree</key>
+		<string>7 D 37'30"</string>
+		<key>hexagrams</key>
+		<string>Selectivity : Enthusiam and Skills</string>
+		<key>id</key>
+		<integer>74</integer>
+		<key>lineDescription</key>
+		<string>The Critic</string>
+		<key>lines</key>
+		<real>16.199999999999999</real>
+		<key>startDegree</key>
+		<string>6 D 41'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>68.5625</real>
+		<key>_startDegree</key>
+		<real>67.625</real>
+		<key>endDegree</key>
+		<string>8 D 33'45"</string>
+		<key>hexagrams</key>
+		<string>Selectivity : Enthusiam and Skills</string>
+		<key>id</key>
+		<integer>75</integer>
+		<key>lineDescription</key>
+		<string>Reforming</string>
+		<key>lines</key>
+		<real>16.300000000000001</real>
+		<key>startDegree</key>
+		<string>7 D 37'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>69.5</real>
+		<key>_startDegree</key>
+		<real>68.5625</real>
+		<key>endDegree</key>
+		<string>9 D 30'00"</string>
+		<key>hexagrams</key>
+		<string>Selectivity : Enthusiam and Skills</string>
+		<key>id</key>
+		<integer>76</integer>
+		<key>lineDescription</key>
+		<string>Guiding</string>
+		<key>lines</key>
+		<real>16.399999999999999</real>
+		<key>startDegree</key>
+		<string>8 D 33'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>70.4375</real>
+		<key>_startDegree</key>
+		<real>69.5</real>
+		<key>endDegree</key>
+		<string>10 D 26'15"</string>
+		<key>hexagrams</key>
+		<string>Selectivity : Enthusiam and Skills</string>
+		<key>id</key>
+		<integer>77</integer>
+		<key>lineDescription</key>
+		<string>Resistance</string>
+		<key>lines</key>
+		<real>16.5</real>
+		<key>startDegree</key>
+		<string>9 D 30'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>71.375</real>
+		<key>_startDegree</key>
+		<real>70.4375</real>
+		<key>endDegree</key>
+		<string>11 D 22'30"</string>
+		<key>hexagrams</key>
+		<string>Selectivity : Enthusiam and Skills</string>
+		<key>id</key>
+		<integer>78</integer>
+		<key>lineDescription</key>
+		<string>Reassessment</string>
+		<key>lines</key>
+		<real>16.600000000000001</real>
+		<key>startDegree</key>
+		<string>10 D 26'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>72.3125</real>
+		<key>_startDegree</key>
+		<real>71.375</real>
+		<key>endDegree</key>
+		<string>12 D 18'45"</string>
+		<key>hexagrams</key>
+		<string>Progress : Advancing</string>
+		<key>id</key>
+		<integer>79</integer>
+		<key>lineDescription</key>
+		<string>Steadiness</string>
+		<key>lines</key>
+		<real>35.100000000000001</real>
+		<key>startDegree</key>
+		<string>11 D 22'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>73.25</real>
+		<key>_startDegree</key>
+		<real>72.3125</real>
+		<key>endDegree</key>
+		<string>13 D 15'00"</string>
+		<key>hexagrams</key>
+		<string>Progress : Advancing</string>
+		<key>id</key>
+		<integer>80</integer>
+		<key>lineDescription</key>
+		<string>Slow Gains</string>
+		<key>lines</key>
+		<real>35.200000000000003</real>
+		<key>startDegree</key>
+		<string>12 D 18'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>74.1875</real>
+		<key>_startDegree</key>
+		<real>73.25</real>
+		<key>endDegree</key>
+		<string>14 D 11'15"</string>
+		<key>hexagrams</key>
+		<string>Progress : Advancing</string>
+		<key>id</key>
+		<integer>81</integer>
+		<key>lineDescription</key>
+		<string>Common Accord</string>
+		<key>lines</key>
+		<real>35.299999999999997</real>
+		<key>startDegree</key>
+		<string>13 D 15'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>75.125</real>
+		<key>_startDegree</key>
+		<real>74.1875</real>
+		<key>endDegree</key>
+		<string>15 D 07'30"</string>
+		<key>hexagrams</key>
+		<string>Progress : Advancing</string>
+		<key>id</key>
+		<integer>82</integer>
+		<key>lineDescription</key>
+		<string>Caution</string>
+		<key>lines</key>
+		<real>35.399999999999999</real>
+		<key>startDegree</key>
+		<string>14 D 11'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>76.0625</real>
+		<key>_startDegree</key>
+		<real>75.125</real>
+		<key>endDegree</key>
+		<string>16 D 03'45"</string>
+		<key>hexagrams</key>
+		<string>Progress : Advancing</string>
+		<key>id</key>
+		<integer>83</integer>
+		<key>lineDescription</key>
+		<string>Nobility</string>
+		<key>lines</key>
+		<real>35.5</real>
+		<key>startDegree</key>
+		<string>15 D 07'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>77</real>
+		<key>_startDegree</key>
+		<real>76.0625</real>
+		<key>endDegree</key>
+		<string>17 D 00'00"</string>
+		<key>hexagrams</key>
+		<string>Progress : Advancing</string>
+		<key>id</key>
+		<integer>84</integer>
+		<key>lineDescription</key>
+		<string>Self-examination</string>
+		<key>lines</key>
+		<real>35.600000000000001</real>
+		<key>startDegree</key>
+		<string>16 D 03'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>77.9375</real>
+		<key>_startDegree</key>
+		<real>77</real>
+		<key>endDegree</key>
+		<string>17 D 56'15"</string>
+		<key>hexagrams</key>
+		<string>Gathering together : Rulership</string>
+		<key>id</key>
+		<integer>85</integer>
+		<key>lineDescription</key>
+		<string>Uniting</string>
+		<key>lines</key>
+		<real>45.100000000000001</real>
+		<key>startDegree</key>
+		<string>17 D 00'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>78.875</real>
+		<key>_startDegree</key>
+		<real>77.9375</real>
+		<key>endDegree</key>
+		<string>18 D 52'30"</string>
+		<key>hexagrams</key>
+		<string>Gathering together : Rulership</string>
+		<key>id</key>
+		<integer>86</integer>
+		<key>lineDescription</key>
+		<string>Mission</string>
+		<key>lines</key>
+		<real>45.200000000000003</real>
+		<key>startDegree</key>
+		<string>17 D 56'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>79.8125</real>
+		<key>_startDegree</key>
+		<real>78.875</real>
+		<key>endDegree</key>
+		<string>19 D 48'45"</string>
+		<key>hexagrams</key>
+		<string>Gathering together : Rulership</string>
+		<key>id</key>
+		<integer>87</integer>
+		<key>lineDescription</key>
+		<string>Separation</string>
+		<key>lines</key>
+		<real>45.299999999999997</real>
+		<key>startDegree</key>
+		<string>18 D 52'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>80.75</real>
+		<key>_startDegree</key>
+		<real>79.8125</real>
+		<key>endDegree</key>
+		<string>20 D 45'00"</string>
+		<key>hexagrams</key>
+		<string>Gathering together : Rulership</string>
+		<key>id</key>
+		<integer>88</integer>
+		<key>lineDescription</key>
+		<string>Bravery</string>
+		<key>lines</key>
+		<real>45.399999999999999</real>
+		<key>startDegree</key>
+		<string>19 D 48'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>81.6875</real>
+		<key>_startDegree</key>
+		<real>80.75</real>
+		<key>endDegree</key>
+		<string>21 D 41'15"</string>
+		<key>hexagrams</key>
+		<string>Gathering together : Rulership</string>
+		<key>id</key>
+		<integer>89</integer>
+		<key>lineDescription</key>
+		<string>Virtuousness</string>
+		<key>lines</key>
+		<real>45.5</real>
+		<key>startDegree</key>
+		<string>20 D 45'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>82.625</real>
+		<key>_startDegree</key>
+		<real>81.6875</real>
+		<key>endDegree</key>
+		<string>22 D 37'30"</string>
+		<key>hexagrams</key>
+		<string>Gathering together : Rulership</string>
+		<key>id</key>
+		<integer>90</integer>
+		<key>lineDescription</key>
+		<string>Completion</string>
+		<key>lines</key>
+		<real>45.600000000000001</real>
+		<key>startDegree</key>
+		<string>21 D 41'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>83.5625</real>
+		<key>_startDegree</key>
+		<real>82.625</real>
+		<key>endDegree</key>
+		<string>23 D 33'45"</string>
+		<key>hexagrams</key>
+		<string>Standstill : Hindrance,Taking Stock</string>
+		<key>id</key>
+		<integer>91</integer>
+		<key>lineDescription</key>
+		<string>Disconnection</string>
+		<key>lines</key>
+		<real>12.1</real>
+		<key>startDegree</key>
+		<string>22 D 37'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>84.5</real>
+		<key>_startDegree</key>
+		<real>83.5625</real>
+		<key>endDegree</key>
+		<string>24 D 30'00"</string>
+		<key>hexagrams</key>
+		<string>Standstill : Hindrance,Taking Stock</string>
+		<key>id</key>
+		<integer>92</integer>
+		<key>lineDescription</key>
+		<string>Principles</string>
+		<key>lines</key>
+		<real>12.199999999999999</real>
+		<key>startDegree</key>
+		<string>23 D 33'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>85.4375</real>
+		<key>_startDegree</key>
+		<real>84.5</real>
+		<key>endDegree</key>
+		<string>25 D 26'15"</string>
+		<key>hexagrams</key>
+		<string>Standstill : Hindrance,Taking Stock</string>
+		<key>id</key>
+		<integer>93</integer>
+		<key>lineDescription</key>
+		<string>Resurgence</string>
+		<key>lines</key>
+		<real>12.300000000000001</real>
+		<key>startDegree</key>
+		<string>24 D 30'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>86.041664123535156</real>
+		<key>_startDegree</key>
+		<real>85.4375</real>
+		<key>endDegree</key>
+		<string>26 D 2'30"</string>
+		<key>hexagrams</key>
+		<string>Standstill : Hindrance,Taking Stock</string>
+		<key>id</key>
+		<integer>94</integer>
+		<key>lineDescription</key>
+		<string>The Prophet/Prophetess</string>
+		<key>lines</key>
+		<real>12.4</real>
+		<key>startDegree</key>
+		<string>25 D 26'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>87.3125</real>
+		<key>_startDegree</key>
+		<real>86.041664123535156</real>
+		<key>endDegree</key>
+		<string>27 D 18'45"</string>
+		<key>hexagrams</key>
+		<string>Standstill : Hindrance,Taking Stock</string>
+		<key>id</key>
+		<integer>95</integer>
+		<key>lineDescription</key>
+		<string>Uniting</string>
+		<key>lines</key>
+		<real>12.5</real>
+		<key>startDegree</key>
+		<string>26 D 2'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>88.25</real>
+		<key>_startDegree</key>
+		<real>87.3125</real>
+		<key>endDegree</key>
+		<string>28 D 15'00"</string>
+		<key>hexagrams</key>
+		<string>Standstill : Hindrance,Taking Stock</string>
+		<key>id</key>
+		<integer>96</integer>
+		<key>lineDescription</key>
+		<string>Transformation</string>
+		<key>lines</key>
+		<real>12.6</real>
+		<key>startDegree</key>
+		<string>27 D 18'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>89.1875</real>
+		<key>_startDegree</key>
+		<real>88.25</real>
+		<key>endDegree</key>
+		<string>29 D 11'15"</string>
+		<key>hexagrams</key>
+		<string>Humanity : Extremes</string>
+		<key>id</key>
+		<integer>97</integer>
+		<key>lineDescription</key>
+		<string>Humility</string>
+		<key>lines</key>
+		<real>15.1</real>
+		<key>startDegree</key>
+		<string>28 D 15'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>90.125</real>
+		<key>_startDegree</key>
+		<real>89.1875</real>
+		<key>endDegree</key>
+		<string>0 E 07'30"</string>
+		<key>hexagrams</key>
+		<string>Humanity : Extremes</string>
+		<key>id</key>
+		<integer>98</integer>
+		<key>lineDescription</key>
+		<string>Persistence</string>
+		<key>lines</key>
+		<real>15.199999999999999</real>
+		<key>startDegree</key>
+		<string>29 D 11'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>91.0625</real>
+		<key>_startDegree</key>
+		<real>90.125</real>
+		<key>endDegree</key>
+		<string>1 E 03'45"</string>
+		<key>hexagrams</key>
+		<string>Humanity : Extremes</string>
+		<key>id</key>
+		<integer>99</integer>
+		<key>lineDescription</key>
+		<string>Modest Feats</string>
+		<key>lines</key>
+		<real>15.300000000000001</real>
+		<key>startDegree</key>
+		<string>0 E 07'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>92</real>
+		<key>_startDegree</key>
+		<real>91.0625</real>
+		<key>endDegree</key>
+		<string>2 E 00'00"</string>
+		<key>hexagrams</key>
+		<string>Humanity : Extremes</string>
+		<key>id</key>
+		<integer>100</integer>
+		<key>lineDescription</key>
+		<string>Centering</string>
+		<key>lines</key>
+		<real>15.4</real>
+		<key>startDegree</key>
+		<string>1 E 03'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>92.9375</real>
+		<key>_startDegree</key>
+		<real>92</real>
+		<key>endDegree</key>
+		<string>2 E 56'15"</string>
+		<key>hexagrams</key>
+		<string>Humanity : Extremes</string>
+		<key>id</key>
+		<integer>101</integer>
+		<key>lineDescription</key>
+		<string>Fellowship</string>
+		<key>lines</key>
+		<real>15.5</real>
+		<key>startDegree</key>
+		<string>2 E 00'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>93.875</real>
+		<key>_startDegree</key>
+		<real>92.9375</real>
+		<key>endDegree</key>
+		<string>3 E 52'30"</string>
+		<key>hexagrams</key>
+		<string>Humanity : Extremes</string>
+		<key>id</key>
+		<integer>102</integer>
+		<key>lineDescription</key>
+		<string>Respect</string>
+		<key>lines</key>
+		<real>15.6</real>
+		<key>startDegree</key>
+		<string>2 E 56'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>94.8125</real>
+		<key>_startDegree</key>
+		<real>93.875</real>
+		<key>endDegree</key>
+		<string>4 E 48'45"</string>
+		<key>hexagrams</key>
+		<string>Keeping Still : Mountain</string>
+		<key>id</key>
+		<integer>103</integer>
+		<key>lineDescription</key>
+		<string>Pause before acting</string>
+		<key>lines</key>
+		<real>52.100000000000001</real>
+		<key>startDegree</key>
+		<string>3 E 52'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>95.75</real>
+		<key>_startDegree</key>
+		<real>94.8125</real>
+		<key>endDegree</key>
+		<string>5 E 45'00"</string>
+		<key>hexagrams</key>
+		<string>Keeping Still : Mountain</string>
+		<key>id</key>
+		<integer>104</integer>
+		<key>lineDescription</key>
+		<string>Be still and know</string>
+		<key>lines</key>
+		<real>52.200000000000003</real>
+		<key>startDegree</key>
+		<string>4 E 48'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>96.6875</real>
+		<key>_startDegree</key>
+		<real>95.75</real>
+		<key>endDegree</key>
+		<string>6 E 41'15"</string>
+		<key>hexagrams</key>
+		<string>Keeping Still : Mountain</string>
+		<key>id</key>
+		<integer>105</integer>
+		<key>lineDescription</key>
+		<string>Resignation</string>
+		<key>lines</key>
+		<real>52.299999999999997</real>
+		<key>startDegree</key>
+		<string>5 E 45'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>97.625</real>
+		<key>_startDegree</key>
+		<real>96.6875</real>
+		<key>endDegree</key>
+		<string>7 E 37'30"</string>
+		<key>hexagrams</key>
+		<string>Keeping Still : Mountain</string>
+		<key>id</key>
+		<integer>106</integer>
+		<key>lineDescription</key>
+		<string>Stillness</string>
+		<key>lines</key>
+		<real>52.399999999999999</real>
+		<key>startDegree</key>
+		<string>6 E 41'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>98.5625</real>
+		<key>_startDegree</key>
+		<real>97.625</real>
+		<key>endDegree</key>
+		<string>8 E 33'45"</string>
+		<key>hexagrams</key>
+		<string>Keeping Still : Mountain</string>
+		<key>id</key>
+		<integer>107</integer>
+		<key>lineDescription</key>
+		<string>Supervision</string>
+		<key>lines</key>
+		<real>52.5</real>
+		<key>startDegree</key>
+		<string>7 E 37'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>99.5</real>
+		<key>_startDegree</key>
+		<real>98.5625</real>
+		<key>endDegree</key>
+		<string>9 E 30'00"</string>
+		<key>hexagrams</key>
+		<string>Keeping Still : Mountain</string>
+		<key>id</key>
+		<integer>108</integer>
+		<key>lineDescription</key>
+		<string>Meaning</string>
+		<key>lines</key>
+		<real>52.600000000000001</real>
+		<key>startDegree</key>
+		<string>8 E 33'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>100.4375</real>
+		<key>_startDegree</key>
+		<real>99.5</real>
+		<key>endDegree</key>
+		<string>10 E 26'15"</string>
+		<key>hexagrams</key>
+		<string>Provocation : Hardship</string>
+		<key>id</key>
+		<integer>109</integer>
+		<key>lineDescription</key>
+		<string>Detachment</string>
+		<key>lines</key>
+		<real>39.100000000000001</real>
+		<key>startDegree</key>
+		<string>9 E 30'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>101.375</real>
+		<key>_startDegree</key>
+		<real>100.4375</real>
+		<key>endDegree</key>
+		<string>11 E 22'30"</string>
+		<key>hexagrams</key>
+		<string>Provocation : Hardship</string>
+		<key>id</key>
+		<integer>110</integer>
+		<key>lineDescription</key>
+		<string>Encountering</string>
+		<key>lines</key>
+		<real>39.200000000000003</real>
+		<key>startDegree</key>
+		<string>10 E 26'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>102.3125</real>
+		<key>_startDegree</key>
+		<real>101.375</real>
+		<key>endDegree</key>
+		<string>12 E 18'45"</string>
+		<key>hexagrams</key>
+		<string>Provocation : Hardship</string>
+		<key>id</key>
+		<integer>111</integer>
+		<key>lineDescription</key>
+		<string>Considerations</string>
+		<key>lines</key>
+		<real>39.299999999999997</real>
+		<key>startDegree</key>
+		<string>11 E 22'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>103.25</real>
+		<key>_startDegree</key>
+		<real>102.3125</real>
+		<key>endDegree</key>
+		<string>13 E 15'00"</string>
+		<key>hexagrams</key>
+		<string>Provocation : Hardship</string>
+		<key>id</key>
+		<integer>112</integer>
+		<key>lineDescription</key>
+		<string>Convergence</string>
+		<key>lines</key>
+		<real>39.399999999999999</real>
+		<key>startDegree</key>
+		<string>12 E 18'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>104.1875</real>
+		<key>_startDegree</key>
+		<real>103.25</real>
+		<key>endDegree</key>
+		<string>14 E 11'15"</string>
+		<key>hexagrams</key>
+		<string>Provocation : Hardship</string>
+		<key>id</key>
+		<integer>113</integer>
+		<key>lineDescription</key>
+		<string>Presence</string>
+		<key>lines</key>
+		<real>39.5</real>
+		<key>startDegree</key>
+		<string>13 E 15'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>105.125</real>
+		<key>_startDegree</key>
+		<real>104.1875</real>
+		<key>endDegree</key>
+		<string>15 E 07'30"</string>
+		<key>hexagrams</key>
+		<string>Provocation : Hardship</string>
+		<key>id</key>
+		<integer>114</integer>
+		<key>lineDescription</key>
+		<string>The Expert</string>
+		<key>lines</key>
+		<real>39.600000000000001</real>
+		<key>startDegree</key>
+		<string>14 E 11'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>106.0625</real>
+		<key>_startDegree</key>
+		<real>105.125</real>
+		<key>endDegree</key>
+		<string>16 E 03'45"</string>
+		<key>hexagrams</key>
+		<string>New Beginnings : Development</string>
+		<key>id</key>
+		<integer>115</integer>
+		<key>lineDescription</key>
+		<string>Attitude</string>
+		<key>lines</key>
+		<real>53.100000000000001</real>
+		<key>startDegree</key>
+		<string>15 E 07'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>107</real>
+		<key>_startDegree</key>
+		<real>106.0625</real>
+		<key>endDegree</key>
+		<string>17 E 00'00"</string>
+		<key>hexagrams</key>
+		<string>New Beginnings : Development</string>
+		<key>id</key>
+		<integer>116</integer>
+		<key>lineDescription</key>
+		<string>Fortune Smiles</string>
+		<key>lines</key>
+		<real>53.200000000000003</real>
+		<key>startDegree</key>
+		<string>16 E 03'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>107.9375</real>
+		<key>_startDegree</key>
+		<real>107</real>
+		<key>endDegree</key>
+		<string>17 E 56'15"</string>
+		<key>hexagrams</key>
+		<string>New Beginnings : Development</string>
+		<key>id</key>
+		<integer>117</integer>
+		<key>lineDescription</key>
+		<string>Scrutiny</string>
+		<key>lines</key>
+		<real>53.299999999999997</real>
+		<key>startDegree</key>
+		<string>17 E 00'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>108.875</real>
+		<key>_startDegree</key>
+		<real>107.9375</real>
+		<key>endDegree</key>
+		<string>18 E 52'30"</string>
+		<key>hexagrams</key>
+		<string>New Beginnings : Development</string>
+		<key>id</key>
+		<integer>118</integer>
+		<key>lineDescription</key>
+		<string>Agility</string>
+		<key>lines</key>
+		<real>53.399999999999999</real>
+		<key>startDegree</key>
+		<string>17 E 56'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>109.8125</real>
+		<key>_startDegree</key>
+		<real>108.875</real>
+		<key>endDegree</key>
+		<string>19 E 48'45"</string>
+		<key>hexagrams</key>
+		<string>New Beginnings : Development</string>
+		<key>id</key>
+		<integer>119</integer>
+		<key>lineDescription</key>
+		<string>Advancement</string>
+		<key>lines</key>
+		<real>53.5</real>
+		<key>startDegree</key>
+		<string>18 E 52'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>110.75</real>
+		<key>_startDegree</key>
+		<real>109.8125</real>
+		<key>endDegree</key>
+		<string>20 E 45'00"</string>
+		<key>hexagrams</key>
+		<string>New Beginnings : Development</string>
+		<key>id</key>
+		<integer>119</integer>
+		<key>lineDescription</key>
+		<string>The Benefactor</string>
+		<key>lines</key>
+		<real>53.600000000000001</real>
+		<key>startDegree</key>
+		<string>19 E 48'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>111.6875</real>
+		<key>_startDegree</key>
+		<real>110.75</real>
+		<key>endDegree</key>
+		<string>21 E 41'15"</string>
+		<key>hexagrams</key>
+		<string>Expressed Details : Clarification</string>
+		<key>id</key>
+		<integer>120</integer>
+		<key>lineDescription</key>
+		<string>Restraint</string>
+		<key>lines</key>
+		<real>62.100000000000001</real>
+		<key>startDegree</key>
+		<string>20 E 45'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>112.625</real>
+		<key>_startDegree</key>
+		<real>111.6875</real>
+		<key>endDegree</key>
+		<string>22 E 37'30"</string>
+		<key>hexagrams</key>
+		<string>Expressed Details : Clarification</string>
+		<key>id</key>
+		<integer>121</integer>
+		<key>lineDescription</key>
+		<string>Assistance</string>
+		<key>lines</key>
+		<real>62.200000000000003</real>
+		<key>startDegree</key>
+		<string>21 E 41'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>113.5625</real>
+		<key>_startDegree</key>
+		<real>112.625</real>
+		<key>endDegree</key>
+		<string>23 E 33'45"</string>
+		<key>hexagrams</key>
+		<string>Expressed Details : Clarification</string>
+		<key>id</key>
+		<integer>122</integer>
+		<key>lineDescription</key>
+		<string>Humility</string>
+		<key>lines</key>
+		<real>62.299999999999997</real>
+		<key>startDegree</key>
+		<string>22 E 37'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>114.5</real>
+		<key>_startDegree</key>
+		<real>113.5625</real>
+		<key>endDegree</key>
+		<string>24 E 30'00"</string>
+		<key>hexagrams</key>
+		<string>Expressed Details : Clarification</string>
+		<key>id</key>
+		<integer>123</integer>
+		<key>lineDescription</key>
+		<string>Patience</string>
+		<key>lines</key>
+		<real>62.399999999999999</real>
+		<key>startDegree</key>
+		<string>23 E 33'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>115.4375</real>
+		<key>_startDegree</key>
+		<real>114.5</real>
+		<key>endDegree</key>
+		<string>25 E 26'15"</string>
+		<key>hexagrams</key>
+		<string>Expressed Details : Clarification</string>
+		<key>id</key>
+		<integer>124</integer>
+		<key>lineDescription</key>
+		<string>Mediation</string>
+		<key>lines</key>
+		<real>62.5</real>
+		<key>startDegree</key>
+		<string>24 E 30'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>116.375</real>
+		<key>_startDegree</key>
+		<real>115.4375</real>
+		<key>endDegree</key>
+		<string>26 E 22'30"</string>
+		<key>hexagrams</key>
+		<string>Expressed Details : Clarification</string>
+		<key>id</key>
+		<integer>125</integer>
+		<key>lineDescription</key>
+		<string>Limits</string>
+		<key>lines</key>
+		<real>62.600000000000001</real>
+		<key>startDegree</key>
+		<string>25 E 26'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>117.3125</real>
+		<key>_startDegree</key>
+		<real>116.375</real>
+		<key>endDegree</key>
+		<string>27 E 18'45"</string>
+		<key>hexagrams</key>
+		<string>The Wanderer : Stimulation</string>
+		<key>id</key>
+		<integer>126</integer>
+		<key>lineDescription</key>
+		<string>Intentional</string>
+		<key>lines</key>
+		<real>56.100000000000001</real>
+		<key>startDegree</key>
+		<string>26 E 22'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>118.25</real>
+		<key>_startDegree</key>
+		<real>117.3125</real>
+		<key>endDegree</key>
+		<string>28 E 15'00"</string>
+		<key>hexagrams</key>
+		<string>The Wanderer : Stimulation</string>
+		<key>id</key>
+		<integer>127</integer>
+		<key>lineDescription</key>
+		<string>Welcome</string>
+		<key>lines</key>
+		<real>56.200000000000003</real>
+		<key>startDegree</key>
+		<string>27 E 18'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>119.1875</real>
+		<key>_startDegree</key>
+		<real>118.25</real>
+		<key>endDegree</key>
+		<string>29 E 11'15"</string>
+		<key>hexagrams</key>
+		<string>The Wanderer : Stimulation</string>
+		<key>id</key>
+		<integer>128</integer>
+		<key>lineDescription</key>
+		<string>Carefulness</string>
+		<key>lines</key>
+		<real>56.299999999999997</real>
+		<key>startDegree</key>
+		<string>28 E 15'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>120.125</real>
+		<key>_startDegree</key>
+		<real>119.1875</real>
+		<key>endDegree</key>
+		<string>00 F 07'30"</string>
+		<key>hexagrams</key>
+		<string>The Wanderer : Stimulation</string>
+		<key>id</key>
+		<integer>129</integer>
+		<key>lineDescription</key>
+		<string>Measuring</string>
+		<key>lines</key>
+		<real>56.399999999999999</real>
+		<key>startDegree</key>
+		<string>29 E 11'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>121.0625</real>
+		<key>_startDegree</key>
+		<real>120.125</real>
+		<key>endDegree</key>
+		<string>1 F 03'45"</string>
+		<key>hexagrams</key>
+		<string>The Wanderer : Stimulation</string>
+		<key>id</key>
+		<integer>130</integer>
+		<key>lineDescription</key>
+		<string>The Storyteller</string>
+		<key>lines</key>
+		<real>56.5</real>
+		<key>startDegree</key>
+		<string>00 F 07'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>122</real>
+		<key>_startDegree</key>
+		<real>121.0625</real>
+		<key>endDegree</key>
+		<string>2 F 00'00"</string>
+		<key>hexagrams</key>
+		<string>The Wanderer : Stimulation</string>
+		<key>id</key>
+		<integer>131</integer>
+		<key>lineDescription</key>
+		<string>Principle</string>
+		<key>lines</key>
+		<real>56.600000000000001</real>
+		<key>startDegree</key>
+		<string>1 F 03'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>122.9375</real>
+		<key>_startDegree</key>
+		<real>122</real>
+		<key>endDegree</key>
+		<string>2 F 56'15"</string>
+		<key>hexagrams</key>
+		<string>Influence : Mutual Attraction</string>
+		<key>id</key>
+		<integer>132</integer>
+		<key>lineDescription</key>
+		<string>Opening</string>
+		<key>lines</key>
+		<real>31.100000000000001</real>
+		<key>startDegree</key>
+		<string>2 F 00'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>123.875</real>
+		<key>_startDegree</key>
+		<real>122.9375</real>
+		<key>endDegree</key>
+		<string>3 F 52'30"</string>
+		<key>hexagrams</key>
+		<string>Influence : Mutual Attraction</string>
+		<key>id</key>
+		<integer>133</integer>
+		<key>lineDescription</key>
+		<string>Acting independently</string>
+		<key>lines</key>
+		<real>31.199999999999999</real>
+		<key>startDegree</key>
+		<string>2 F 56'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>124.8125</real>
+		<key>_startDegree</key>
+		<real>123.875</real>
+		<key>endDegree</key>
+		<string>4 F 48'45"</string>
+		<key>hexagrams</key>
+		<string>Influence : Mutual Attraction</string>
+		<key>id</key>
+		<integer>134</integer>
+		<key>lineDescription</key>
+		<string>Distinguishing</string>
+		<key>lines</key>
+		<real>31.300000000000001</real>
+		<key>startDegree</key>
+		<string>3 F 52'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>125.75</real>
+		<key>_startDegree</key>
+		<real>124.8125</real>
+		<key>endDegree</key>
+		<string>5 F 45'00"</string>
+		<key>hexagrams</key>
+		<string>Influence : Mutual Attraction</string>
+		<key>id</key>
+		<integer>135</integer>
+		<key>lineDescription</key>
+		<string>Convictions</string>
+		<key>lines</key>
+		<real>31.399999999999999</real>
+		<key>startDegree</key>
+		<string>4 F 48'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>126.6875</real>
+		<key>_startDegree</key>
+		<real>125.75</real>
+		<key>endDegree</key>
+		<string>6 F 41'15"</string>
+		<key>hexagrams</key>
+		<string>Influence : Mutual Attraction</string>
+		<key>id</key>
+		<integer>136</integer>
+		<key>lineDescription</key>
+		<string>Farsightedness</string>
+		<key>lines</key>
+		<real>31.5</real>
+		<key>startDegree</key>
+		<string>5 F 45'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>127.625</real>
+		<key>_startDegree</key>
+		<real>126.6875</real>
+		<key>endDegree</key>
+		<string>7 F 37'30"</string>
+		<key>hexagrams</key>
+		<string>Influence : Mutual Attraction</string>
+		<key>id</key>
+		<integer>137</integer>
+		<key>lineDescription</key>
+		<string>Diligence</string>
+		<key>lines</key>
+		<real>31.600000000000001</real>
+		<key>startDegree</key>
+		<string>6 F 41'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>128.5625</real>
+		<key>_startDegree</key>
+		<real>127.625</real>
+		<key>endDegree</key>
+		<string>8 F 33'45"</string>
+		<key>hexagrams</key>
+		<string>Retreat : Withdrawal : Privacy</string>
+		<key>id</key>
+		<integer>138</integer>
+		<key>lineDescription</key>
+		<string>Stillness</string>
+		<key>lines</key>
+		<real>33.100000000000001</real>
+		<key>startDegree</key>
+		<string>7 F 37'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>129.5</real>
+		<key>_startDegree</key>
+		<real>128.5625</real>
+		<key>endDegree</key>
+		<string>9 F 30'00"</string>
+		<key>hexagrams</key>
+		<string>Retreat : Withdrawal : Privacy</string>
+		<key>id</key>
+		<integer>139</integer>
+		<key>lineDescription</key>
+		<string>Unshakeable</string>
+		<key>lines</key>
+		<real>33.200000000000003</real>
+		<key>startDegree</key>
+		<string>8 F 33'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>130.4375</real>
+		<key>_startDegree</key>
+		<real>129.5</real>
+		<key>endDegree</key>
+		<string>10 F 26'15"</string>
+		<key>hexagrams</key>
+		<string>Retreat : Withdrawal : Privacy</string>
+		<key>id</key>
+		<integer>140</integer>
+		<key>lineDescription</key>
+		<string>Attitude</string>
+		<key>lines</key>
+		<real>33.299999999999997</real>
+		<key>startDegree</key>
+		<string>9 F 30'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>131.375</real>
+		<key>_startDegree</key>
+		<real>130.4375</real>
+		<key>endDegree</key>
+		<string>11 F 22'30"</string>
+		<key>hexagrams</key>
+		<string>Retreat : Withdrawal : Privacy</string>
+		<key>id</key>
+		<integer>141</integer>
+		<key>lineDescription</key>
+		<string>Detaching</string>
+		<key>lines</key>
+		<real>33.399999999999999</real>
+		<key>startDegree</key>
+		<string>10 F 26'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>132.3125</real>
+		<key>_startDegree</key>
+		<real>131.375</real>
+		<key>endDegree</key>
+		<string>12 F 18'45"</string>
+		<key>hexagrams</key>
+		<string>Retreat : Withdrawal : Privacy</string>
+		<key>id</key>
+		<integer>142</integer>
+		<key>lineDescription</key>
+		<string>Firmness</string>
+		<key>lines</key>
+		<real>33.5</real>
+		<key>startDegree</key>
+		<string>11 F 22'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>133.25</real>
+		<key>_startDegree</key>
+		<real>132.3125</real>
+		<key>endDegree</key>
+		<string>13 F 15'00"</string>
+		<key>hexagrams</key>
+		<string>Retreat : Withdrawal : Privacy</string>
+		<key>id</key>
+		<integer>143</integer>
+		<key>lineDescription</key>
+		<string>Let Go!</string>
+		<key>lines</key>
+		<real>33.600000000000001</real>
+		<key>startDegree</key>
+		<string>12 F 18'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>134.1875</real>
+		<key>_startDegree</key>
+		<real>133.25</real>
+		<key>endDegree</key>
+		<string>14 F 11'15"</string>
+		<key>hexagrams</key>
+		<string>Uniformity : Finding common intent</string>
+		<key>id</key>
+		<integer>144</integer>
+		<key>lineDescription</key>
+		<string>Discipline</string>
+		<key>lines</key>
+		<real>7.0999999999999996</real>
+		<key>startDegree</key>
+		<string>13 F 15'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>135.125</real>
+		<key>_startDegree</key>
+		<real>134.1875</real>
+		<key>endDegree</key>
+		<string>15 F 07'30"</string>
+		<key>hexagrams</key>
+		<string>Uniformity : Finding common intent</string>
+		<key>id</key>
+		<integer>145</integer>
+		<key>lineDescription</key>
+		<string>Equanimity</string>
+		<key>lines</key>
+		<real>7.2000000000000002</real>
+		<key>startDegree</key>
+		<string>14 F 11'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>136.0625</real>
+		<key>_startDegree</key>
+		<real>135.125</real>
+		<key>endDegree</key>
+		<string>16 F 03'45"</string>
+		<key>hexagrams</key>
+		<string>Uniformity : Finding common intent</string>
+		<key>id</key>
+		<integer>146</integer>
+		<key>lineDescription</key>
+		<string>Disorder</string>
+		<key>lines</key>
+		<real>7.2999999999999998</real>
+		<key>startDegree</key>
+		<string>15 F 07'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>137</real>
+		<key>_startDegree</key>
+		<real>136.0625</real>
+		<key>endDegree</key>
+		<string>17 F 00'00"</string>
+		<key>hexagrams</key>
+		<string>Uniformity : Finding common intent</string>
+		<key>id</key>
+		<integer>147</integer>
+		<key>lineDescription</key>
+		<string>Disengaging</string>
+		<key>lines</key>
+		<real>7.4000000000000004</real>
+		<key>startDegree</key>
+		<string>16 F 03'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>137.9375</real>
+		<key>_startDegree</key>
+		<real>137</real>
+		<key>endDegree</key>
+		<string>17 F 56'15"</string>
+		<key>hexagrams</key>
+		<string>Uniformity : Finding common intent</string>
+		<key>id</key>
+		<integer>148</integer>
+		<key>lineDescription</key>
+		<string>The Director</string>
+		<key>lines</key>
+		<real>7.5</real>
+		<key>startDegree</key>
+		<string>17 F 00'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>138.875</real>
+		<key>_startDegree</key>
+		<real>137.9375</real>
+		<key>endDegree</key>
+		<string>18 F 52'30"</string>
+		<key>hexagrams</key>
+		<string>Uniformity : Finding common intent</string>
+		<key>id</key>
+		<integer>149</integer>
+		<key>lineDescription</key>
+		<string>Meritocracy</string>
+		<key>lines</key>
+		<real>7.5999999999999996</real>
+		<key>startDegree</key>
+		<string>17 F 56'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>139.8125</real>
+		<key>_startDegree</key>
+		<real>138.875</real>
+		<key>endDegree</key>
+		<string>19 F 48'45"</string>
+		<key>hexagrams</key>
+		<string>Solutions : The pursuit of answers</string>
+		<key>id</key>
+		<integer>150</integer>
+		<key>lineDescription</key>
+		<string>Learning</string>
+		<key>lines</key>
+		<real>4.0999999999999996</real>
+		<key>startDegree</key>
+		<string>18 F 52'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>140.75</real>
+		<key>_startDegree</key>
+		<real>139.8125</real>
+		<key>endDegree</key>
+		<string>20 F 45'00"</string>
+		<key>hexagrams</key>
+		<string>Solutions : The pursuit of answers</string>
+		<key>id</key>
+		<integer>151</integer>
+		<key>lineDescription</key>
+		<string>Kindness</string>
+		<key>lines</key>
+		<real>4.2000000000000002</real>
+		<key>startDegree</key>
+		<string>19 F 48'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>141.6875</real>
+		<key>_startDegree</key>
+		<real>140.75</real>
+		<key>endDegree</key>
+		<string>21 F 41'15"</string>
+		<key>hexagrams</key>
+		<string>Solutions : The pursuit of answers</string>
+		<key>id</key>
+		<integer>152</integer>
+		<key>lineDescription</key>
+		<string>Carelessness</string>
+		<key>lines</key>
+		<real>4.2999999999999998</real>
+		<key>startDegree</key>
+		<string>20 F 45'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>142.625</real>
+		<key>_startDegree</key>
+		<real>141.6875</real>
+		<key>endDegree</key>
+		<string>22 F 37'30"</string>
+		<key>hexagrams</key>
+		<string>Solutions : The pursuit of answers</string>
+		<key>id</key>
+		<integer>153</integer>
+		<key>lineDescription</key>
+		<string>Justification</string>
+		<key>lines</key>
+		<real>4.4000000000000004</real>
+		<key>startDegree</key>
+		<string>21 F 41'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>143.5625</real>
+		<key>_startDegree</key>
+		<real>142.625</real>
+		<key>endDegree</key>
+		<string>23 F 33'45"</string>
+		<key>hexagrams</key>
+		<string>Solutions : The pursuit of answers</string>
+		<key>id</key>
+		<integer>154</integer>
+		<key>lineDescription</key>
+		<string>Broad-mindedness</string>
+		<key>lines</key>
+		<real>4.5</real>
+		<key>startDegree</key>
+		<string>22 F 37'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>144.5</real>
+		<key>_startDegree</key>
+		<real>143.5625</real>
+		<key>endDegree</key>
+		<string>24 F 30'00"</string>
+		<key>hexagrams</key>
+		<string>Solutions : The pursuit of answers</string>
+		<key>id</key>
+		<integer>155</integer>
+		<key>lineDescription</key>
+		<string>Opinionated</string>
+		<key>lines</key>
+		<real>4.5999999999999996</real>
+		<key>startDegree</key>
+		<string>23 F 33'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>145.4375</real>
+		<key>_startDegree</key>
+		<real>144.5</real>
+		<key>endDegree</key>
+		<string>25 F 26'15"</string>
+		<key>hexagrams</key>
+		<string>Commitment : The automatic 'Yes'</string>
+		<key>id</key>
+		<integer>156</integer>
+		<key>lineDescription</key>
+		<string>Cautious</string>
+		<key>lines</key>
+		<real>29.100000000000001</real>
+		<key>startDegree</key>
+		<string>24 F 30'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>146.375</real>
+		<key>_startDegree</key>
+		<real>145.4375</real>
+		<key>endDegree</key>
+		<string>26 F 22'30"</string>
+		<key>hexagrams</key>
+		<string>Commitment : The automatic 'Yes'</string>
+		<key>id</key>
+		<integer>157</integer>
+		<key>lineDescription</key>
+		<string>Slow Advance</string>
+		<key>lines</key>
+		<real>29.199999999999999</real>
+		<key>startDegree</key>
+		<string>25 F 26'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>147.3125</real>
+		<key>_startDegree</key>
+		<real>146.375</real>
+		<key>endDegree</key>
+		<string>27 F 18'45"</string>
+		<key>hexagrams</key>
+		<string>Commitment : The automatic 'Yes'</string>
+		<key>id</key>
+		<integer>158</integer>
+		<key>lineDescription</key>
+		<string>Holding</string>
+		<key>lines</key>
+		<real>29.300000000000001</real>
+		<key>startDegree</key>
+		<string>26 F 22'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>148.25</real>
+		<key>_startDegree</key>
+		<real>147.3125</real>
+		<key>endDegree</key>
+		<string>28 F 15'00"</string>
+		<key>hexagrams</key>
+		<string>Commitment : The automatic 'Yes'</string>
+		<key>id</key>
+		<integer>159</integer>
+		<key>lineDescription</key>
+		<string>Assistance</string>
+		<key>lines</key>
+		<real>29.399999999999999</real>
+		<key>startDegree</key>
+		<string>27 F 18'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>149.1875</real>
+		<key>_startDegree</key>
+		<real>148.25</real>
+		<key>endDegree</key>
+		<string>29 F 11'15"</string>
+		<key>hexagrams</key>
+		<string>Commitment : The automatic 'Yes'</string>
+		<key>id</key>
+		<integer>160</integer>
+		<key>lineDescription</key>
+		<string>Restraint</string>
+		<key>lines</key>
+		<real>29.5</real>
+		<key>startDegree</key>
+		<string>28 F 15'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>150.125</real>
+		<key>_startDegree</key>
+		<real>149.1875</real>
+		<key>endDegree</key>
+		<string>00 G 07'30"</string>
+		<key>hexagrams</key>
+		<string>Commitment : The automatic 'Yes'</string>
+		<key>id</key>
+		<integer>161</integer>
+		<key>lineDescription</key>
+		<string>Entanglement</string>
+		<key>lines</key>
+		<real>29.600000000000001</real>
+		<key>startDegree</key>
+		<string>29 F 11'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>151.0625</real>
+		<key>_startDegree</key>
+		<real>150.125</real>
+		<key>endDegree</key>
+		<string>1 G 03'45"</string>
+		<key>hexagrams</key>
+		<string>Intimacy : Dispersion</string>
+		<key>id</key>
+		<integer>162</integer>
+		<key>lineDescription</key>
+		<string>Immediacy</string>
+		<key>lines</key>
+		<real>59.100000000000001</real>
+		<key>startDegree</key>
+		<string>00 G 07'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>152</real>
+		<key>_startDegree</key>
+		<real>151.0625</real>
+		<key>endDegree</key>
+		<string>2 G 00'00"</string>
+		<key>hexagrams</key>
+		<string>Intimacy : Dispersion</string>
+		<key>id</key>
+		<integer>163</integer>
+		<key>lineDescription</key>
+		<string>Joining in</string>
+		<key>lines</key>
+		<real>59.200000000000003</real>
+		<key>startDegree</key>
+		<string>1 G 03'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>152.9375</real>
+		<key>_startDegree</key>
+		<real>152</real>
+		<key>endDegree</key>
+		<string>2 G 56'15"</string>
+		<key>hexagrams</key>
+		<string>Intimacy : Dispersion</string>
+		<key>id</key>
+		<integer>164</integer>
+		<key>lineDescription</key>
+		<string>Connecting</string>
+		<key>lines</key>
+		<real>59.299999999999997</real>
+		<key>startDegree</key>
+		<string>2 G 00'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>153.875</real>
+		<key>_startDegree</key>
+		<real>152.9375</real>
+		<key>endDegree</key>
+		<string>3 G 52'30"</string>
+		<key>hexagrams</key>
+		<string>Intimacy : Dispersion</string>
+		<key>id</key>
+		<integer>165</integer>
+		<key>lineDescription</key>
+		<string>Friendliness</string>
+		<key>lines</key>
+		<real>59.399999999999999</real>
+		<key>startDegree</key>
+		<string>2 G 56'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>154.8125</real>
+		<key>_startDegree</key>
+		<real>153.875</real>
+		<key>endDegree</key>
+		<string>4 G 48'45"</string>
+		<key>hexagrams</key>
+		<string>Intimacy : Dispersion</string>
+		<key>id</key>
+		<integer>166</integer>
+		<key>lineDescription</key>
+		<string>Unification</string>
+		<key>lines</key>
+		<real>59.5</real>
+		<key>startDegree</key>
+		<string>3 G 52'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>155.75</real>
+		<key>_startDegree</key>
+		<real>154.8125</real>
+		<key>endDegree</key>
+		<string>5 G 45'00"</string>
+		<key>hexagrams</key>
+		<string>Intimacy : Dispersion</string>
+		<key>id</key>
+		<integer>167</integer>
+		<key>lineDescription</key>
+		<string>Discernment</string>
+		<key>lines</key>
+		<real>59.600000000000001</real>
+		<key>startDegree</key>
+		<string>4 G 48'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>156.6875</real>
+		<key>_startDegree</key>
+		<real>155.75</real>
+		<key>endDegree</key>
+		<string>6 G 41'15"</string>
+		<key>hexagrams</key>
+		<string>Deliverance : Freedom from and for</string>
+		<key>id</key>
+		<integer>168</integer>
+		<key>lineDescription</key>
+		<string>Recovery</string>
+		<key>lines</key>
+		<real>40.100000000000001</real>
+		<key>startDegree</key>
+		<string>5 G 45'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>157.625</real>
+		<key>_startDegree</key>
+		<real>156.6875</real>
+		<key>endDegree</key>
+		<string>7 G 37'30"</string>
+		<key>hexagrams</key>
+		<string>Deliverance : Freedom from and for</string>
+		<key>id</key>
+		<integer>169</integer>
+		<key>lineDescription</key>
+		<string>Endurance</string>
+		<key>lines</key>
+		<real>40.200000000000003</real>
+		<key>startDegree</key>
+		<string>6 G 41'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>158.5625</real>
+		<key>_startDegree</key>
+		<real>157.625</real>
+		<key>endDegree</key>
+		<string>8 G 33'45"</string>
+		<key>hexagrams</key>
+		<string>Deliverance : Freedom from and for</string>
+		<key>id</key>
+		<integer>170</integer>
+		<key>lineDescription</key>
+		<string>Wholeness</string>
+		<key>lines</key>
+		<real>40.299999999999997</real>
+		<key>startDegree</key>
+		<string>7 G 37'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>159.5</real>
+		<key>_startDegree</key>
+		<real>158.5625</real>
+		<key>endDegree</key>
+		<string>9 G 30'00"</string>
+		<key>hexagrams</key>
+		<string>Deliverance : Freedom from and for</string>
+		<key>id</key>
+		<integer>171</integer>
+		<key>lineDescription</key>
+		<string>Reality check</string>
+		<key>lines</key>
+		<real>40.399999999999999</real>
+		<key>startDegree</key>
+		<string>8 G 33'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>160.4375</real>
+		<key>_startDegree</key>
+		<real>159.5</real>
+		<key>endDegree</key>
+		<string>10 G 26'15"</string>
+		<key>hexagrams</key>
+		<string>Deliverance : Freedom from and for</string>
+		<key>id</key>
+		<integer>172</integer>
+		<key>lineDescription</key>
+		<string>Release</string>
+		<key>lines</key>
+		<real>40.5</real>
+		<key>startDegree</key>
+		<string>9 G 30'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>161.375</real>
+		<key>_startDegree</key>
+		<real>160.4375</real>
+		<key>endDegree</key>
+		<string>11 G 22'30"</string>
+		<key>hexagrams</key>
+		<string>Deliverance : Freedom from and for</string>
+		<key>id</key>
+		<integer>173</integer>
+		<key>lineDescription</key>
+		<string>Definitive stance</string>
+		<key>lines</key>
+		<real>40.600000000000001</real>
+		<key>startDegree</key>
+		<string>10 G 26'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>162.3125</real>
+		<key>_startDegree</key>
+		<real>161.375</real>
+		<key>endDegree</key>
+		<string>12 G 18'45"</string>
+		<key>hexagrams</key>
+		<string>Diverse possibilites : Confusion</string>
+		<key>id</key>
+		<integer>174</integer>
+		<key>lineDescription</key>
+		<string>Transitioning</string>
+		<key>lines</key>
+		<real>64.099999999999994</real>
+		<key>startDegree</key>
+		<string>11 G 22'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>163.25</real>
+		<key>_startDegree</key>
+		<real>162.3125</real>
+		<key>endDegree</key>
+		<string>13 G 15'00"</string>
+		<key>hexagrams</key>
+		<string>Diverse possibilites : Confusion</string>
+		<key>id</key>
+		<integer>175</integer>
+		<key>lineDescription</key>
+		<string>Conviction</string>
+		<key>lines</key>
+		<real>64.200000000000003</real>
+		<key>startDegree</key>
+		<string>12 G 18'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>164.1875</real>
+		<key>_startDegree</key>
+		<real>163.25</real>
+		<key>endDegree</key>
+		<string>14 G 11'15"</string>
+		<key>hexagrams</key>
+		<string>Diverse possibilites : Confusion</string>
+		<key>id</key>
+		<integer>176</integer>
+		<key>lineDescription</key>
+		<string>Recommencement</string>
+		<key>lines</key>
+		<real>64.299999999999997</real>
+		<key>startDegree</key>
+		<string>13 G 15'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>165.125</real>
+		<key>_startDegree</key>
+		<real>164.1875</real>
+		<key>endDegree</key>
+		<string>15 G 07'30"</string>
+		<key>hexagrams</key>
+		<string>Diverse possibilites : Confusion</string>
+		<key>id</key>
+		<integer>177</integer>
+		<key>lineDescription</key>
+		<string>Overcoming</string>
+		<key>lines</key>
+		<real>64.400000000000006</real>
+		<key>startDegree</key>
+		<string>14 G 11'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>166.0625</real>
+		<key>_startDegree</key>
+		<real>165.125</real>
+		<key>endDegree</key>
+		<string>16 G 03'45"</string>
+		<key>hexagrams</key>
+		<string>Diverse possibilites : Confusion</string>
+		<key>id</key>
+		<integer>178</integer>
+		<key>lineDescription</key>
+		<string>Virtue</string>
+		<key>lines</key>
+		<real>64.5</real>
+		<key>startDegree</key>
+		<string>15 G 07'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>167</real>
+		<key>_startDegree</key>
+		<real>166.0625</real>
+		<key>endDegree</key>
+		<string>17 G 00'00"</string>
+		<key>hexagrams</key>
+		<string>Diverse possibilites : Confusion</string>
+		<key>id</key>
+		<integer>179</integer>
+		<key>lineDescription</key>
+		<string>Clarity</string>
+		<key>lines</key>
+		<real>64.599999999999994</real>
+		<key>startDegree</key>
+		<string>16 G 03'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>167.9375</real>
+		<key>_startDegree</key>
+		<real>167</real>
+		<key>endDegree</key>
+		<string>17 G 56'15"</string>
+		<key>hexagrams</key>
+		<string>Realization : Mental Exhaustion</string>
+		<key>id</key>
+		<integer>180</integer>
+		<key>lineDescription</key>
+		<string>Review</string>
+		<key>lines</key>
+		<real>47.100000000000001</real>
+		<key>startDegree</key>
+		<string>17 G 00'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>168.875</real>
+		<key>_startDegree</key>
+		<real>167.9375</real>
+		<key>endDegree</key>
+		<string>18 G 52'30"</string>
+		<key>hexagrams</key>
+		<string>Realization : Mental Exhaustion</string>
+		<key>id</key>
+		<integer>181</integer>
+		<key>lineDescription</key>
+		<string>Destiny</string>
+		<key>lines</key>
+		<real>47.200000000000003</real>
+		<key>startDegree</key>
+		<string>17 G 56'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>169.8125</real>
+		<key>_startDegree</key>
+		<real>168.875</real>
+		<key>endDegree</key>
+		<string>19 G 48'45"</string>
+		<key>hexagrams</key>
+		<string>Realization : Mental Exhaustion</string>
+		<key>id</key>
+		<integer>182</integer>
+		<key>lineDescription</key>
+		<string>Delusion</string>
+		<key>lines</key>
+		<real>47.299999999999997</real>
+		<key>startDegree</key>
+		<string>18 G 52'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>170.75</real>
+		<key>_startDegree</key>
+		<real>169.8125</real>
+		<key>endDegree</key>
+		<string>20 G 45'00"</string>
+		<key>hexagrams</key>
+		<string>Realization : Mental Exhaustion</string>
+		<key>id</key>
+		<integer>183</integer>
+		<key>lineDescription</key>
+		<string>Distractions</string>
+		<key>lines</key>
+		<real>47.399999999999999</real>
+		<key>startDegree</key>
+		<string>19 G 48'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>171.6875</real>
+		<key>_startDegree</key>
+		<real>170.75</real>
+		<key>endDegree</key>
+		<string>21 G 41'15"</string>
+		<key>hexagrams</key>
+		<string>Realization : Mental Exhaustion</string>
+		<key>id</key>
+		<integer>184</integer>
+		<key>lineDescription</key>
+		<string>Beneficence</string>
+		<key>lines</key>
+		<real>47.5</real>
+		<key>startDegree</key>
+		<string>20 G 45'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>172.625</real>
+		<key>_startDegree</key>
+		<real>171.6875</real>
+		<key>endDegree</key>
+		<string>22 G 37'30"</string>
+		<key>hexagrams</key>
+		<string>Realization : Mental Exhaustion</string>
+		<key>id</key>
+		<integer>185</integer>
+		<key>lineDescription</key>
+		<string>Remorse</string>
+		<key>lines</key>
+		<real>47.600000000000001</real>
+		<key>startDegree</key>
+		<string>21 G 41'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>173.5625</real>
+		<key>_startDegree</key>
+		<real>172.625</real>
+		<key>endDegree</key>
+		<string>23 G 33'45"</string>
+		<key>hexagrams</key>
+		<string>Conflict resolution : Emotional control</string>
+		<key>id</key>
+		<integer>186</integer>
+		<key>lineDescription</key>
+		<string>Negotiating</string>
+		<key>lines</key>
+		<real>6.0999999999999996</real>
+		<key>startDegree</key>
+		<string>22 G 37'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>174.5</real>
+		<key>_startDegree</key>
+		<real>173.5625</real>
+		<key>endDegree</key>
+		<string>24 G 30'00"</string>
+		<key>hexagrams</key>
+		<string>Conflict resolution : Emotional control</string>
+		<key>id</key>
+		<integer>187</integer>
+		<key>lineDescription</key>
+		<string>Sensibility</string>
+		<key>lines</key>
+		<real>6.2000000000000002</real>
+		<key>startDegree</key>
+		<string>23 G 33'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>175.4375</real>
+		<key>_startDegree</key>
+		<real>174.5</real>
+		<key>endDegree</key>
+		<string>25 G 26'15"</string>
+		<key>hexagrams</key>
+		<string>Conflict resolution : Emotional control</string>
+		<key>id</key>
+		<integer>188</integer>
+		<key>lineDescription</key>
+		<string>Caution</string>
+		<key>lines</key>
+		<real>6.2999999999999998</real>
+		<key>startDegree</key>
+		<string>24 G 30'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>176.04167175292969</real>
+		<key>_startDegree</key>
+		<real>175.4375</real>
+		<key>endDegree</key>
+		<string>26 G 2'30"</string>
+		<key>hexagrams</key>
+		<string>Conflict resolution : Emotional control</string>
+		<key>id</key>
+		<integer>189</integer>
+		<key>lineDescription</key>
+		<string>Peace</string>
+		<key>lines</key>
+		<real>6.4000000000000004</real>
+		<key>startDegree</key>
+		<string>25 G 26'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>177.3125</real>
+		<key>_startDegree</key>
+		<real>176.04167175292969</real>
+		<key>endDegree</key>
+		<string>27 G 18'45"</string>
+		<key>hexagrams</key>
+		<string>Conflict resolution : Emotional control</string>
+		<key>id</key>
+		<integer>190</integer>
+		<key>lineDescription</key>
+		<string>The Diplomat</string>
+		<key>lines</key>
+		<real>6.5</real>
+		<key>startDegree</key>
+		<string>26 G 2'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>178.25</real>
+		<key>_startDegree</key>
+		<real>177.3125</real>
+		<key>endDegree</key>
+		<string>28 G 15'00"</string>
+		<key>hexagrams</key>
+		<string>Conflict resolution : Emotional control</string>
+		<key>id</key>
+		<integer>191</integer>
+		<key>lineDescription</key>
+		<string>Contention</string>
+		<key>lines</key>
+		<real>6.5999999999999996</real>
+		<key>startDegree</key>
+		<string>27 G 18'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>179.1875</real>
+		<key>_startDegree</key>
+		<real>178.25</real>
+		<key>endDegree</key>
+		<string>29 G 11'15"</string>
+		<key>hexagrams</key>
+		<string>Serendipity : Self determination</string>
+		<key>id</key>
+		<integer>192</integer>
+		<key>lineDescription</key>
+		<string>Promotion</string>
+		<key>lines</key>
+		<real>46.100000000000001</real>
+		<key>startDegree</key>
+		<string>28 G 15'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>180.125</real>
+		<key>_startDegree</key>
+		<real>179.1875</real>
+		<key>endDegree</key>
+		<string>00 H 07'30"</string>
+		<key>hexagrams</key>
+		<string>Serendipity : Self determination</string>
+		<key>id</key>
+		<integer>193</integer>
+		<key>lineDescription</key>
+		<string>Expansion</string>
+		<key>lines</key>
+		<real>46.200000000000003</real>
+		<key>startDegree</key>
+		<string>29 G 11'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>181.0625</real>
+		<key>_startDegree</key>
+		<real>180.125</real>
+		<key>endDegree</key>
+		<string>1 H 03'45"</string>
+		<key>hexagrams</key>
+		<string>Serendipity : Self determination</string>
+		<key>id</key>
+		<integer>194</integer>
+		<key>lineDescription</key>
+		<string>Progressing</string>
+		<key>lines</key>
+		<real>46.299999999999997</real>
+		<key>startDegree</key>
+		<string>00 H 07'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>182</real>
+		<key>_startDegree</key>
+		<real>181.0625</real>
+		<key>endDegree</key>
+		<string>2 H 00'00"</string>
+		<key>hexagrams</key>
+		<string>Serendipity : Self determination</string>
+		<key>id</key>
+		<integer>195</integer>
+		<key>lineDescription</key>
+		<string>Fulfilling</string>
+		<key>lines</key>
+		<real>46.399999999999999</real>
+		<key>startDegree</key>
+		<string>1 H 03'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>182.9375</real>
+		<key>_startDegree</key>
+		<real>182</real>
+		<key>endDegree</key>
+		<string>2 H 56'15"</string>
+		<key>hexagrams</key>
+		<string>Serendipity : Self determination</string>
+		<key>id</key>
+		<integer>196</integer>
+		<key>lineDescription</key>
+		<string>Advancement</string>
+		<key>lines</key>
+		<real>46.5</real>
+		<key>startDegree</key>
+		<string>2 H 00'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>183.875</real>
+		<key>_startDegree</key>
+		<real>182.9375</real>
+		<key>endDegree</key>
+		<string>3 H 52'30"</string>
+		<key>hexagrams</key>
+		<string>Serendipity : Self determination</string>
+		<key>id</key>
+		<integer>197</integer>
+		<key>lineDescription</key>
+		<string>Impulse</string>
+		<key>lines</key>
+		<real>46.600000000000001</real>
+		<key>startDegree</key>
+		<string>2 H 56'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>184.8125</real>
+		<key>_startDegree</key>
+		<real>183.875</real>
+		<key>endDegree</key>
+		<string>4 H 48'45"</string>
+		<key>hexagrams</key>
+		<string>Improving</string>
+		<key>id</key>
+		<integer>198</integer>
+		<key>lineDescription</key>
+		<string>Paternalism</string>
+		<key>lines</key>
+		<real>18.100000000000001</real>
+		<key>startDegree</key>
+		<string>3 H 52'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>185.75</real>
+		<key>_startDegree</key>
+		<real>184.8125</real>
+		<key>endDegree</key>
+		<string>5 H 45'00"</string>
+		<key>hexagrams</key>
+		<string>Improving</string>
+		<key>id</key>
+		<integer>199</integer>
+		<key>lineDescription</key>
+		<string>Honoring the Goddess</string>
+		<key>lines</key>
+		<real>18.199999999999999</real>
+		<key>startDegree</key>
+		<string>4 H 48'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>186.6875</real>
+		<key>_startDegree</key>
+		<real>185.75</real>
+		<key>endDegree</key>
+		<string>6 H 41'15"</string>
+		<key>hexagrams</key>
+		<string>Improving</string>
+		<key>id</key>
+		<integer>200</integer>
+		<key>lineDescription</key>
+		<string>Impetuosity</string>
+		<key>lines</key>
+		<real>18.300000000000001</real>
+		<key>startDegree</key>
+		<string>5 H 45'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>187.625</real>
+		<key>_startDegree</key>
+		<real>186.6875</real>
+		<key>endDegree</key>
+		<string>7 H 37'30"</string>
+		<key>hexagrams</key>
+		<string>Improving</string>
+		<key>id</key>
+		<integer>201</integer>
+		<key>lineDescription</key>
+		<string>Allowing things to be</string>
+		<key>lines</key>
+		<real>18.399999999999999</real>
+		<key>startDegree</key>
+		<string>6 H 41'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>188.5625</real>
+		<key>_startDegree</key>
+		<real>187.625</real>
+		<key>endDegree</key>
+		<string>8 H 33'45"</string>
+		<key>hexagrams</key>
+		<string>Improving</string>
+		<key>id</key>
+		<integer>202</integer>
+		<key>lineDescription</key>
+		<string>Self-correction</string>
+		<key>lines</key>
+		<real>18.5</real>
+		<key>startDegree</key>
+		<string>7 H 37'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>189.5</real>
+		<key>_startDegree</key>
+		<real>188.5625</real>
+		<key>endDegree</key>
+		<string>9 H 30'00"</string>
+		<key>hexagrams</key>
+		<string>Improving</string>
+		<key>id</key>
+		<integer>203</integer>
+		<key>lineDescription</key>
+		<string>Buddhahood</string>
+		<key>lines</key>
+		<real>18.600000000000001</real>
+		<key>startDegree</key>
+		<string>8 H 33'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>190.4375</real>
+		<key>_startDegree</key>
+		<real>189.5</real>
+		<key>endDegree</key>
+		<string>10 H 26'15"</string>
+		<key>hexagrams</key>
+		<string>The Well : Freshness &amp; Depth</string>
+		<key>id</key>
+		<integer>204</integer>
+		<key>lineDescription</key>
+		<string>Significance</string>
+		<key>lines</key>
+		<real>48.100000000000001</real>
+		<key>startDegree</key>
+		<string>9 H 30'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>191.375</real>
+		<key>_startDegree</key>
+		<real>190.4375</real>
+		<key>endDegree</key>
+		<string>11 H 22'30"</string>
+		<key>hexagrams</key>
+		<string>The Well : Freshness &amp; Depth</string>
+		<key>id</key>
+		<integer>205</integer>
+		<key>lineDescription</key>
+		<string>Deterioration</string>
+		<key>lines</key>
+		<real>48.200000000000003</real>
+		<key>startDegree</key>
+		<string>10 H 26'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>192.3125</real>
+		<key>_startDegree</key>
+		<real>191.375</real>
+		<key>endDegree</key>
+		<string>12 H 18'45"</string>
+		<key>hexagrams</key>
+		<string>The Well : Freshness &amp; Depth</string>
+		<key>id</key>
+		<integer>206</integer>
+		<key>lineDescription</key>
+		<string>Recognition</string>
+		<key>lines</key>
+		<real>48.299999999999997</real>
+		<key>startDegree</key>
+		<string>11 H 22'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>193.25</real>
+		<key>_startDegree</key>
+		<real>192.3125</real>
+		<key>endDegree</key>
+		<string>14 H 11'15"</string>
+		<key>hexagrams</key>
+		<string>The Well : Freshness &amp; Depth</string>
+		<key>id</key>
+		<integer>206</integer>
+		<key>lineDescription</key>
+		<string>Refreshing</string>
+		<key>lines</key>
+		<real>48.399999999999999</real>
+		<key>startDegree</key>
+		<string>12 H 18'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>194.1875</real>
+		<key>_startDegree</key>
+		<real>193.25</real>
+		<key>endDegree</key>
+		<string>14 H 11'15"</string>
+		<key>hexagrams</key>
+		<string>The Well : Freshness &amp; Depth</string>
+		<key>id</key>
+		<integer>207</integer>
+		<key>lineDescription</key>
+		<string>Application</string>
+		<key>lines</key>
+		<real>48.5</real>
+		<key>startDegree</key>
+		<string>13 H 15'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>195.125</real>
+		<key>_startDegree</key>
+		<real>194.1875</real>
+		<key>endDegree</key>
+		<string>15 H 07'30"</string>
+		<key>hexagrams</key>
+		<string>The Well : Freshness &amp; Depth</string>
+		<key>id</key>
+		<integer>208</integer>
+		<key>lineDescription</key>
+		<string>Replenishment</string>
+		<key>lines</key>
+		<real>48.600000000000001</real>
+		<key>startDegree</key>
+		<string>14 H 11'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>196.0625</real>
+		<key>_startDegree</key>
+		<real>195.125</real>
+		<key>endDegree</key>
+		<string>16 H 03'45"</string>
+		<key>hexagrams</key>
+		<string>The Gentle : Intuition</string>
+		<key>id</key>
+		<integer>209</integer>
+		<key>lineDescription</key>
+		<string>Calmness</string>
+		<key>lines</key>
+		<real>57.100000000000001</real>
+		<key>startDegree</key>
+		<string>15 H 07'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>197</real>
+		<key>_startDegree</key>
+		<real>196.0625</real>
+		<key>endDegree</key>
+		<string>17 H 00'00"</string>
+		<key>hexagrams</key>
+		<string>The Gentle : Intuition</string>
+		<key>id</key>
+		<integer>210</integer>
+		<key>lineDescription</key>
+		<string>Virtue</string>
+		<key>lines</key>
+		<real>57.200000000000003</real>
+		<key>startDegree</key>
+		<string>16 H 03'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>197.9375</real>
+		<key>_startDegree</key>
+		<real>197</real>
+		<key>endDegree</key>
+		<string>17 H 56'15"</string>
+		<key>hexagrams</key>
+		<string>The Gentle : Intuition</string>
+		<key>id</key>
+		<integer>211</integer>
+		<key>lineDescription</key>
+		<string>Awareness</string>
+		<key>lines</key>
+		<real>57.299999999999997</real>
+		<key>startDegree</key>
+		<string>17 H 00'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>198.875</real>
+		<key>_startDegree</key>
+		<real>197.9375</real>
+		<key>endDegree</key>
+		<string>18 H 52'30"</string>
+		<key>hexagrams</key>
+		<string>The Gentle : Intuition</string>
+		<key>id</key>
+		<integer>212</integer>
+		<key>lineDescription</key>
+		<string>Fearlessness</string>
+		<key>lines</key>
+		<real>57.399999999999999</real>
+		<key>startDegree</key>
+		<string>17 H 56'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>199.8125</real>
+		<key>_startDegree</key>
+		<real>198.875</real>
+		<key>endDegree</key>
+		<string>19 H 48'45"</string>
+		<key>hexagrams</key>
+		<string>The Gentle : Intuition</string>
+		<key>id</key>
+		<integer>213</integer>
+		<key>lineDescription</key>
+		<string>Vigilance</string>
+		<key>lines</key>
+		<real>57.5</real>
+		<key>startDegree</key>
+		<string>18 H 52'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>200.75</real>
+		<key>_startDegree</key>
+		<real>199.8125</real>
+		<key>endDegree</key>
+		<string>20 H 45'00"</string>
+		<key>hexagrams</key>
+		<string>The Gentle : Intuition</string>
+		<key>id</key>
+		<integer>214</integer>
+		<key>lineDescription</key>
+		<string>Circumspect</string>
+		<key>lines</key>
+		<real>57.600000000000001</real>
+		<key>startDegree</key>
+		<string>19 H 48'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>201.6875</real>
+		<key>_startDegree</key>
+		<real>200.75</real>
+		<key>endDegree</key>
+		<string>21 H 41'15"</string>
+		<key>hexagrams</key>
+		<string>Duration : Continuity  &amp; Change</string>
+		<key>id</key>
+		<integer>215</integer>
+		<key>lineDescription</key>
+		<string>Consistency</string>
+		<key>lines</key>
+		<real>32.100000000000001</real>
+		<key>startDegree</key>
+		<string>20 H 45'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>202.625</real>
+		<key>_startDegree</key>
+		<real>201.6875</real>
+		<key>endDegree</key>
+		<string>22 H 37'30"</string>
+		<key>hexagrams</key>
+		<string>Duration : Continuity  &amp; Change</string>
+		<key>id</key>
+		<integer>216</integer>
+		<key>lineDescription</key>
+		<string>Avoiding extremes</string>
+		<key>lines</key>
+		<real>32.200000000000003</real>
+		<key>startDegree</key>
+		<string>21 H 41'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>203.5625</real>
+		<key>_startDegree</key>
+		<real>202.625</real>
+		<key>endDegree</key>
+		<string>23 H 33'45"</string>
+		<key>hexagrams</key>
+		<string>Duration : Continuity  &amp; Change</string>
+		<key>id</key>
+		<integer>217</integer>
+		<key>lineDescription</key>
+		<string>Continuity</string>
+		<key>lines</key>
+		<real>32.299999999999997</real>
+		<key>startDegree</key>
+		<string>22 H 37'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>204.5</real>
+		<key>_startDegree</key>
+		<real>203.5625</real>
+		<key>endDegree</key>
+		<string>24 H 30'00"</string>
+		<key>hexagrams</key>
+		<string>Duration : Continuity  &amp; Change</string>
+		<key>id</key>
+		<integer>218</integer>
+		<key>lineDescription</key>
+		<string>Realism</string>
+		<key>lines</key>
+		<real>32.399999999999999</real>
+		<key>startDegree</key>
+		<string>23 H 33'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>205.4375</real>
+		<key>_startDegree</key>
+		<real>204.5</real>
+		<key>endDegree</key>
+		<string>25 H 26'15"</string>
+		<key>hexagrams</key>
+		<string>Duration : Continuity  &amp; Change</string>
+		<key>id</key>
+		<integer>219</integer>
+		<key>lineDescription</key>
+		<string>Compliance</string>
+		<key>lines</key>
+		<real>32.5</real>
+		<key>startDegree</key>
+		<string>24 H 30'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>206.375</real>
+		<key>_startDegree</key>
+		<real>205.4375</real>
+		<key>endDegree</key>
+		<string>26 H 22'30"</string>
+		<key>hexagrams</key>
+		<string>Duration : Continuity  &amp; Change</string>
+		<key>id</key>
+		<integer>220</integer>
+		<key>lineDescription</key>
+		<string>Witnessing</string>
+		<key>lines</key>
+		<real>32.600000000000001</real>
+		<key>startDegree</key>
+		<string>25 H 26'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>207.3125</real>
+		<key>_startDegree</key>
+		<real>206.375</real>
+		<key>endDegree</key>
+		<string>27 H 18'45"</string>
+		<key>hexagrams</key>
+		<string>Values : Stability</string>
+		<key>id</key>
+		<integer>221</integer>
+		<key>lineDescription</key>
+		<string>Fresh start</string>
+		<key>lines</key>
+		<real>50.100000000000001</real>
+		<key>startDegree</key>
+		<string>26 H 22'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>208.25</real>
+		<key>_startDegree</key>
+		<real>207.3125</real>
+		<key>endDegree</key>
+		<string>28 H 15'00"</string>
+		<key>hexagrams</key>
+		<string>Values : Stability</string>
+		<key>id</key>
+		<integer>222</integer>
+		<key>lineDescription</key>
+		<string>Standing firm</string>
+		<key>lines</key>
+		<real>50.200000000000003</real>
+		<key>startDegree</key>
+		<string>27 H 18'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>209.1875</real>
+		<key>_startDegree</key>
+		<real>208.25</real>
+		<key>endDegree</key>
+		<string>29 H 11'15"</string>
+		<key>hexagrams</key>
+		<string>Values : Stability</string>
+		<key>id</key>
+		<integer>223</integer>
+		<key>lineDescription</key>
+		<string>Clarification</string>
+		<key>lines</key>
+		<real>50.299999999999997</real>
+		<key>startDegree</key>
+		<string>28 H 15'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>210.125</real>
+		<key>_startDegree</key>
+		<real>209.1875</real>
+		<key>endDegree</key>
+		<string>00 I 07'30"</string>
+		<key>hexagrams</key>
+		<string>Values : Stability</string>
+		<key>id</key>
+		<integer>224</integer>
+		<key>lineDescription</key>
+		<string>Qualification</string>
+		<key>lines</key>
+		<real>50.399999999999999</real>
+		<key>startDegree</key>
+		<string>29 H 11'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>211.0625</real>
+		<key>_startDegree</key>
+		<real>210.125</real>
+		<key>endDegree</key>
+		<string>1 I 03'45"</string>
+		<key>hexagrams</key>
+		<string>Values : Stability</string>
+		<key>id</key>
+		<integer>225</integer>
+		<key>lineDescription</key>
+		<string>Improvement</string>
+		<key>lines</key>
+		<real>50.5</real>
+		<key>startDegree</key>
+		<string>00 I 07'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>212</real>
+		<key>_startDegree</key>
+		<real>211.0625</real>
+		<key>endDegree</key>
+		<string>2 I 00'00"</string>
+		<key>hexagrams</key>
+		<string>Values : Stability</string>
+		<key>id</key>
+		<integer>226</integer>
+		<key>lineDescription</key>
+		<string>Invigoration</string>
+		<key>lines</key>
+		<real>50.600000000000001</real>
+		<key>startDegree</key>
+		<string>1 I 03'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>212.9375</real>
+		<key>_startDegree</key>
+		<real>212</real>
+		<key>endDegree</key>
+		<string>2 I 56'15"</string>
+		<key>hexagrams</key>
+		<string>The Game Player : Persistence</string>
+		<key>id</key>
+		<integer>227</integer>
+		<key>lineDescription</key>
+		<string>Offering</string>
+		<key>lines</key>
+		<real>28.100000000000001</real>
+		<key>startDegree</key>
+		<string>2 I 00'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>213.875</real>
+		<key>_startDegree</key>
+		<real>212.9375</real>
+		<key>endDegree</key>
+		<string>3 I 52'30"</string>
+		<key>hexagrams</key>
+		<string>The Game Player : Persistence</string>
+		<key>id</key>
+		<integer>228</integer>
+		<key>lineDescription</key>
+		<string>A friend in need</string>
+		<key>lines</key>
+		<real>28.199999999999999</real>
+		<key>startDegree</key>
+		<string>2 I 56'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>214.8125</real>
+		<key>_startDegree</key>
+		<real>213.875</real>
+		<key>endDegree</key>
+		<string>4 I 48'45"</string>
+		<key>hexagrams</key>
+		<string>The Game Player : Persistence</string>
+		<key>id</key>
+		<integer>229</integer>
+		<key>lineDescription</key>
+		<string>Rashness</string>
+		<key>lines</key>
+		<real>28.300000000000001</real>
+		<key>startDegree</key>
+		<string>3 I 52'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>215.75</real>
+		<key>_startDegree</key>
+		<real>214.8125</real>
+		<key>endDegree</key>
+		<string>5 I 45'00"</string>
+		<key>hexagrams</key>
+		<string>The Game Player : Persistence</string>
+		<key>id</key>
+		<integer>230</integer>
+		<key>lineDescription</key>
+		<string>Strength</string>
+		<key>lines</key>
+		<real>28.399999999999999</real>
+		<key>startDegree</key>
+		<string>4 I 48'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>216.6875</real>
+		<key>_startDegree</key>
+		<real>215.75</real>
+		<key>endDegree</key>
+		<string>6 I 41'15"</string>
+		<key>hexagrams</key>
+		<string>The Game Player : Persistence</string>
+		<key>id</key>
+		<integer>231</integer>
+		<key>lineDescription</key>
+		<string>Trust</string>
+		<key>lines</key>
+		<real>28.5</real>
+		<key>startDegree</key>
+		<string>5 I 45'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>217.625</real>
+		<key>_startDegree</key>
+		<real>216.6875</real>
+		<key>endDegree</key>
+		<string>7 I 37'30"</string>
+		<key>hexagrams</key>
+		<string>The Game Player : Persistence</string>
+		<key>id</key>
+		<integer>232</integer>
+		<key>lineDescription</key>
+		<string>Grandeur</string>
+		<key>lines</key>
+		<real>28.600000000000001</real>
+		<key>startDegree</key>
+		<string>6 I 41'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>218.5625</real>
+		<key>_startDegree</key>
+		<real>217.625</real>
+		<key>endDegree</key>
+		<string>8 I 33'45"</string>
+		<key>hexagrams</key>
+		<string>Patterns : Contact</string>
+		<key>id</key>
+		<integer>233</integer>
+		<key>lineDescription</key>
+		<string>Self-restraint</string>
+		<key>lines</key>
+		<real>44.100000000000001</real>
+		<key>startDegree</key>
+		<string>7 I 37'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>219.5</real>
+		<key>_startDegree</key>
+		<real>218.5625</real>
+		<key>endDegree</key>
+		<string>9 I 30'00"</string>
+		<key>hexagrams</key>
+		<string>Patterns : Contact</string>
+		<key>id</key>
+		<integer>234</integer>
+		<key>lineDescription</key>
+		<string>Self-Management</string>
+		<key>lines</key>
+		<real>44.200000762939503</real>
+		<key>startDegree</key>
+		<string>8 I 33'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>220.4375</real>
+		<key>_startDegree</key>
+		<real>219.5</real>
+		<key>endDegree</key>
+		<string>10 I 26'15"</string>
+		<key>hexagrams</key>
+		<string>Patterns : Contact</string>
+		<key>id</key>
+		<integer>235</integer>
+		<key>lineDescription</key>
+		<string>Holding back</string>
+		<key>lines</key>
+		<real>44.299999999999997</real>
+		<key>startDegree</key>
+		<string>9 I 30'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>221.375</real>
+		<key>_startDegree</key>
+		<real>220.4375</real>
+		<key>endDegree</key>
+		<string>11 I 22'30"</string>
+		<key>hexagrams</key>
+		<string>Patterns : Contact</string>
+		<key>id</key>
+		<integer>236</integer>
+		<key>lineDescription</key>
+		<string>Forbearance</string>
+		<key>lines</key>
+		<real>44.399999999999999</real>
+		<key>startDegree</key>
+		<string>10 I 26'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>222.3125</real>
+		<key>_startDegree</key>
+		<real>221.375</real>
+		<key>endDegree</key>
+		<string>12 I 18'45"</string>
+		<key>hexagrams</key>
+		<string>Patterns : Contact</string>
+		<key>id</key>
+		<integer>237</integer>
+		<key>lineDescription</key>
+		<string>Virtue</string>
+		<key>lines</key>
+		<real>44.5</real>
+		<key>startDegree</key>
+		<string>11 I 22'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>223.25</real>
+		<key>_startDegree</key>
+		<real>222.3125</real>
+		<key>endDegree</key>
+		<string>13 I 15'00"</string>
+		<key>hexagrams</key>
+		<string>Patterns : Contact</string>
+		<key>id</key>
+		<integer>238</integer>
+		<key>lineDescription</key>
+		<string>Withdrawal</string>
+		<key>lines</key>
+		<real>44.600000000000001</real>
+		<key>startDegree</key>
+		<string>12 I 18'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>224.1875</real>
+		<key>_startDegree</key>
+		<real>223.25</real>
+		<key>endDegree</key>
+		<string>14 I 11'15"</string>
+		<key>hexagrams</key>
+		<string>Creativity : Creative Self-expression</string>
+		<key>id</key>
+		<integer>239</integer>
+		<key>lineDescription</key>
+		<string>Pure Creativity without motive</string>
+		<key>lines</key>
+		<real>1.1000000000000001</real>
+		<key>startDegree</key>
+		<string>13 I 15'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>225.125</real>
+		<key>_startDegree</key>
+		<real>224.1875</real>
+		<key>endDegree</key>
+		<string>15 I 07'30"</string>
+		<key>hexagrams</key>
+		<string>Creativity : Creative Self-expression</string>
+		<key>id</key>
+		<integer>240</integer>
+		<key>lineDescription</key>
+		<string>Harmony</string>
+		<key>lines</key>
+		<real>1.2</real>
+		<key>startDegree</key>
+		<string>14 I 11'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>226.0625</real>
+		<key>_startDegree</key>
+		<real>225.125</real>
+		<key>endDegree</key>
+		<string>16 I 03'45"</string>
+		<key>hexagrams</key>
+		<string>Creativity : Creative Self-expression</string>
+		<key>id</key>
+		<integer>241</integer>
+		<key>lineDescription</key>
+		<string>Creative Thrust</string>
+		<key>lines</key>
+		<real>1.3</real>
+		<key>startDegree</key>
+		<string>15 I 07'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>227</real>
+		<key>_startDegree</key>
+		<real>226.0625</real>
+		<key>endDegree</key>
+		<string>17 I 00'00"</string>
+		<key>hexagrams</key>
+		<string>Creativity : Creative Self-expression</string>
+		<key>id</key>
+		<integer>242</integer>
+		<key>lineDescription</key>
+		<string>The Artist Alone</string>
+		<key>lines</key>
+		<real>1.3999999999999999</real>
+		<key>startDegree</key>
+		<string>16 I 03'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>227.9375</real>
+		<key>_startDegree</key>
+		<real>227</real>
+		<key>endDegree</key>
+		<string>17 I 56'15"</string>
+		<key>hexagrams</key>
+		<string>Creativity : Creative Self-expression</string>
+		<key>id</key>
+		<integer>243</integer>
+		<key>lineDescription</key>
+		<string>Magnetic Creativity</string>
+		<key>lines</key>
+		<real>1.5</real>
+		<key>startDegree</key>
+		<string>17 I 00'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>228.875</real>
+		<key>_startDegree</key>
+		<real>227.9375</real>
+		<key>endDegree</key>
+		<string>18 I 52'30"</string>
+		<key>hexagrams</key>
+		<string>Creativity : Creative Self-expression</string>
+		<key>id</key>
+		<integer>244</integer>
+		<key>lineDescription</key>
+		<string>"The Hollow Bamboo"</string>
+		<key>lines</key>
+		<real>1.6000000000000001</real>
+		<key>startDegree</key>
+		<string>17 I 56'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>229.8125</real>
+		<key>_startDegree</key>
+		<real>228.875</real>
+		<key>endDegree</key>
+		<string>19 I 48'45"</string>
+		<key>hexagrams</key>
+		<string>Breakthrough : Insight</string>
+		<key>id</key>
+		<integer>245</integer>
+		<key>lineDescription</key>
+		<string>Watchfulness</string>
+		<key>lines</key>
+		<real>43.100000000000001</real>
+		<key>startDegree</key>
+		<string>18 I 52'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>230.75</real>
+		<key>_startDegree</key>
+		<real>229.8125</real>
+		<key>endDegree</key>
+		<string>20 I 45'00"</string>
+		<key>hexagrams</key>
+		<string>Breakthrough : Insight</string>
+		<key>id</key>
+		<integer>246</integer>
+		<key>lineDescription</key>
+		<string>Resolute</string>
+		<key>lines</key>
+		<real>43.200000000000003</real>
+		<key>startDegree</key>
+		<string>19 I 48'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>231.6875</real>
+		<key>_startDegree</key>
+		<real>230.75</real>
+		<key>endDegree</key>
+		<string>21 I 41'15"</string>
+		<key>hexagrams</key>
+		<string>Breakthrough : Insight</string>
+		<key>id</key>
+		<integer>247</integer>
+		<key>lineDescription</key>
+		<string>Fortitude</string>
+		<key>lines</key>
+		<real>43.299999999999997</real>
+		<key>startDegree</key>
+		<string>20 I 45'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>232.625</real>
+		<key>_startDegree</key>
+		<real>231.6875</real>
+		<key>endDegree</key>
+		<string>22 I 37'30"</string>
+		<key>hexagrams</key>
+		<string>Breakthrough : Insight</string>
+		<key>id</key>
+		<integer>248</integer>
+		<key>lineDescription</key>
+		<string>Restlessness</string>
+		<key>lines</key>
+		<real>43.399999999999999</real>
+		<key>startDegree</key>
+		<string>21 I 41'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>233.5625</real>
+		<key>_startDegree</key>
+		<real>232.625</real>
+		<key>endDegree</key>
+		<string>23 I 33'45"</string>
+		<key>hexagrams</key>
+		<string>Breakthrough : Insight</string>
+		<key>id</key>
+		<integer>249</integer>
+		<key>lineDescription</key>
+		<string>Forthrightness</string>
+		<key>lines</key>
+		<real>43.5</real>
+		<key>startDegree</key>
+		<string>22 I 37'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>234.5</real>
+		<key>_startDegree</key>
+		<real>233.5625</real>
+		<key>endDegree</key>
+		<string>24 I 30'00"</string>
+		<key>hexagrams</key>
+		<string>Breakthrough : Insight</string>
+		<key>id</key>
+		<integer>250</integer>
+		<key>lineDescription</key>
+		<string>Redirection</string>
+		<key>lines</key>
+		<real>43.600000000000001</real>
+		<key>startDegree</key>
+		<string>23 I 33'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>235.4375</real>
+		<key>_startDegree</key>
+		<real>234.5</real>
+		<key>endDegree</key>
+		<string>25 I 26'15"</string>
+		<key>hexagrams</key>
+		<string>Prosperity : Harvesting</string>
+		<key>id</key>
+		<integer>251</integer>
+		<key>lineDescription</key>
+		<string>Satisfaction</string>
+		<key>lines</key>
+		<real>14.1</real>
+		<key>startDegree</key>
+		<string>24 I 30'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>236.375</real>
+		<key>_startDegree</key>
+		<real>235.4375</real>
+		<key>endDegree</key>
+		<string>26 I 22'30"</string>
+		<key>hexagrams</key>
+		<string>Prosperity : Harvesting</string>
+		<key>id</key>
+		<integer>252</integer>
+		<key>lineDescription</key>
+		<string>Nobility</string>
+		<key>lines</key>
+		<real>14.199999999999999</real>
+		<key>startDegree</key>
+		<string>25 I 26'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>237.3125</real>
+		<key>_startDegree</key>
+		<real>236.375</real>
+		<key>endDegree</key>
+		<string>27 I 18'45"</string>
+		<key>hexagrams</key>
+		<string>Prosperity : Harvesting</string>
+		<key>id</key>
+		<integer>253</integer>
+		<key>lineDescription</key>
+		<string>Sacrifice</string>
+		<key>lines</key>
+		<real>14.300000000000001</real>
+		<key>startDegree</key>
+		<string>26 I 22'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>238.25</real>
+		<key>_startDegree</key>
+		<real>237.3125</real>
+		<key>endDegree</key>
+		<string>28 I 15'00"</string>
+		<key>hexagrams</key>
+		<string>Prosperity : Harvesting</string>
+		<key>id</key>
+		<integer>254</integer>
+		<key>lineDescription</key>
+		<string>Security</string>
+		<key>lines</key>
+		<real>14.4</real>
+		<key>startDegree</key>
+		<string>27 I 18'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>239.1875</real>
+		<key>_startDegree</key>
+		<real>238.25</real>
+		<key>endDegree</key>
+		<string>29 I 11'15"</string>
+		<key>hexagrams</key>
+		<string>Prosperity : Harvesting</string>
+		<key>id</key>
+		<integer>255</integer>
+		<key>lineDescription</key>
+		<string>Sincerity</string>
+		<key>lines</key>
+		<real>14.5</real>
+		<key>startDegree</key>
+		<string>28 I 15'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>240.125</real>
+		<key>_startDegree</key>
+		<real>239.1875</real>
+		<key>endDegree</key>
+		<string>00 J 07'30"</string>
+		<key>hexagrams</key>
+		<string>Prosperity : Harvesting</string>
+		<key>id</key>
+		<integer>256</integer>
+		<key>lineDescription</key>
+		<string>Worthiness</string>
+		<key>lines</key>
+		<real>14.6</real>
+		<key>startDegree</key>
+		<string>29 I 11'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>241.0625</real>
+		<key>_startDegree</key>
+		<real>240.125</real>
+		<key>endDegree</key>
+		<string>1 J 03'45"</string>
+		<key>hexagrams</key>
+		<string>Power : Great Strength</string>
+		<key>id</key>
+		<integer>257</integer>
+		<key>lineDescription</key>
+		<string>Presumption</string>
+		<key>lines</key>
+		<real>34.100000000000001</real>
+		<key>startDegree</key>
+		<string>00 J 07'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>242</real>
+		<key>_startDegree</key>
+		<real>241.0625</real>
+		<key>endDegree</key>
+		<string>2 J 00'00"</string>
+		<key>hexagrams</key>
+		<string>Power : Great Strength</string>
+		<key>id</key>
+		<integer>258</integer>
+		<key>lineDescription</key>
+		<string>Moderation</string>
+		<key>lines</key>
+		<real>34.200000000000003</real>
+		<key>startDegree</key>
+		<string>1 J 03'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>242.9375</real>
+		<key>_startDegree</key>
+		<real>242</real>
+		<key>endDegree</key>
+		<string>2 J 56'15"</string>
+		<key>hexagrams</key>
+		<string>Power : Great Strength</string>
+		<key>id</key>
+		<integer>259</integer>
+		<key>lineDescription</key>
+		<string>Estimation</string>
+		<key>lines</key>
+		<real>34.299999999999997</real>
+		<key>startDegree</key>
+		<string>2 J 00'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>243.875</real>
+		<key>_startDegree</key>
+		<real>242.9375</real>
+		<key>endDegree</key>
+		<string>3 J 52'30"</string>
+		<key>hexagrams</key>
+		<string>Power : Great Strength</string>
+		<key>id</key>
+		<integer>260</integer>
+		<key>lineDescription</key>
+		<string>Inner Strength</string>
+		<key>lines</key>
+		<real>34.399999999999999</real>
+		<key>startDegree</key>
+		<string>2 J 56'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>244.8125</real>
+		<key>_startDegree</key>
+		<real>243.875</real>
+		<key>endDegree</key>
+		<string>4 J 48'45"</string>
+		<key>hexagrams</key>
+		<string>Power : Great Strength</string>
+		<key>id</key>
+		<integer>261</integer>
+		<key>lineDescription</key>
+		<string>Acceptance</string>
+		<key>lines</key>
+		<real>34.5</real>
+		<key>startDegree</key>
+		<string>3 J 52'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>245.75</real>
+		<key>_startDegree</key>
+		<real>244.8125</real>
+		<key>endDegree</key>
+		<string>5 J 45'00"</string>
+		<key>hexagrams</key>
+		<string>Power : Great Strength</string>
+		<key>id</key>
+		<integer>262</integer>
+		<key>lineDescription</key>
+		<string>Equanimity</string>
+		<key>lines</key>
+		<real>34.600000000000001</real>
+		<key>startDegree</key>
+		<string>4 J 48'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>246.6875</real>
+		<key>_startDegree</key>
+		<real>245.75</real>
+		<key>endDegree</key>
+		<string>6 J 41'15"</string>
+		<key>hexagrams</key>
+		<string>Applied Details : Attentiveness</string>
+		<key>id</key>
+		<integer>263</integer>
+		<key>lineDescription</key>
+		<string>Recommencing</string>
+		<key>lines</key>
+		<real>9.0999999999999996</real>
+		<key>startDegree</key>
+		<string>5 J 45'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>247.625</real>
+		<key>_startDegree</key>
+		<real>246.6875</real>
+		<key>endDegree</key>
+		<string>7 J 37'30"</string>
+		<key>hexagrams</key>
+		<string>Applied Details : Attentiveness</string>
+		<key>id</key>
+		<integer>264</integer>
+		<key>lineDescription</key>
+		<string>Inclusion</string>
+		<key>lines</key>
+		<real>9.1999999999999993</real>
+		<key>startDegree</key>
+		<string>6 J 41'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>248.5625</real>
+		<key>_startDegree</key>
+		<real>247.625</real>
+		<key>endDegree</key>
+		<string>8 J 33'45"</string>
+		<key>hexagrams</key>
+		<string>Applied Details : Attentiveness</string>
+		<key>id</key>
+		<integer>265</integer>
+		<key>lineDescription</key>
+		<string>Oversight</string>
+		<key>lines</key>
+		<real>9.3000000000000007</real>
+		<key>startDegree</key>
+		<string>7 J 37'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>249.5</real>
+		<key>_startDegree</key>
+		<real>248.5625</real>
+		<key>endDegree</key>
+		<string>9 J 30'00"</string>
+		<key>hexagrams</key>
+		<string>Applied Details : Attentiveness</string>
+		<key>id</key>
+		<integer>266</integer>
+		<key>lineDescription</key>
+		<string>Authenticity</string>
+		<key>lines</key>
+		<real>9.4000000000000004</real>
+		<key>startDegree</key>
+		<string>8 J 33'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>250.4375</real>
+		<key>_startDegree</key>
+		<real>249.5</real>
+		<key>endDegree</key>
+		<string>10 J 26'15"</string>
+		<key>hexagrams</key>
+		<string>Applied Details : Attentiveness</string>
+		<key>id</key>
+		<integer>267</integer>
+		<key>lineDescription</key>
+		<string>Enrichment</string>
+		<key>lines</key>
+		<real>9.5</real>
+		<key>startDegree</key>
+		<string>9 J 30'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>251.375</real>
+		<key>_startDegree</key>
+		<real>250.4375</real>
+		<key>endDegree</key>
+		<string>11 J 22'30"</string>
+		<key>hexagrams</key>
+		<string>Applied Details : Attentiveness</string>
+		<key>id</key>
+		<integer>268</integer>
+		<key>lineDescription</key>
+		<string>Gratefulness</string>
+		<key>lines</key>
+		<real>9.5999999999999996</real>
+		<key>startDegree</key>
+		<string>10 J 26'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>252.3125</real>
+		<key>_startDegree</key>
+		<real>251.375</real>
+		<key>endDegree</key>
+		<string>12 J 18'45"</string>
+		<key>hexagrams</key>
+		<string>Waiting : Universal timing</string>
+		<key>id</key>
+		<integer>269</integer>
+		<key>lineDescription</key>
+		<string>Attuning</string>
+		<key>lines</key>
+		<real>5.0999999999999996</real>
+		<key>startDegree</key>
+		<string>11 J 22'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>253.25</real>
+		<key>_startDegree</key>
+		<real>252.3125</real>
+		<key>endDegree</key>
+		<string>13 J 15'00"</string>
+		<key>hexagrams</key>
+		<string>Waiting : Universal timing</string>
+		<key>id</key>
+		<integer>269</integer>
+		<key>lineDescription</key>
+		<string>Tranquility</string>
+		<key>lines</key>
+		<real>5.2000000000000002</real>
+		<key>startDegree</key>
+		<string>12 J 18'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>254.1875</real>
+		<key>_startDegree</key>
+		<real>253.25</real>
+		<key>endDegree</key>
+		<string>14 J 11'15"</string>
+		<key>hexagrams</key>
+		<string>Waiting : Universal timing</string>
+		<key>id</key>
+		<integer>270</integer>
+		<key>lineDescription</key>
+		<string>Caution</string>
+		<key>lines</key>
+		<real>5.2999999999999998</real>
+		<key>startDegree</key>
+		<string>13 J 15'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>255.125</real>
+		<key>_startDegree</key>
+		<real>254.1875</real>
+		<key>endDegree</key>
+		<string>15 J 07'30"</string>
+		<key>hexagrams</key>
+		<string>Waiting : Universal timing</string>
+		<key>id</key>
+		<integer>271</integer>
+		<key>lineDescription</key>
+		<string>Biding time</string>
+		<key>lines</key>
+		<real>5.4000000000000004</real>
+		<key>startDegree</key>
+		<string>14 J 11'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>256.0625</real>
+		<key>_startDegree</key>
+		<real>255.125</real>
+		<key>endDegree</key>
+		<string>16 J 03'45"</string>
+		<key>hexagrams</key>
+		<string>Waiting : Universal timing</string>
+		<key>id</key>
+		<integer>272</integer>
+		<key>lineDescription</key>
+		<string>Inner Balance</string>
+		<key>lines</key>
+		<real>5.5</real>
+		<key>startDegree</key>
+		<string>15 J 07'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>257</real>
+		<key>_startDegree</key>
+		<real>256.0625</real>
+		<key>endDegree</key>
+		<string>17 J 00'00"</string>
+		<key>hexagrams</key>
+		<string>Waiting : Universal timing</string>
+		<key>id</key>
+		<integer>273</integer>
+		<key>lineDescription</key>
+		<string>Let go!</string>
+		<key>lines</key>
+		<real>5.5999999999999996</real>
+		<key>startDegree</key>
+		<string>16 J 03'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>257.9375</real>
+		<key>_startDegree</key>
+		<real>257</real>
+		<key>endDegree</key>
+		<string>17 J 56'15"</string>
+		<key>hexagrams</key>
+		<string>Accumulation : Fortitude</string>
+		<key>id</key>
+		<integer>274</integer>
+		<key>lineDescription</key>
+		<string>Practicality</string>
+		<key>lines</key>
+		<real>26.100000000000001</real>
+		<key>startDegree</key>
+		<string>17 J 00'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>258.875</real>
+		<key>_startDegree</key>
+		<real>257.9375</real>
+		<key>endDegree</key>
+		<string>18 J 52'30"</string>
+		<key>hexagrams</key>
+		<string>Accumulation : Fortitude</string>
+		<key>id</key>
+		<integer>275</integer>
+		<key>lineDescription</key>
+		<string>Self-restraint</string>
+		<key>lines</key>
+		<real>26.199999999999999</real>
+		<key>startDegree</key>
+		<string>17 J 56'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>259.8125</real>
+		<key>_startDegree</key>
+		<real>258.875</real>
+		<key>endDegree</key>
+		<string>19 J 48'45"</string>
+		<key>hexagrams</key>
+		<string>Accumulation : Fortitude</string>
+		<key>id</key>
+		<integer>276</integer>
+		<key>lineDescription</key>
+		<string>Preparation</string>
+		<key>lines</key>
+		<real>26.300000000000001</real>
+		<key>startDegree</key>
+		<string>18 J 52'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>260.75</real>
+		<key>_startDegree</key>
+		<real>259.8125</real>
+		<key>endDegree</key>
+		<string>20 J 45'00"</string>
+		<key>hexagrams</key>
+		<string>Accumulation : Fortitude</string>
+		<key>id</key>
+		<integer>277</integer>
+		<key>lineDescription</key>
+		<string>Prevention</string>
+		<key>lines</key>
+		<real>26.399999999999999</real>
+		<key>startDegree</key>
+		<string>19 J 48'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>261.6875</real>
+		<key>_startDegree</key>
+		<real>260.75</real>
+		<key>endDegree</key>
+		<string>21 J 41'15"</string>
+		<key>hexagrams</key>
+		<string>Accumulation : Fotitude</string>
+		<key>id</key>
+		<integer>278</integer>
+		<key>lineDescription</key>
+		<string>Hearnessing</string>
+		<key>lines</key>
+		<real>26.5</real>
+		<key>startDegree</key>
+		<string>20 J 45'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>262.625</real>
+		<key>_startDegree</key>
+		<real>261.6875</real>
+		<key>endDegree</key>
+		<string>22 J 37'30"</string>
+		<key>hexagrams</key>
+		<string>Accumulation : Fotitude</string>
+		<key>id</key>
+		<integer>279</integer>
+		<key>lineDescription</key>
+		<string>Confidence</string>
+		<key>lines</key>
+		<real>26.600000000000001</real>
+		<key>startDegree</key>
+		<string>21 J 41'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>263.5625</real>
+		<key>_startDegree</key>
+		<real>262.625</real>
+		<key>endDegree</key>
+		<string>23 J 33'45"</string>
+		<key>hexagrams</key>
+		<string>Harmony : Peace &amp; Ideas</string>
+		<key>id</key>
+		<integer>280</integer>
+		<key>lineDescription</key>
+		<string>Cooperation</string>
+		<key>lines</key>
+		<real>11.1</real>
+		<key>startDegree</key>
+		<string>22 J 37'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>264.5</real>
+		<key>_startDegree</key>
+		<real>263.5625</real>
+		<key>endDegree</key>
+		<string>24 J 30'00"</string>
+		<key>hexagrams</key>
+		<string>Harmony : Peace &amp; Ideas</string>
+		<key>id</key>
+		<integer>281</integer>
+		<key>lineDescription</key>
+		<string>Independence</string>
+		<key>lines</key>
+		<real>11.199999999999999</real>
+		<key>startDegree</key>
+		<string>23 J 33'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>265.4375</real>
+		<key>_startDegree</key>
+		<real>264.5</real>
+		<key>endDegree</key>
+		<string>25 J 26'15"</string>
+		<key>hexagrams</key>
+		<string>Harmony : Peace &amp; Ideas</string>
+		<key>id</key>
+		<integer>282</integer>
+		<key>lineDescription</key>
+		<string>Change</string>
+		<key>lines</key>
+		<real>11.300000000000001</real>
+		<key>startDegree</key>
+		<string>24 J 30'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>266.04165649414062</real>
+		<key>_startDegree</key>
+		<real>265.4375</real>
+		<key>endDegree</key>
+		<string>26 J 2'30"</string>
+		<key>hexagrams</key>
+		<string>Harmony : Peace &amp; Ideas</string>
+		<key>id</key>
+		<integer>283</integer>
+		<key>lineDescription</key>
+		<string>Sharing ideals</string>
+		<key>lines</key>
+		<real>11.4</real>
+		<key>startDegree</key>
+		<string>25 J 26'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>267.3125</real>
+		<key>_startDegree</key>
+		<real>266.04165649414062</real>
+		<key>endDegree</key>
+		<string>27 J 18'45"</string>
+		<key>hexagrams</key>
+		<string>Harmony : Peace &amp; Ideas</string>
+		<key>id</key>
+		<integer>284</integer>
+		<key>lineDescription</key>
+		<string>The Ruler who serves</string>
+		<key>lines</key>
+		<real>11.5</real>
+		<key>startDegree</key>
+		<string>26 J 2'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>268.25</real>
+		<key>_startDegree</key>
+		<real>267.3125</real>
+		<key>endDegree</key>
+		<string>28 J 15'00"</string>
+		<key>hexagrams</key>
+		<string>Harmony : Peace &amp; Ideas</string>
+		<key>id</key>
+		<integer>285</integer>
+		<key>lineDescription</key>
+		<string>Flexibility</string>
+		<key>lines</key>
+		<real>11.6</real>
+		<key>startDegree</key>
+		<string>27 J 18'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>269.1875</real>
+		<key>_startDegree</key>
+		<real>268.25</real>
+		<key>endDegree</key>
+		<string>29 J 11'15"</string>
+		<key>hexagrams</key>
+		<string>Behavior : Treading on the Tail of the Tiger</string>
+		<key>id</key>
+		<integer>286</integer>
+		<key>lineDescription</key>
+		<string>The Investigator</string>
+		<key>lines</key>
+		<real>10.1</real>
+		<key>startDegree</key>
+		<string>28 J 15'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>270.125</real>
+		<key>_startDegree</key>
+		<real>269.1875</real>
+		<key>endDegree</key>
+		<string>0 K 07'30"</string>
+		<key>hexagrams</key>
+		<string>Behavior : Treading on the Tail of the Tiger</string>
+		<key>id</key>
+		<integer>287</integer>
+		<key>lineDescription</key>
+		<string>Peacefulness</string>
+		<key>lines</key>
+		<real>10.199999999999999</real>
+		<key>startDegree</key>
+		<string>29 J 11'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>271.0625</real>
+		<key>_startDegree</key>
+		<real>270.125</real>
+		<key>endDegree</key>
+		<string>1 K 03'45"</string>
+		<key>hexagrams</key>
+		<string>Behavior : Treading on the Tail of the Tiger</string>
+		<key>id</key>
+		<integer>288</integer>
+		<key>lineDescription</key>
+		<string>Modesty</string>
+		<key>lines</key>
+		<real>10.300000000000001</real>
+		<key>startDegree</key>
+		<string>0 K 07'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>272</real>
+		<key>_startDegree</key>
+		<real>271.0625</real>
+		<key>endDegree</key>
+		<string>2 K 00'00"</string>
+		<key>hexagrams</key>
+		<string>Behavior : Treading on the Tail of the Tiger</string>
+		<key>id</key>
+		<integer>289</integer>
+		<key>lineDescription</key>
+		<string>Advance</string>
+		<key>lines</key>
+		<real>10.4</real>
+		<key>startDegree</key>
+		<string>1 K 03'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>272.9375</real>
+		<key>_startDegree</key>
+		<real>272</real>
+		<key>endDegree</key>
+		<string>2 K 56'15"</string>
+		<key>hexagrams</key>
+		<string>Behavior : Treading on the Tail of the Tiger</string>
+		<key>id</key>
+		<integer>290</integer>
+		<key>lineDescription</key>
+		<string>Dramatics</string>
+		<key>lines</key>
+		<real>10.5</real>
+		<key>startDegree</key>
+		<string>2 K 00'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>273.875</real>
+		<key>_startDegree</key>
+		<real>272.9375</real>
+		<key>endDegree</key>
+		<string>3 K 52'30"</string>
+		<key>hexagrams</key>
+		<string>Behavior : Treading on the Tail of the Tiger</string>
+		<key>id</key>
+		<integer>291</integer>
+		<key>lineDescription</key>
+		<string>Alignment</string>
+		<key>lines</key>
+		<real>10.6</real>
+		<key>startDegree</key>
+		<string>2 K 56'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>274.8125</real>
+		<key>_startDegree</key>
+		<real>273.875</real>
+		<key>endDegree</key>
+		<string>4 K 48'45"</string>
+		<key>hexagrams</key>
+		<string>Joyous Vitality : The Vital Spark</string>
+		<key>id</key>
+		<integer>292</integer>
+		<key>lineDescription</key>
+		<string>Harmony</string>
+		<key>lines</key>
+		<real>58.100000000000001</real>
+		<key>startDegree</key>
+		<string>3 K 52'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>275.75</real>
+		<key>_startDegree</key>
+		<real>274.8125</real>
+		<key>endDegree</key>
+		<string>5 K 45'00"</string>
+		<key>hexagrams</key>
+		<string>Joyous Vitality : The Vital Spark</string>
+		<key>id</key>
+		<integer>293</integer>
+		<key>lineDescription</key>
+		<string>Integrity</string>
+		<key>lines</key>
+		<real>58.200000000000003</real>
+		<key>startDegree</key>
+		<string>4 K 48'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>276.6875</real>
+		<key>_startDegree</key>
+		<real>275.75</real>
+		<key>endDegree</key>
+		<string>6 K 41'15"</string>
+		<key>hexagrams</key>
+		<string>Joyous Vitality : The Vital Spark</string>
+		<key>id</key>
+		<integer>294</integer>
+		<key>lineDescription</key>
+		<string>Exciting</string>
+		<key>lines</key>
+		<real>58.299999999999997</real>
+		<key>startDegree</key>
+		<string>5 K 45'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>277.625</real>
+		<key>_startDegree</key>
+		<real>276.6875</real>
+		<key>endDegree</key>
+		<string>7 K 37'30"</string>
+		<key>hexagrams</key>
+		<string>Joyous Vitality : The Vital Spark</string>
+		<key>id</key>
+		<integer>295</integer>
+		<key>lineDescription</key>
+		<string>Spontaneity</string>
+		<key>lines</key>
+		<real>58.399999999999999</real>
+		<key>startDegree</key>
+		<string>6 K 41'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>278.5625</real>
+		<key>_startDegree</key>
+		<real>277.625</real>
+		<key>endDegree</key>
+		<string>8 K 33'45"</string>
+		<key>hexagrams</key>
+		<string>Joyous Vitality : The Vital Spark</string>
+		<key>id</key>
+		<integer>296</integer>
+		<key>lineDescription</key>
+		<string>Discretion</string>
+		<key>lines</key>
+		<real>58.5</real>
+		<key>startDegree</key>
+		<string>7 K 37'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>279.5</real>
+		<key>_startDegree</key>
+		<real>278.5625</real>
+		<key>endDegree</key>
+		<string>9 K 30'00"</string>
+		<key>hexagrams</key>
+		<string>Joyous Vitality : The Vital Spark</string>
+		<key>id</key>
+		<integer>297</integer>
+		<key>lineDescription</key>
+		<string>Attraction</string>
+		<key>lines</key>
+		<real>58.600000000000001</real>
+		<key>startDegree</key>
+		<string>8 K 33'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>280.4375</real>
+		<key>_startDegree</key>
+		<real>279.5</real>
+		<key>endDegree</key>
+		<string>10 K 26'15"</string>
+		<key>hexagrams</key>
+		<string>Opposition : The Fighter</string>
+		<key>id</key>
+		<integer>298</integer>
+		<key>lineDescription</key>
+		<string>Impartiality</string>
+		<key>lines</key>
+		<real>38.100000000000001</real>
+		<key>startDegree</key>
+		<string>9 K 30'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>281.375</real>
+		<key>_startDegree</key>
+		<real>280.4375</real>
+		<key>endDegree</key>
+		<string>11 K 22'30"</string>
+		<key>hexagrams</key>
+		<string>Opposition : The Fighter</string>
+		<key>id</key>
+		<integer>299</integer>
+		<key>lineDescription</key>
+		<string>Courtesy</string>
+		<key>lines</key>
+		<real>38.200000000000003</real>
+		<key>startDegree</key>
+		<string>10 K 26'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>282.3125</real>
+		<key>_startDegree</key>
+		<real>281.375</real>
+		<key>endDegree</key>
+		<string>12 K 18'45"</string>
+		<key>hexagrams</key>
+		<string>Opposition : The Fighter</string>
+		<key>id</key>
+		<integer>300</integer>
+		<key>lineDescription</key>
+		<string>Persistence</string>
+		<key>lines</key>
+		<real>38.299999999999997</real>
+		<key>startDegree</key>
+		<string>11 K 22'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>283.25</real>
+		<key>_startDegree</key>
+		<real>282.3125</real>
+		<key>endDegree</key>
+		<string>13 K 15'00"</string>
+		<key>hexagrams</key>
+		<string>Opposition : The Fighter</string>
+		<key>id</key>
+		<integer>301</integer>
+		<key>lineDescription</key>
+		<string>Rejoining</string>
+		<key>lines</key>
+		<real>38.399999999999999</real>
+		<key>startDegree</key>
+		<string>12 K 18'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>284.1875</real>
+		<key>_startDegree</key>
+		<real>283.25</real>
+		<key>endDegree</key>
+		<string>14 K 11'15"</string>
+		<key>hexagrams</key>
+		<string>Opposition : The Fighter</string>
+		<key>id</key>
+		<integer>302</integer>
+		<key>lineDescription</key>
+		<string>Actualization</string>
+		<key>lines</key>
+		<real>38.5</real>
+		<key>startDegree</key>
+		<string>13 K 15'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>285.125</real>
+		<key>_startDegree</key>
+		<real>284.1875</real>
+		<key>endDegree</key>
+		<string>15 K 07'30"</string>
+		<key>hexagrams</key>
+		<string>Opposition : The Fighter</string>
+		<key>id</key>
+		<integer>303</integer>
+		<key>lineDescription</key>
+		<string>Mistrust</string>
+		<key>lines</key>
+		<real>38.600000000000001</real>
+		<key>startDegree</key>
+		<string>14 K 11'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>286.0625</real>
+		<key>_startDegree</key>
+		<real>285.125</real>
+		<key>endDegree</key>
+		<string>16 K 03'45"</string>
+		<key>hexagrams</key>
+		<string>Ambition : both material &amp; spiritual</string>
+		<key>id</key>
+		<integer>304</integer>
+		<key>lineDescription</key>
+		<string>Confidence</string>
+		<key>lines</key>
+		<real>54.100000000000001</real>
+		<key>startDegree</key>
+		<string>15 K 07'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>287</real>
+		<key>_startDegree</key>
+		<real>286.0625</real>
+		<key>endDegree</key>
+		<string>17 K 00'00"</string>
+		<key>hexagrams</key>
+		<string>Ambition : both material &amp; spiritual</string>
+		<key>id</key>
+		<integer>305</integer>
+		<key>lineDescription</key>
+		<string>Resolve</string>
+		<key>lines</key>
+		<real>54.200000000000003</real>
+		<key>startDegree</key>
+		<string>16 K 03'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>287.9375</real>
+		<key>_startDegree</key>
+		<real>287</real>
+		<key>endDegree</key>
+		<string>17 K 56'15"</string>
+		<key>hexagrams</key>
+		<string>Ambition : both material &amp; spiritual</string>
+		<key>id</key>
+		<integer>306</integer>
+		<key>lineDescription</key>
+		<string>Prudence</string>
+		<key>lines</key>
+		<real>54.299999999999997</real>
+		<key>startDegree</key>
+		<string>17 K 00'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>288.875</real>
+		<key>_startDegree</key>
+		<real>287.9375</real>
+		<key>endDegree</key>
+		<string>18 K 52'30"</string>
+		<key>hexagrams</key>
+		<string>Ambition : both material &amp; spiritual</string>
+		<key>id</key>
+		<integer>307</integer>
+		<key>lineDescription</key>
+		<string>Illumination</string>
+		<key>lines</key>
+		<real>54.399999999999999</real>
+		<key>startDegree</key>
+		<string>17 K 56'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>289.8125</real>
+		<key>_startDegree</key>
+		<real>288.875</real>
+		<key>endDegree</key>
+		<string>19 K 48'45"</string>
+		<key>hexagrams</key>
+		<string>Ambition : both material &amp; spiritual</string>
+		<key>id</key>
+		<integer>308</integer>
+		<key>lineDescription</key>
+		<string>Spirituality</string>
+		<key>lines</key>
+		<real>54.5</real>
+		<key>startDegree</key>
+		<string>18 K 52'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>290.75</real>
+		<key>_startDegree</key>
+		<real>289.8125</real>
+		<key>endDegree</key>
+		<string>20 K 45'00"</string>
+		<key>hexagrams</key>
+		<string>Ambition : both material &amp; spiritual</string>
+		<key>id</key>
+		<integer>309</integer>
+		<key>lineDescription</key>
+		<string>Politically correct</string>
+		<key>lines</key>
+		<real>54.600000000000001</real>
+		<key>startDegree</key>
+		<string>19 K 48'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>291.6875</real>
+		<key>_startDegree</key>
+		<real>290.75</real>
+		<key>endDegree</key>
+		<string>21 K 41'15"</string>
+		<key>hexagrams</key>
+		<string>Inner Truth : Sincerity : Mystery</string>
+		<key>id</key>
+		<integer>310</integer>
+		<key>lineDescription</key>
+		<string>Trustworthiness</string>
+		<key>lines</key>
+		<real>61.100000000000001</real>
+		<key>startDegree</key>
+		<string>20 K 45'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>292.625</real>
+		<key>_startDegree</key>
+		<real>291.6875</real>
+		<key>endDegree</key>
+		<string>22 K 37'30"</string>
+		<key>hexagrams</key>
+		<string>Inner Truth : Sincerity : Mystery</string>
+		<key>id</key>
+		<integer>311</integer>
+		<key>lineDescription</key>
+		<string>Attuning</string>
+		<key>lines</key>
+		<real>61.200000000000003</real>
+		<key>startDegree</key>
+		<string>21 K 41'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>293.5625</real>
+		<key>_startDegree</key>
+		<real>292.625</real>
+		<key>endDegree</key>
+		<string>23 K 33'45"</string>
+		<key>hexagrams</key>
+		<string>Inner Truth : Sincerity : Mystery</string>
+		<key>id</key>
+		<integer>312</integer>
+		<key>lineDescription</key>
+		<string>Inter dependence</string>
+		<key>lines</key>
+		<real>61.299999999999997</real>
+		<key>startDegree</key>
+		<string>22 K 37'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>294.5</real>
+		<key>_startDegree</key>
+		<real>293.5625</real>
+		<key>endDegree</key>
+		<string>24 K 30'00"</string>
+		<key>hexagrams</key>
+		<string>Inner Truth : Sincerity : Mystery</string>
+		<key>id</key>
+		<integer>313</integer>
+		<key>lineDescription</key>
+		<string>Higher Truth</string>
+		<key>lines</key>
+		<real>61.399999999999999</real>
+		<key>startDegree</key>
+		<string>23 K 33'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>295.4375</real>
+		<key>_startDegree</key>
+		<real>294.5</real>
+		<key>endDegree</key>
+		<string>25 K 26'15"</string>
+		<key>hexagrams</key>
+		<string>Inner Truth : Sincerity : Mystery</string>
+		<key>id</key>
+		<integer>314</integer>
+		<key>lineDescription</key>
+		<string>Ingenuity</string>
+		<key>lines</key>
+		<real>61.5</real>
+		<key>startDegree</key>
+		<string>24 K 30'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>296.375</real>
+		<key>_startDegree</key>
+		<real>295.4375</real>
+		<key>endDegree</key>
+		<string>26 K 22'30"</string>
+		<key>hexagrams</key>
+		<string>Inner Truth : Sincerity : Mystery</string>
+		<key>id</key>
+		<integer>315</integer>
+		<key>lineDescription</key>
+		<string>Perceptions</string>
+		<key>lines</key>
+		<real>61.600000000000001</real>
+		<key>startDegree</key>
+		<string>25 K 26'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>297.3125</real>
+		<key>_startDegree</key>
+		<real>296.375</real>
+		<key>endDegree</key>
+		<string>27 K 18'45"</string>
+		<key>hexagrams</key>
+		<string>Limitation : Restriction, Acceptance</string>
+		<key>id</key>
+		<integer>316</integer>
+		<key>lineDescription</key>
+		<string>Self-Restraint</string>
+		<key>lines</key>
+		<real>60.100000000000001</real>
+		<key>startDegree</key>
+		<string>26 K 22'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>298.25</real>
+		<key>_startDegree</key>
+		<real>297.3125</real>
+		<key>endDegree</key>
+		<string>28 K 15'00"</string>
+		<key>hexagrams</key>
+		<string>Limitation : Restriction, Acceptance</string>
+		<key>id</key>
+		<integer>317</integer>
+		<key>lineDescription</key>
+		<string>Advantage</string>
+		<key>lines</key>
+		<real>60.200000000000003</real>
+		<key>startDegree</key>
+		<string>27 K 18'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>299.1875</real>
+		<key>_startDegree</key>
+		<real>298.25</real>
+		<key>endDegree</key>
+		<string>29 K 11'15"</string>
+		<key>hexagrams</key>
+		<string>Limitation : Restriction, Acceptance</string>
+		<key>id</key>
+		<integer>318</integer>
+		<key>lineDescription</key>
+		<string>Self-indulgence</string>
+		<key>lines</key>
+		<real>60.299999999999997</real>
+		<key>startDegree</key>
+		<string>28 K 15'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>300.125</real>
+		<key>_startDegree</key>
+		<real>299.1875</real>
+		<key>endDegree</key>
+		<string>00 L 07'30"</string>
+		<key>hexagrams</key>
+		<string>Limitation : Restriction, Acceptance</string>
+		<key>id</key>
+		<integer>319</integer>
+		<key>lineDescription</key>
+		<string>Extending</string>
+		<key>lines</key>
+		<real>60.399999999999999</real>
+		<key>startDegree</key>
+		<string>29 K 11'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>301.0625</real>
+		<key>_startDegree</key>
+		<real>300.125</real>
+		<key>endDegree</key>
+		<string>1 L 03'45"</string>
+		<key>hexagrams</key>
+		<string>Limitation : Restriction, Acceptance</string>
+		<key>id</key>
+		<integer>320</integer>
+		<key>lineDescription</key>
+		<string>Impartiality</string>
+		<key>lines</key>
+		<real>60.5</real>
+		<key>startDegree</key>
+		<string>00 L 07'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>302</real>
+		<key>_startDegree</key>
+		<real>301.0625</real>
+		<key>endDegree</key>
+		<string>2 L 00'00"</string>
+		<key>hexagrams</key>
+		<string>Limitation : Restriction, Acceptance</string>
+		<key>id</key>
+		<integer>321</integer>
+		<key>lineDescription</key>
+		<string>Idealism</string>
+		<key>lines</key>
+		<real>60.600000000000001</real>
+		<key>startDegree</key>
+		<string>1 L 03'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>302.9375</real>
+		<key>_startDegree</key>
+		<real>302</real>
+		<key>endDegree</key>
+		<string>2 L 56'15"</string>
+		<key>hexagrams</key>
+		<string>Imagination : Evaluating Potentials</string>
+		<key>id</key>
+		<integer>322</integer>
+		<key>lineDescription</key>
+		<string>Moderation</string>
+		<key>lines</key>
+		<real>41.100000000000001</real>
+		<key>startDegree</key>
+		<string>2 L 00'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>303.875</real>
+		<key>_startDegree</key>
+		<real>302.9375</real>
+		<key>endDegree</key>
+		<string>3 L 52'30"</string>
+		<key>hexagrams</key>
+		<string>Imagination : Evaluating Potentials</string>
+		<key>id</key>
+		<integer>323</integer>
+		<key>lineDescription</key>
+		<string>Forethought</string>
+		<key>lines</key>
+		<real>41.200000000000003</real>
+		<key>startDegree</key>
+		<string>2 L 56'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>304.8125</real>
+		<key>_startDegree</key>
+		<real>303.875</real>
+		<key>endDegree</key>
+		<string>4 L 48'45"</string>
+		<key>hexagrams</key>
+		<string>Imagination : Evaluating Potentials</string>
+		<key>id</key>
+		<integer>324</integer>
+		<key>lineDescription</key>
+		<string>Synergy</string>
+		<key>lines</key>
+		<real>41.299999999999997</real>
+		<key>startDegree</key>
+		<string>3 L 52'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>305.75</real>
+		<key>_startDegree</key>
+		<real>304.8125</real>
+		<key>endDegree</key>
+		<string>5 L 45'00"</string>
+		<key>hexagrams</key>
+		<string>Imagination : Evaluating Potentials</string>
+		<key>id</key>
+		<integer>325</integer>
+		<key>lineDescription</key>
+		<string>Shortcomings</string>
+		<key>lines</key>
+		<real>41.399999999999999</real>
+		<key>startDegree</key>
+		<string>4 L 48'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>306.6875</real>
+		<key>_startDegree</key>
+		<real>305.75</real>
+		<key>endDegree</key>
+		<string>6 L 41'15"</string>
+		<key>hexagrams</key>
+		<string>Imagination : Evaluating Potentials</string>
+		<key>id</key>
+		<integer>326</integer>
+		<key>lineDescription</key>
+		<string>Recognition</string>
+		<key>lines</key>
+		<real>41.5</real>
+		<key>startDegree</key>
+		<string>5 L 45'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>307.625</real>
+		<key>_startDegree</key>
+		<real>306.6875</real>
+		<key>endDegree</key>
+		<string>7 L 37'30"</string>
+		<key>hexagrams</key>
+		<string>Imagination : Evaluating Potentials</string>
+		<key>id</key>
+		<integer>327</integer>
+		<key>lineDescription</key>
+		<string>Fullness</string>
+		<key>lines</key>
+		<real>41.600000000000001</real>
+		<key>startDegree</key>
+		<string>6 L 41'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>308.5625</real>
+		<key>_startDegree</key>
+		<real>307.625</real>
+		<key>endDegree</key>
+		<string>8 L 33'45"</string>
+		<key>hexagrams</key>
+		<string>Approach : Inclusion</string>
+		<key>id</key>
+		<integer>328</integer>
+		<key>lineDescription</key>
+		<string>Mutuality</string>
+		<key>lines</key>
+		<real>19.100000000000001</real>
+		<key>startDegree</key>
+		<string>7 L 37'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>309.5</real>
+		<key>_startDegree</key>
+		<real>308.5625</real>
+		<key>endDegree</key>
+		<string>9 L 30'00"</string>
+		<key>hexagrams</key>
+		<string>Approach : Inclusion</string>
+		<key>id</key>
+		<integer>329</integer>
+		<key>lineDescription</key>
+		<string>Cooperation</string>
+		<key>lines</key>
+		<real>19.199999999999999</real>
+		<key>startDegree</key>
+		<string>8 L 33'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>310.4375</real>
+		<key>_startDegree</key>
+		<real>309.5</real>
+		<key>endDegree</key>
+		<string>10 L 26'15"</string>
+		<key>hexagrams</key>
+		<string>Approach : Inclusion</string>
+		<key>id</key>
+		<integer>330</integer>
+		<key>lineDescription</key>
+		<string>Loyalty</string>
+		<key>lines</key>
+		<real>19.300000000000001</real>
+		<key>startDegree</key>
+		<string>9 L 30'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>311.375</real>
+		<key>_startDegree</key>
+		<real>310.4375</real>
+		<key>endDegree</key>
+		<string>11 L 22'30"</string>
+		<key>hexagrams</key>
+		<string>Approach : Inclusion</string>
+		<key>id</key>
+		<integer>331</integer>
+		<key>lineDescription</key>
+		<string>Maturity</string>
+		<key>lines</key>
+		<real>19.399999999999999</real>
+		<key>startDegree</key>
+		<string>10 L 26'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>312.3125</real>
+		<key>_startDegree</key>
+		<real>311.375</real>
+		<key>endDegree</key>
+		<string>12 L 18'45"</string>
+		<key>hexagrams</key>
+		<string>Approach : Inclusion</string>
+		<key>id</key>
+		<integer>332</integer>
+		<key>lineDescription</key>
+		<string>Delegating</string>
+		<key>lines</key>
+		<real>19.5</real>
+		<key>startDegree</key>
+		<string>11 L 22'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>313.25</real>
+		<key>_startDegree</key>
+		<real>312.3125</real>
+		<key>endDegree</key>
+		<string>13 L 15'00"</string>
+		<key>hexagrams</key>
+		<string>Approach : Inclusion</string>
+		<key>id</key>
+		<integer>333</integer>
+		<key>lineDescription</key>
+		<string>The Sage</string>
+		<key>lines</key>
+		<real>19.600000000000001</real>
+		<key>startDegree</key>
+		<string>12 L 18'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>314.1875</real>
+		<key>_startDegree</key>
+		<real>313.25</real>
+		<key>endDegree</key>
+		<string>14 L 11'15"</string>
+		<key>hexagrams</key>
+		<string>The Listener : Fellowship</string>
+		<key>id</key>
+		<integer>334</integer>
+		<key>lineDescription</key>
+		<string>Openness</string>
+		<key>lines</key>
+		<real>13.1</real>
+		<key>startDegree</key>
+		<string>13 L 15'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>315.1875</real>
+		<key>_startDegree</key>
+		<real>314.1875</real>
+		<key>endDegree</key>
+		<string>15 L 11'15"</string>
+		<key>hexagrams</key>
+		<string>The Listener : Fellowship</string>
+		<key>id</key>
+		<integer>335</integer>
+		<key>lineDescription</key>
+		<string>Impartiality</string>
+		<key>lines</key>
+		<real>13.199999999999999</real>
+		<key>startDegree</key>
+		<string>14 L 11'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>316.0625</real>
+		<key>_startDegree</key>
+		<real>315.1875</real>
+		<key>endDegree</key>
+		<string>16 L 03'45"</string>
+		<key>hexagrams</key>
+		<string>The Listener : Fellowship</string>
+		<key>id</key>
+		<integer>336</integer>
+		<key>lineDescription</key>
+		<string>Learning</string>
+		<key>lines</key>
+		<real>13.300000000000001</real>
+		<key>startDegree</key>
+		<string>15 L 11'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>317</real>
+		<key>_startDegree</key>
+		<real>316.0625</real>
+		<key>endDegree</key>
+		<string>17 L 00'00"</string>
+		<key>hexagrams</key>
+		<string>The Listener : Fellowship</string>
+		<key>id</key>
+		<integer>337</integer>
+		<key>lineDescription</key>
+		<string>Capacity</string>
+		<key>lines</key>
+		<real>13.4</real>
+		<key>startDegree</key>
+		<string>16 L 03'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>317.9375</real>
+		<key>_startDegree</key>
+		<real>317</real>
+		<key>endDegree</key>
+		<string>17 L 56'15"</string>
+		<key>hexagrams</key>
+		<string>The Listener : Fellowship</string>
+		<key>id</key>
+		<integer>338</integer>
+		<key>lineDescription</key>
+		<string>Symphony</string>
+		<key>lines</key>
+		<real>13.5</real>
+		<key>startDegree</key>
+		<string>17 L 00'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>318.875</real>
+		<key>_startDegree</key>
+		<real>317.9375</real>
+		<key>endDegree</key>
+		<string>18 L 52'30"</string>
+		<key>hexagrams</key>
+		<string>The Listener : Fellowship</string>
+		<key>id</key>
+		<integer>339</integer>
+		<key>lineDescription</key>
+		<string>Universal fellowship</string>
+		<key>lines</key>
+		<real>13.6</real>
+		<key>startDegree</key>
+		<string>17 L 56'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>319.8125</real>
+		<key>_startDegree</key>
+		<real>318.875</real>
+		<key>endDegree</key>
+		<string>19 L 48'45"</string>
+		<key>hexagrams</key>
+		<string>Revolution : Principles : The Rebel</string>
+		<key>id</key>
+		<integer>340</integer>
+		<key>lineDescription</key>
+		<string>Right timing</string>
+		<key>lines</key>
+		<real>49.100000000000001</real>
+		<key>startDegree</key>
+		<string>18 L 52'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>320.75</real>
+		<key>_startDegree</key>
+		<real>319.8125</real>
+		<key>endDegree</key>
+		<string>20 L 45'00"</string>
+		<key>hexagrams</key>
+		<string>Revolution : Principles : The Rebel</string>
+		<key>id</key>
+		<integer>341</integer>
+		<key>lineDescription</key>
+		<string>Firmness</string>
+		<key>lines</key>
+		<real>49.200000000000003</real>
+		<key>startDegree</key>
+		<string>19 L 48'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>321.6875</real>
+		<key>_startDegree</key>
+		<real>320.75</real>
+		<key>endDegree</key>
+		<string>21 L 41'15"</string>
+		<key>hexagrams</key>
+		<string>Revolution : Principles : The Rebel</string>
+		<key>id</key>
+		<integer>342</integer>
+		<key>lineDescription</key>
+		<string>Informing</string>
+		<key>lines</key>
+		<real>49.299999999999997</real>
+		<key>startDegree</key>
+		<string>20 L 45'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>322.625</real>
+		<key>_startDegree</key>
+		<real>321.6875</real>
+		<key>endDegree</key>
+		<string>22 L 37'30"</string>
+		<key>hexagrams</key>
+		<string>Revolution : Principles : The Rebel</string>
+		<key>id</key>
+		<integer>343</integer>
+		<key>lineDescription</key>
+		<string>Preparedness</string>
+		<key>lines</key>
+		<real>49.399999999999999</real>
+		<key>startDegree</key>
+		<string>21 L 41'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>323.5625</real>
+		<key>_startDegree</key>
+		<real>322.625</real>
+		<key>endDegree</key>
+		<string>23 L 33'45"</string>
+		<key>hexagrams</key>
+		<string>Revolution : Principles : The Rebel</string>
+		<key>id</key>
+		<integer>344</integer>
+		<key>lineDescription</key>
+		<string>Sentience</string>
+		<key>lines</key>
+		<real>49.5</real>
+		<key>startDegree</key>
+		<string>22 L 37'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>324.5</real>
+		<key>_startDegree</key>
+		<real>323.5625</real>
+		<key>endDegree</key>
+		<string>24 L 30'00"</string>
+		<key>hexagrams</key>
+		<string>Revolution : Principles : The Rebel</string>
+		<key>id</key>
+		<integer>345</integer>
+		<key>lineDescription</key>
+		<string>Satisfaction</string>
+		<key>lines</key>
+		<real>49.600000000000001</real>
+		<key>startDegree</key>
+		<string>23 L 33'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>325.4375</real>
+		<key>_startDegree</key>
+		<real>324.5</real>
+		<key>endDegree</key>
+		<string>25 L 26'15"</string>
+		<key>hexagrams</key>
+		<string>Desire : The Clinging Fire</string>
+		<key>id</key>
+		<integer>346</integer>
+		<key>lineDescription</key>
+		<string>Centering</string>
+		<key>lines</key>
+		<real>30.100000000000001</real>
+		<key>startDegree</key>
+		<string>24 L 30'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>326.375</real>
+		<key>_startDegree</key>
+		<real>325.4375</real>
+		<key>endDegree</key>
+		<string>26 L 22'30"</string>
+		<key>hexagrams</key>
+		<string>Desire : The Clinging Fire</string>
+		<key>id</key>
+		<integer>347</integer>
+		<key>lineDescription</key>
+		<string>The Golden Mean</string>
+		<key>lines</key>
+		<real>30.199999999999999</real>
+		<key>startDegree</key>
+		<string>25 L 26'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>327.3125</real>
+		<key>_startDegree</key>
+		<real>326.375</real>
+		<key>endDegree</key>
+		<string>27 L 18'45"</string>
+		<key>hexagrams</key>
+		<string>Desire : The Clinging Fire</string>
+		<key>id</key>
+		<integer>348</integer>
+		<key>lineDescription</key>
+		<string>Coolness</string>
+		<key>lines</key>
+		<real>30.300000000000001</real>
+		<key>startDegree</key>
+		<string>26 L 22'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>328.25</real>
+		<key>_startDegree</key>
+		<real>327.3125</real>
+		<key>endDegree</key>
+		<string>28 L 15'00"</string>
+		<key>hexagrams</key>
+		<string>Desire : The Clinging Fire</string>
+		<key>id</key>
+		<integer>349</integer>
+		<key>lineDescription</key>
+		<string>Completion</string>
+		<key>lines</key>
+		<real>30.399999999999999</real>
+		<key>startDegree</key>
+		<string>27 L 18'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>329.1875</real>
+		<key>_startDegree</key>
+		<real>328.25</real>
+		<key>endDegree</key>
+		<string>29 L 11'15"</string>
+		<key>hexagrams</key>
+		<string>Desire : The Clinging Fire</string>
+		<key>id</key>
+		<integer>350</integer>
+		<key>lineDescription</key>
+		<string>Heartsease</string>
+		<key>lines</key>
+		<real>30.5</real>
+		<key>startDegree</key>
+		<string>28 L 15'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>330.125</real>
+		<key>_startDegree</key>
+		<real>329.1875</real>
+		<key>endDegree</key>
+		<string>00 A 07'30"</string>
+		<key>hexagrams</key>
+		<string>Desire : The Clinging Fire</string>
+		<key>id</key>
+		<integer>351</integer>
+		<key>lineDescription</key>
+		<string>Purification</string>
+		<key>lines</key>
+		<real>30.600000000000001</real>
+		<key>startDegree</key>
+		<string>29 L 11'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>331.0625</real>
+		<key>_startDegree</key>
+		<real>330.125</real>
+		<key>endDegree</key>
+		<string>1 A 03'45"</string>
+		<key>hexagrams</key>
+		<string>Abundance : Spirit</string>
+		<key>id</key>
+		<integer>352</integer>
+		<key>lineDescription</key>
+		<string>Relating</string>
+		<key>lines</key>
+		<real>55.100000000000001</real>
+		<key>startDegree</key>
+		<string>00 A 07'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>332</real>
+		<key>_startDegree</key>
+		<real>331.0625</real>
+		<key>endDegree</key>
+		<string>2 A 00'00"</string>
+		<key>hexagrams</key>
+		<string>Abundance : Spirit</string>
+		<key>id</key>
+		<integer>353</integer>
+		<key>lineDescription</key>
+		<string>Trust</string>
+		<key>lines</key>
+		<real>55.200000000000003</real>
+		<key>startDegree</key>
+		<string>1 A 03'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>332.9375</real>
+		<key>_startDegree</key>
+		<real>332</real>
+		<key>endDegree</key>
+		<string>2 A 56'15"</string>
+		<key>hexagrams</key>
+		<string>Abundance : Spirit</string>
+		<key>id</key>
+		<integer>354</integer>
+		<key>lineDescription</key>
+		<string>Eclipses</string>
+		<key>lines</key>
+		<real>55.299999999999997</real>
+		<key>startDegree</key>
+		<string>2 A 00'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>333.875</real>
+		<key>_startDegree</key>
+		<real>332.9375</real>
+		<key>endDegree</key>
+		<string>3 A 52'30"</string>
+		<key>hexagrams</key>
+		<string>Abundance : Spirit</string>
+		<key>id</key>
+		<integer>355</integer>
+		<key>lineDescription</key>
+		<string>Brightening</string>
+		<key>lines</key>
+		<real>55.399999999999999</real>
+		<key>startDegree</key>
+		<string>2 A 56'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>334.8125</real>
+		<key>_startDegree</key>
+		<real>333.875</real>
+		<key>endDegree</key>
+		<string>4 A 48'45"</string>
+		<key>hexagrams</key>
+		<string>Abundance : Spirit</string>
+		<key>id</key>
+		<integer>356</integer>
+		<key>lineDescription</key>
+		<string>Counseling</string>
+		<key>lines</key>
+		<real>55.5</real>
+		<key>startDegree</key>
+		<string>3 A 52'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>335.75</real>
+		<key>_startDegree</key>
+		<real>334.8125</real>
+		<key>endDegree</key>
+		<string>5 A 45'00"</string>
+		<key>hexagrams</key>
+		<string>Abundance : Spirit</string>
+		<key>id</key>
+		<integer>357</integer>
+		<key>lineDescription</key>
+		<string>Selflessness</string>
+		<key>lines</key>
+		<real>55.600000000000001</real>
+		<key>startDegree</key>
+		<string>4 A 48'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>336.6875</real>
+		<key>_startDegree</key>
+		<real>335.75</real>
+		<key>endDegree</key>
+		<string>6 A 41'15"</string>
+		<key>hexagrams</key>
+		<string>The Family : Friendship</string>
+		<key>id</key>
+		<integer>358</integer>
+		<key>lineDescription</key>
+		<string>Respect</string>
+		<key>lines</key>
+		<real>37.100000000000001</real>
+		<key>startDegree</key>
+		<string>5 A 45'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>337.625</real>
+		<key>_startDegree</key>
+		<real>336.6875</real>
+		<key>endDegree</key>
+		<string>7 A 37'30"</string>
+		<key>hexagrams</key>
+		<string>The Family : Friendship</string>
+		<key>id</key>
+		<integer>359</integer>
+		<key>lineDescription</key>
+		<string>Commitment</string>
+		<key>lines</key>
+		<real>37.200000000000003</real>
+		<key>startDegree</key>
+		<string>6 A 41'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>338.5625</real>
+		<key>_startDegree</key>
+		<real>337.625</real>
+		<key>endDegree</key>
+		<string>8 A 33'45"</string>
+		<key>hexagrams</key>
+		<string>The Family : Friendship</string>
+		<key>id</key>
+		<integer>360</integer>
+		<key>lineDescription</key>
+		<string>Toughtfulness</string>
+		<key>lines</key>
+		<real>37.299999999999997</real>
+		<key>startDegree</key>
+		<string>7 A 37'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>339.5</real>
+		<key>_startDegree</key>
+		<real>338.5625</real>
+		<key>endDegree</key>
+		<string>9 A 30'00"</string>
+		<key>hexagrams</key>
+		<string>The Family : Friendship</string>
+		<key>id</key>
+		<integer>361</integer>
+		<key>lineDescription</key>
+		<string>Enrichment</string>
+		<key>lines</key>
+		<real>37.399999999999999</real>
+		<key>startDegree</key>
+		<string>8 A 33'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>340.4375</real>
+		<key>_startDegree</key>
+		<real>339.5</real>
+		<key>endDegree</key>
+		<string>10 A 26'15"</string>
+		<key>hexagrams</key>
+		<string>The Family : Friendship</string>
+		<key>id</key>
+		<integer>362</integer>
+		<key>lineDescription</key>
+		<string>Loyalty</string>
+		<key>lines</key>
+		<real>37.5</real>
+		<key>startDegree</key>
+		<string>9 A 30'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>341.375</real>
+		<key>_startDegree</key>
+		<real>340.4375</real>
+		<key>endDegree</key>
+		<string>11 A 22'30"</string>
+		<key>hexagrams</key>
+		<string>The Family : Friendship</string>
+		<key>id</key>
+		<integer>363</integer>
+		<key>lineDescription</key>
+		<string>Astuteness</string>
+		<key>lines</key>
+		<real>37.600000000000001</real>
+		<key>startDegree</key>
+		<string>10 A 26'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>342.3125</real>
+		<key>_startDegree</key>
+		<real>341.375</real>
+		<key>endDegree</key>
+		<string>12 A 18'45"</string>
+		<key>hexagrams</key>
+		<string>Doubts : Critical Perception</string>
+		<key>id</key>
+		<integer>364</integer>
+		<key>lineDescription</key>
+		<string>Investigation</string>
+		<key>lines</key>
+		<real>63.100000000000001</real>
+		<key>startDegree</key>
+		<string>11 A 22'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>343.25</real>
+		<key>_startDegree</key>
+		<real>342.3125</real>
+		<key>endDegree</key>
+		<string>13 A 15'00"</string>
+		<key>hexagrams</key>
+		<string>Doubts : Critical Perception</string>
+		<key>id</key>
+		<integer>365</integer>
+		<key>lineDescription</key>
+		<string>Reserve</string>
+		<key>lines</key>
+		<real>63.200000000000003</real>
+		<key>startDegree</key>
+		<string>12 A 18'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>344.1875</real>
+		<key>_startDegree</key>
+		<real>343.25</real>
+		<key>endDegree</key>
+		<string>14 A 11'15"</string>
+		<key>hexagrams</key>
+		<string>Doubts : Critical Perception</string>
+		<key>id</key>
+		<integer>366</integer>
+		<key>lineDescription</key>
+		<string>Revitalization</string>
+		<key>lines</key>
+		<real>63.299999999999997</real>
+		<key>startDegree</key>
+		<string>13 A 15'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>345.125</real>
+		<key>_startDegree</key>
+		<real>344.1875</real>
+		<key>endDegree</key>
+		<string>15 A 07'30"</string>
+		<key>hexagrams</key>
+		<string>Doubts : Critical Perception</string>
+		<key>id</key>
+		<integer>367</integer>
+		<key>lineDescription</key>
+		<string>Watchfulness</string>
+		<key>lines</key>
+		<real>63.399999999999999</real>
+		<key>startDegree</key>
+		<string>14 A 11'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>346.0625</real>
+		<key>_startDegree</key>
+		<real>345.125</real>
+		<key>endDegree</key>
+		<string>16 A 03'45"</string>
+		<key>hexagrams</key>
+		<string>Doubts : Critical Perception</string>
+		<key>id</key>
+		<integer>368</integer>
+		<key>lineDescription</key>
+		<string>Benefaction</string>
+		<key>lines</key>
+		<real>63.5</real>
+		<key>startDegree</key>
+		<string>15 A 07'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>347</real>
+		<key>_startDegree</key>
+		<real>346.0625</real>
+		<key>endDegree</key>
+		<string>17 A 00'00"</string>
+		<key>hexagrams</key>
+		<string>Doubts : Critical Perception</string>
+		<key>id</key>
+		<integer>369</integer>
+		<key>lineDescription</key>
+		<string>Anticipation</string>
+		<key>lines</key>
+		<real>63.600000000000001</real>
+		<key>startDegree</key>
+		<string>16 A 03'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>347.9375</real>
+		<key>_startDegree</key>
+		<real>347</real>
+		<key>endDegree</key>
+		<string>17 A 56'15"</string>
+		<key>hexagrams</key>
+		<string>Grace : Adorning : Favor</string>
+		<key>id</key>
+		<integer>370</integer>
+		<key>lineDescription</key>
+		<string>Being Gracious</string>
+		<key>lines</key>
+		<real>22.100000000000001</real>
+		<key>startDegree</key>
+		<string>17 A 00'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>348.875</real>
+		<key>_startDegree</key>
+		<real>347.9375</real>
+		<key>endDegree</key>
+		<string>18 A 52'30"</string>
+		<key>hexagrams</key>
+		<string>Grace : Adorning : Favor</string>
+		<key>id</key>
+		<integer>371</integer>
+		<key>lineDescription</key>
+		<string>Charming</string>
+		<key>lines</key>
+		<real>22.199999999999999</real>
+		<key>startDegree</key>
+		<string>17 A 56'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>349.8125</real>
+		<key>_startDegree</key>
+		<real>348.875</real>
+		<key>endDegree</key>
+		<string>19 A 48'45"</string>
+		<key>hexagrams</key>
+		<string>Grace : Adorning : Favor</string>
+		<key>id</key>
+		<integer>372</integer>
+		<key>lineDescription</key>
+		<string>The Enchanter/Enchantress</string>
+		<key>lines</key>
+		<real>22.300000000000001</real>
+		<key>startDegree</key>
+		<string>18 A 52'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>350.75</real>
+		<key>_startDegree</key>
+		<real>349.8125</real>
+		<key>endDegree</key>
+		<string>20 A 45'00"</string>
+		<key>hexagrams</key>
+		<string>Grace : Adorning : Favor</string>
+		<key>id</key>
+		<integer>373</integer>
+		<key>lineDescription</key>
+		<string>Sincerity</string>
+		<key>lines</key>
+		<real>22.399999999999999</real>
+		<key>startDegree</key>
+		<string>19 A 48'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>351.6875</real>
+		<key>_startDegree</key>
+		<real>350.75</real>
+		<key>endDegree</key>
+		<string>21 A 41'15"</string>
+		<key>hexagrams</key>
+		<string>Grace : Adorning : Favor</string>
+		<key>id</key>
+		<integer>374</integer>
+		<key>lineDescription</key>
+		<string>Inner Beauty</string>
+		<key>lines</key>
+		<real>22.5</real>
+		<key>startDegree</key>
+		<string>20 A 45'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>352.625</real>
+		<key>_startDegree</key>
+		<real>351.6875</real>
+		<key>endDegree</key>
+		<string>22 A 37'30"</string>
+		<key>hexagrams</key>
+		<string>Grace : Adorning : Favor</string>
+		<key>id</key>
+		<integer>375</integer>
+		<key>lineDescription</key>
+		<string>Sophistication</string>
+		<key>lines</key>
+		<real>22.600000000000001</real>
+		<key>startDegree</key>
+		<string>21 A 41'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>353.5625</real>
+		<key>_startDegree</key>
+		<real>352.625</real>
+		<key>endDegree</key>
+		<string>23 A 33'45"</string>
+		<key>hexagrams</key>
+		<string>Crisis Resolution : Darkening of the Light</string>
+		<key>id</key>
+		<integer>376</integer>
+		<key>lineDescription</key>
+		<string>Enduring</string>
+		<key>lines</key>
+		<real>36.100000000000001</real>
+		<key>startDegree</key>
+		<string>22 A 37'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>354.5</real>
+		<key>_startDegree</key>
+		<real>353.5625</real>
+		<key>endDegree</key>
+		<string>24 A 30'00"</string>
+		<key>hexagrams</key>
+		<string>Crisis Resolution : Darkening of the Light</string>
+		<key>id</key>
+		<integer>377</integer>
+		<key>lineDescription</key>
+		<string>Assistance</string>
+		<key>lines</key>
+		<real>36.200000000000003</real>
+		<key>startDegree</key>
+		<string>23 A 33'45"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>355.4375</real>
+		<key>_startDegree</key>
+		<real>354.5</real>
+		<key>endDegree</key>
+		<string>25 A 26'15"</string>
+		<key>hexagrams</key>
+		<string>Crisis Resolution : Darkening of the Light</string>
+		<key>id</key>
+		<integer>378</integer>
+		<key>lineDescription</key>
+		<string>Breakout</string>
+		<key>lines</key>
+		<real>36.299999999999997</real>
+		<key>startDegree</key>
+		<string>24 A 30'00"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>356.04165649414062</real>
+		<key>_startDegree</key>
+		<real>355.4375</real>
+		<key>endDegree</key>
+		<string>26 A 2'30"</string>
+		<key>hexagrams</key>
+		<string>Crisis Resolution : Darkening of the Light</string>
+		<key>id</key>
+		<integer>379</integer>
+		<key>lineDescription</key>
+		<string>Observation</string>
+		<key>lines</key>
+		<real>36.399999999999999</real>
+		<key>startDegree</key>
+		<string>25 A 26'15"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>357.3125</real>
+		<key>_startDegree</key>
+		<real>356.04165649414062</real>
+		<key>endDegree</key>
+		<string>27 A 18'45"</string>
+		<key>hexagrams</key>
+		<string>Crisis Resolution : Darkening of the Light</string>
+		<key>id</key>
+		<integer>380</integer>
+		<key>lineDescription</key>
+		<string>Concealment</string>
+		<key>lines</key>
+		<real>36.5</real>
+		<key>startDegree</key>
+		<string>26 A 2'30"</string>
+	</dict>
+	<dict>
+		<key>_endDegree</key>
+		<real>358.25</real>
+		<key>_startDegree</key>
+		<real>357.3125</real>
+		<key>endDegree</key>
+		<string>28 A 15'00"</string>
+		<key>hexagrams</key>
+		<string>Crisis Resolution : Darkening of the Light</string>
+		<key>id</key>
+		<integer>381</integer>
+		<key>lineDescription</key>
+		<string>Resolution</string>
+		<key>lines</key>
+		<real>36.600000000000001</real>
+		<key>startDegree</key>
+		<string>27 A 18'45"</string>
+	</dict>
+</array>
+</plist>
