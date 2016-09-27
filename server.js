@@ -17,7 +17,8 @@ Swisseph.swe_set_ephe_path (__dirname + './ephe');
 
 // Create a server with a host and port
 const server = new Hapi.Server();
-servr.connection({    
+
+server.connection({    
     port: port
 });
 
