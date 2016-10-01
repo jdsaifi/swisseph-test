@@ -57,29 +57,46 @@ server.route({
 
         // Julian day
         Swisseph.swe_julday (date.year, date.month, date.day, date.hour,
-            Swisseph.SE_GREG_CAL, function (julday_ut) {
-            console.log ('Julian UT day for date:', julday_ut);
+            Swisseph.SE_GREG_CAL, function (julday_ut) {            
 
             // Sun position
                 Swisseph.swe_calc_ut (julday_ut, Swisseph.SE_SUN, flag, function (body) {
+                    
                     let sunLng = body.longitude;
-                    let angle = Helper.getAngle(sunLng);
-                    let lineObject = linesData[angle];
+                    let sunLngUnconscious = sunLng - 79.999999;
+                    
+                    
+
+                    let angle = Helper.getAngle(sunLng);                    
+                    let lineObject = linesData[angle];                    
                     let lineFromObject = lineObject.lines;
                     let sunGate = (lineFromObject + "").split(".")[0];
                     let sunLine = (lineFromObject + "").split(".")[1];
-                    --sunGate;
+
+                    // Unconscious
+                    let angleUnconscious = Helper.getAngle(sunLngUnconscious);
+                    let lineObjectUnconscious = linesData[angleUnconscious];
+                    let lineFromObjectUnconscious = lineObjectUnconscious.lines;
+                    let sunGateUnconscious = (lineFromObjectUnconscious + "").split(".")[0];
+                    let sunLineUnconscious = (lineFromObjectUnconscious + "").split(".")[1];
+                    
+
+                    let sunGateMin = sunGate;
+
+                    --sunGateMin;
 
                     let adder = 0; //personal Incarnation
 
-                    if (sunLine == 4 ) {
+                    if (sunLine == 4 && sunLineUnconscious == 1) {
+
                         adder = 1; //Fixed Incarnation
                     }
                     else if (sunLine > 4)
                     {
                         adder = 2;//Interpersonal Incarnation
                     }
-                    let idxIncarnationTheme = ((sunGate*3)+adder);
+                    
+                    let idxIncarnationTheme = ( (sunGateMin * 3) +adder );
                     let incarnationString = incarnationThemes[idxIncarnationTheme]["Name Of Theme"];
                     let incarnationColour = incarnationThemes[idxIncarnationTheme]['Colour'];
 
